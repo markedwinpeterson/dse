@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_13:49</Creator>
+        <Created>2024-02-07T19:24:49.787+01:00</Created>
+        <LastChange>2024-02-08T13:49:19.550+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963952" pageNr="36" tsid="147995664" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=SCNMKDJSZOAHWCTVYYOGJKYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLMLPKWNNHBMHZAPQGTMXIMK" imageId="51988652"/>
+    </Metadata>
+    <Page imageFilename="p036.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669778867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="513,320 1985,320 1985,1240 513,1240"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="983,389 1037,401 1062,383 1125,389 1160,416 1208,398 1259,418 1353,389 1412,418 1484,400 1486,341 1444,317 1324,333 1228,307 1197,333 1171,317 1142,339 1107,326 1062,342 985,339"/>
+                <Baseline points="994,376 997,373 1041,373 1086,373 1131,373 1176,373 1221,373 1265,373 1310,373 1355,370 1400,370 1444,370 1489,370"/>
+                <TextEquiv>
+                    <Unicode>ANCIENT LITERATURE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="703,503 1896,495 1963,484 1963,389 1838,425 1550,387 1491,425 703,420"/>
+                <Baseline points="713,480 758,480 803,480 847,477 892,477 937,471 982,474 1027,474 1071,474 1116,477 1161,474 1206,477 1250,477 1295,474 1340,474 1385,474 1430,471 1474,471 1519,471 1564,471 1609,468 1653,468 1698,465 1743,468 1788,468 1833,468 1877,468 1922,471 1967,471"/>
+                <TextEquiv>
+                    <Unicode>Joannis Freinshemii Supplementis, Tabulis Geographi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="713,534 1869,554 1959,541 1959,482 713,495"/>
+                <Baseline points="722,531 755,534 800,534 844,534 889,531 934,531 979,531 1024,531 1068,528 1113,528 1158,525 1203,528 1247,528 1292,528 1337,528 1382,528 1427,528 1471,528 1516,528 1561,528 1606,528 1650,525 1695,525 1740,525 1785,522 1830,525 1874,525 1919,525 1964,528"/>
+                <TextEquiv>
+                    <Unicode>cis, &amp;c. Recensuit et Notulis auxit Joannes Clericus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="727,600 1455,591 1456,547 1434,539 1079,558 1018,541 978,571 908,539 836,558 729,543"/>
+                <Baseline points="737,588 743,585 788,585 832,585 877,585 922,582 967,582 1012,585 1056,585 1101,585 1146,585 1191,582 1236,582 1280,585 1325,582 1370,582 1415,582 1459,579"/>
+                <TextEquiv>
+                    <Unicode>Tom. 10. Amstelædami, 1710.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="506,663 1968,652 1968,593 506,609"/>
+                <Baseline points="516,641 555,641 600,641 644,641 689,638 710,638 719,638 764,641 809,638 853,638 898,638 943,635 988,638 1032,638 1077,638 1122,638 1167,638 1212,635 1256,635 1301,632 1346,635 1391,632 1436,632 1480,632 1525,635 1570,635 1615,632 1659,632 1704,632 1749,635 1794,632 1839,632 1883,632 1928,632 1973,635"/>
+                <TextEquiv>
+                    <Unicode>Livius, 197, O. T. Livii Patavini Historiarum ab Urbe condita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="724,709 1011,702 1044,711 1066,702 1105,713 1105,661 1068,648 1003,657 932,646 869,665 841,646 786,657 724,650"/>
+                <Baseline points="734,692 779,692 824,692 868,692 913,692 958,686 1003,692 1047,692 1092,692 1110,692"/>
+                <TextEquiv>
+                    <Unicode>Libri. Tom. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="503,755 1821,764 1961,753 1963,702 505,707"/>
+                <Baseline points="513,746 534,746 579,749 623,749 668,749 713,746 758,749 803,746 847,746 892,746 937,743 982,743 1027,743 1071,746 1116,743 1161,743 1206,743 1250,743 1295,743 1340,740 1385,737 1430,737 1474,737 1519,737 1564,737 1609,737 1653,737 1698,737 1743,737 1788,737 1833,740 1877,740 1922,740 1967,737"/>
+                <TextEquiv>
+                    <Unicode>Longinus, 137, O. Dionysii Longini de Sublimitate Commenta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="722,814 1788,819 1963,803 1965,755 724,762"/>
+                <Baseline points="731,800 758,800 803,800 847,800 892,797 937,797 982,797 1027,797 1071,797 1116,797 1161,797 1206,797 1250,794 1295,797 1340,794 1385,794 1430,794 1474,794 1519,794 1564,791 1609,794 1653,794 1698,791 1743,794 1788,794 1833,794 1877,794 1922,794 1967,791"/>
+                <TextEquiv>
+                    <Unicode>rius. Cum Verdione et Notis Zachariae Pearce, A. M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="722,867 1913,871 1963,858 1963,805 722,816"/>
+                <Baseline points="731,853 758,853 803,856 847,856 892,853 937,850 982,850 1027,850 1071,847 1116,850 1161,850 1206,853 1250,850 1295,850 1340,850 1385,847 1430,847 1474,847 1519,847 1564,847 1609,847 1653,847 1698,844 1743,847 1788,847 1833,844 1877,847 1922,847 1967,844"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. Accessit Fr. Porti Cretensis in Longinum Com-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="713,926 1792,937 1968,924 1968,858 713,869"/>
+                <Baseline points="722,904 767,907 812,907 856,907 901,907 946,904 991,904 1035,904 1080,904 1125,907 1170,904 1215,904 1259,907 1304,901 1349,904 1394,904 1439,904 1483,904 1528,901 1573,904 1618,901 1662,901 1707,901 1752,898 1797,901 1842,901 1886,904 1931,904 1973,907"/>
+                <TextEquiv>
+                    <Unicode>mentarius integer. Græce et Latine. Amstelædami,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="729,980 744,980 749,972 759,976 770,972 775,978 797,974 836,978 843,970 860,970 858,922 845,922 843,926 830,915 819,924 764,922 760,928 748,919 744,924 727,921"/>
+                <Baseline points="740,961 785,958 829,961 865,961"/>
+                <TextEquiv>
+                    <Unicode>1733.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="512,1040 1974,1040 1974,963 512,978"/>
+                <Baseline points="522,1018 540,1015 585,1018 629,1018 674,1015 719,1015 743,1015 767,1015 812,1015 856,1015 901,1012 946,1015 991,1015 1035,1015 1080,1015 1125,1012 1170,1012 1215,1015 1259,1012 1304,1012 1349,1012 1394,1009 1439,1009 1483,1009 1528,1009 1573,1006 1618,1009 1662,1006 1707,1009 1752,1009 1797,1009 1842,1009 1886,1009 1931,1009 1976,1009"/>
+                <TextEquiv>
+                    <Unicode>Lucanus, 43, D. M. Annaeus Lucanus de Bello Civili: cum Hu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="718,1094 1939,1081 1965,1026 720,1033"/>
+                <Baseline points="728,1068 761,1065 806,1068 850,1068 895,1065 940,1065 985,1068 1030,1065 1074,1068 1119,1068 1164,1068 1209,1065 1253,1065 1298,1065 1343,1065 1388,1065 1433,1062 1477,1062 1522,1062 1567,1062 1612,1059 1656,1059 1701,1062 1746,1062 1791,1062 1836,1062 1880,1062 1925,1062 1970,1059"/>
+                <TextEquiv>
+                    <Unicode>gonis Grotii, Fernabii Notis integris, et Variorum selec¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="727,1127 1874,1140 1974,1132 1974,1075 727,1090"/>
+                <Baseline points="737,1122 770,1119 815,1119 859,1119 904,1122 949,1122 994,1119 1038,1119 1083,1119 1128,1119 1173,1119 1218,1119 1262,1119 1307,1116 1352,1119 1397,1119 1442,1116 1486,1116 1531,1113 1576,1116 1621,1113 1665,1113 1710,1113 1755,1116 1800,1116 1845,1116 1889,1116 1934,1116 1979,1119"/>
+                <TextEquiv>
+                    <Unicode>tissimis; accurante Cornelio Schrevelio.—Item, Petronii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="722,1189 1974,1189 1974,1131 1898,1123 722,1131"/>
+                <Baseline points="731,1176 770,1173 815,1173 859,1173 904,1173 949,1173 994,1173 1038,1173 1083,1170 1128,1170 1173,1170 1218,1173 1262,1173 1307,1173 1352,1173 1397,1173 1442,1173 1486,1170 1531,1170 1576,1170 1621,1170 1665,1170 1710,1170 1755,1170 1800,1170 1845,1170 1889,1170 1934,1170 1979,1170"/>
+                <TextEquiv>
+                    <Unicode>Arbitri specimen Belli Civilis,—Item, Supplementum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="724,1243 1983,1252 1983,1184 1922,1178 724,1188"/>
+                <Baseline points="734,1224 779,1227 824,1227 868,1227 913,1224 958,1227 1003,1224 1047,1224 1092,1227 1137,1227 1182,1227 1227,1227 1271,1227 1316,1227 1361,1227 1406,1227 1450,1224 1495,1224 1540,1224 1585,1224 1630,1224 1674,1224 1719,1224 1764,1224 1809,1224 1854,1224 1898,1227 1943,1227 1985,1230"/>
+                <TextEquiv>
+                    <Unicode>Lucani Libri septem. Author Thoma Maio, Anglo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="516,1224 1988,1224 1988,1875 516,1875"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="718,1294 899,1296 948,1278 1033,1304 1215,1283 1250,1296 1311,1289 1311,1245 1112,1252 1075,1234 1029,1248 967,1234 924,1258 845,1235 816,1254 751,1237 718,1252"/>
+                <Baseline points="728,1277 773,1280 818,1280 862,1280 907,1280 952,1277 997,1277 1041,1274 1086,1280 1131,1280 1176,1277 1221,1277 1265,1277 1310,1277 1316,1277"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. Lugduni, 1670.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="690,1348 1871,1355 1972,1342 1974,1293 692,1293"/>
+                <Baseline points="701,1328 746,1331 791,1334 835,1334 880,1331 925,1331 970,1331 1015,1331 1059,1331 1104,1331 1149,1331 1194,1334 1238,1334 1283,1331 1328,1331 1373,1331 1418,1331 1462,1331 1507,1331 1552,1328 1597,1331 1642,1331 1686,1331 1731,1331 1776,1328 1821,1328 1865,1328 1910,1331 1955,1331 1976,1328"/>
+                <TextEquiv>
+                    <Unicode>127, F. M. Annei Lucani Pharsalia, cum duobus com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="718,1388 1974,1405 1957,1340 718,1350"/>
+                <Baseline points="728,1382 773,1385 818,1385 862,1385 907,1385 952,1385 997,1385 1041,1385 1086,1385 1131,1388 1176,1385 1221,1388 1265,1385 1310,1385 1355,1385 1400,1388 1444,1385 1489,1385 1534,1385 1579,1385 1624,1385 1668,1385 1713,1385 1758,1385 1803,1382 1848,1385 1892,1385 1937,1385 1979,1388"/>
+                <TextEquiv>
+                    <Unicode>mentis Joannis Sulpitii Verulani et Omniboni Vicentini,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="727,1456 932,1444 1097,1466 1270,1445 1305,1458 1305,1399 1276,1394 1197,1399 1175,1420 1103,1396 1051,1409 1018,1394 727,1396"/>
+                <Baseline points="737,1439 782,1439 826,1439 871,1439 916,1439 961,1436 1006,1439 1050,1436 1095,1436 1140,1439 1185,1439 1230,1439 1274,1436 1310,1439"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. Venetiis, 1505</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="690,1508 1600,1515 1598,1458 1543,1447 689,1455"/>
+                <Baseline points="701,1489 746,1492 791,1495 835,1492 880,1492 925,1492 970,1489 1015,1492 1059,1492 1104,1492 1149,1495 1194,1492 1238,1492 1283,1492 1328,1492 1373,1492 1418,1492 1462,1492 1507,1492 1552,1492 1597,1492 1603,1492"/>
+                <TextEquiv>
+                    <Unicode>297, O. See Opuscula Mythologica, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="506,1556 1983,1563 1983,1495 506,1495"/>
+                <Baseline points="516,1546 561,1546 606,1546 650,1546 695,1546 740,1546 785,1546 829,1543 874,1543 919,1543 964,1543 1009,1546 1053,1546 1098,1546 1143,1546 1188,1546 1233,1546 1277,1546 1322,1546 1367,1546 1412,1546 1456,1546 1501,1546 1546,1543 1591,1543 1636,1546 1680,1543 1725,1543 1770,1543 1815,1543 1859,1543 1904,1543 1949,1543 1988,1546"/>
+                <TextEquiv>
+                    <Unicode>Lucianus, 280, O. Luciani Samosatensis Opera. Ex Versione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="724,1604 1974,1617 1955,1554 724,1565"/>
+                <Baseline points="734,1600 779,1600 824,1600 868,1597 913,1597 958,1597 1003,1597 1047,1597 1092,1600 1137,1600 1182,1600 1227,1600 1271,1600 1316,1600 1361,1600 1406,1600 1450,1597 1495,1597 1540,1597 1585,1594 1630,1594 1674,1597 1719,1597 1764,1597 1809,1597 1854,1597 1898,1597 1943,1600 1979,1603"/>
+                <TextEquiv>
+                    <Unicode>Joannis Benedicti. Cum Notis integris Bourdelotii,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="729,1672 1974,1668 1946,1606 729,1606"/>
+                <Baseline points="740,1650 770,1653 815,1653 859,1653 904,1650 949,1650 994,1653 1038,1653 1083,1653 1128,1653 1173,1653 1218,1650 1262,1653 1307,1650 1352,1653 1397,1650 1442,1653 1486,1653 1531,1650 1576,1650 1621,1650 1665,1650 1710,1648 1755,1650 1800,1650 1845,1650 1889,1650 1934,1650 1979,1648"/>
+                <TextEquiv>
+                    <Unicode>Palmerii Tan. Fabri, Menagii, Guieti, Graevii, Grono¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="724,1709 1983,1720 1957,1661 724,1670"/>
+                <Baseline points="734,1701 779,1704 824,1704 868,1704 913,1704 958,1704 1003,1704 1047,1704 1092,1707 1137,1707 1182,1704 1227,1704 1271,1704 1316,1704 1361,1704 1406,1704 1450,1704 1495,1704 1540,1704 1585,1704 1630,1704 1674,1704 1719,1704 1764,1701 1809,1704 1854,1704 1898,1704 1943,1704 1985,1704"/>
+                <TextEquiv>
+                    <Unicode>vii, Barlaei, Tollii, et selectis aliorum. Accedunt in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="722,1769 1966,1779 1983,1722 722,1733"/>
+                <Baseline points="731,1755 776,1758 821,1758 865,1761 910,1758 955,1758 1000,1761 1044,1761 1089,1761 1134,1761 1179,1761 1224,1761 1268,1758 1313,1758 1358,1758 1403,1758 1447,1758 1492,1758 1537,1758 1582,1758 1627,1755 1671,1755 1716,1755 1761,1758 1806,1758 1851,1758 1895,1758 1940,1758 1985,1761 1988,1761"/>
+                <TextEquiv>
+                    <Unicode>edita Scholia in Lucianum, ex Bibliotheca Isaaci Vossii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="724,1806 937,1836 1873,1830 1860,1769 1182,1768 1151,1795 722,1769"/>
+                <Baseline points="734,1806 779,1809 824,1809 868,1809 913,1812 958,1815 1003,1815 1047,1815 1092,1812 1137,1812 1182,1815 1227,1815 1271,1812 1316,1812 1361,1815 1406,1815 1450,1815 1495,1812 1540,1809 1585,1812 1630,1812 1674,1812 1719,1812 1764,1812 1809,1809 1854,1812 1877,1812"/>
+                <TextEquiv>
+                    <Unicode>Græce et Latine. Tom. 2. Amstelodami, 1687.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="696,1876 1983,1889 1983,1834 1935,1821 696,1832"/>
+                <Baseline points="707,1859 752,1859 797,1862 841,1862 886,1862 931,1865 976,1865 1021,1865 1065,1865 1110,1865 1155,1865 1200,1862 1244,1862 1289,1862 1334,1862 1379,1862 1424,1862 1468,1865 1513,1865 1558,1862 1603,1865 1648,1862 1692,1862 1737,1862 1782,1865 1827,1865 1871,1862 1916,1862 1961,1862 1985,1859"/>
+                <TextEquiv>
+                    <Unicode>45, D. Luciani Samosatensis Dalogorumölktorum li¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:2;}">
+            <Coords points="528,1863 1994,1863 1994,2947 528,2947"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="724,1937 1978,1930 1978,1887 1777,1900 1657,1865 724,1884"/>
+                <Baseline points="734,1913 779,1916 824,1916 868,1916 913,1916 958,1919 1003,1916 1047,1919 1092,1916 1137,1916 1182,1916 1227,1919 1271,1919 1316,1919 1361,1916 1406,1919 1450,1919 1495,1919 1540,1919 1585,1916 1630,1919 1674,1916 1719,1919 1764,1919 1809,1916 1854,1919 1898,1919 1943,1919 1982,1919"/>
+                <TextEquiv>
+                    <Unicode>bri duo, a Gulielmo Du-gardo recogniti, &amp;c. Graece</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="729,1979 1363,1994 1361,1939 1300,1926 1215,1946 1129,1924 1103,1943 1027,1928 1005,1948 810,1922 727,1941"/>
+                <Baseline points="740,1967 785,1970 829,1970 874,1970 919,1970 964,1970 1009,1970 1053,1973 1098,1970 1143,1970 1188,1973 1233,1973 1277,1973 1322,1973 1367,1970"/>
+                <TextEquiv>
+                    <Unicode>et Latine. Londini, 1737.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="705,2040 768,2033 803,2046 834,2027 976,2042 994,2027 1075,2051 1200,2033 1200,2001 1167,1987 1092,1996 992,1974 967,1990 705,1985"/>
+                <Baseline points="716,2021 761,2021 806,2021 850,2021 895,2024 940,2021 985,2024 1030,2024 1074,2024 1119,2024 1164,2024 1203,2024"/>
+                <TextEquiv>
+                    <Unicode>360, O. See Æsopus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="517,2121 922,2079 1963,2103 1983,2031 1786,1990 1477,2046 1434,2014 517,2046"/>
+                <Baseline points="528,2074 573,2074 618,2074 662,2077 707,2080 752,2077 797,2077 841,2077 886,2074 931,2077 976,2074 1021,2074 1065,2077 1110,2077 1155,2077 1200,2077 1244,2077 1289,2077 1334,2077 1379,2077 1424,2077 1468,2077 1513,2077 1558,2077 1603,2077 1648,2077 1692,2074 1737,2077 1782,2077 1827,2077 1871,2077 1916,2077 1961,2077 1988,2080"/>
+                <TextEquiv>
+                    <Unicode>Lucian, 24, D. The Oiect Dialogues of Lucian, in Greek. With</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="729,2130 1979,2156 1979,2097 1915,2086 729,2090"/>
+                <Baseline points="740,2128 785,2131 829,2128 874,2128 919,2128 964,2128 1009,2128 1053,2125 1098,2128 1143,2131 1188,2131 1233,2131 1277,2131 1322,2131 1367,2134 1412,2134 1456,2131 1501,2131 1546,2134 1591,2134 1636,2134 1680,2131 1725,2131 1770,2131 1815,2131 1859,2131 1904,2134 1949,2137 1982,2134"/>
+                <TextEquiv>
+                    <Unicode>a new literal Translation in Latin, and Notes in Eng¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="736,2202 1876,2208 1865,2143 897,2140 845,2171 736,2141"/>
+                <Baseline points="746,2182 791,2185 835,2182 880,2182 925,2182 970,2182 1015,2185 1059,2185 1104,2185 1149,2185 1194,2185 1238,2188 1283,2188 1328,2185 1373,2185 1418,2185 1462,2185 1507,2185 1552,2185 1597,2185 1642,2185 1686,2185 1731,2185 1776,2185 1821,2185 1865,2185 1880,2185"/>
+                <TextEquiv>
+                    <Unicode>lish. By Edward Murphy, M. A. Dublin, 1785.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="527,2254 1965,2267 1979,2189 527,2210"/>
+                <Baseline points="537,2236 582,2236 626,2236 671,2236 716,2236 761,2236 806,2236 850,2236 895,2236 940,2236 985,2239 1030,2239 1074,2239 1119,2239 1164,2239 1209,2239 1253,2239 1298,2239 1343,2239 1388,2239 1433,2239 1477,2239 1522,2236 1567,2239 1612,2239 1656,2239 1701,2239 1746,2239 1791,2239 1836,2239 1880,2236 1925,2236 1970,2239 1982,2239"/>
+                <TextEquiv>
+                    <Unicode>Lucretius, 88, Q. T. Lucretii Cari de Rerum Natura, libri VI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="736,2296 1981,2325 1981,2263 1856,2246 736,2256"/>
+                <Baseline points="746,2289 791,2292 835,2292 880,2289 925,2292 970,2289 1015,2289 1059,2289 1104,2292 1149,2292 1194,2295 1238,2292 1283,2292 1328,2292 1373,2292 1418,2292 1462,2289 1507,2292 1552,2292 1597,2292 1642,2289 1686,2292 1731,2292 1776,2292 1821,2292 1865,2295 1910,2292 1955,2292 1985,2292"/>
+                <TextEquiv>
+                    <Unicode>a Dion. Lambino, Monstroliensi ex auctoritate quinque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="736,2357 1981,2366 1981,2325 1915,2303 736,2298"/>
+                <Baseline points="746,2340 791,2343 835,2343 880,2340 925,2340 970,2343 1015,2343 1059,2343 1104,2346 1149,2346 1194,2346 1238,2346 1283,2346 1328,2346 1373,2346 1418,2346 1462,2343 1507,2343 1552,2343 1597,2343 1642,2346 1686,2343 1731,2343 1776,2343 1821,2343 1865,2343 1910,2346 1955,2346 1985,2349"/>
+                <TextEquiv>
+                    <Unicode>Codd. MSS. emendati, et commentariis illustrati, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="736,2403 1018,2401 1131,2443 1978,2425 1978,2366 1898,2357 736,2359"/>
+                <Baseline points="746,2394 791,2397 835,2394 880,2394 925,2397 970,2397 1015,2397 1059,2397 1104,2397 1149,2400 1194,2400 1238,2403 1283,2400 1328,2400 1373,2400 1418,2400 1462,2403 1507,2403 1552,2403 1597,2400 1642,2403 1686,2400 1731,2400 1776,2400 1821,2400 1865,2400 1910,2400 1955,2403 1982,2400"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. Cum Sea Lucretii, eodem Lambino auctore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="736,2464 792,2482 860,2454 906,2458 928,2475 954,2454 970,2464 1031,2458 1059,2475 1084,2467 1084,2414 1068,2407 996,2412 983,2399 928,2425 878,2407 792,2421 736,2403"/>
+                <Baseline points="746,2448 791,2451 835,2448 880,2448 925,2448 970,2451 1015,2448 1059,2451 1089,2454"/>
+                <TextEquiv>
+                    <Unicode>Lutetiae, 1570.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="527,2510 1458,2537 1458,2432 1410,2425 1328,2451 1213,2434 1151,2475 862,2454 803,2484 670,2425 574,2451 527,2432"/>
+                <Baseline points="537,2501 582,2501 626,2501 671,2501 716,2501 761,2504 806,2501 850,2501 895,2501 940,2501 985,2504 1030,2501 1074,2504 1119,2507 1164,2504 1209,2504 1253,2507 1298,2507 1343,2507 1388,2507 1433,2507 1462,2507"/>
+                <TextEquiv>
+                    <Unicode> Uachaneus, 156, O. See Jurelius Victor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="532,2574 1177,2572 1177,2523 1136,2513 1090,2528 992,2515 956,2535 921,2513 808,2508 786,2530 733,2510 705,2534 532,2510"/>
+                <Baseline points="543,2555 588,2555 632,2555 677,2555 722,2555 767,2558 785,2555 797,2558 841,2555 886,2555 931,2555 976,2555 1021,2555 1065,2558 1110,2558 1155,2561 1182,2561"/>
+                <TextEquiv>
+                    <Unicode>Maius, 43, D. See Lucanus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="532,2618 1189,2629 1189,2561 1140,2587 963,2559 930,2581 908,2563 860,2591 832,2565 783,2583 724,2561 655,2581 532,2565"/>
+                <Baseline points="543,2609 588,2609 632,2609 677,2609 722,2609 767,2612 779,2609 791,2612 835,2612 880,2612 925,2609 970,2609 1015,2606 1059,2612 1104,2612 1149,2612 1194,2615 1197,2612"/>
+                <TextEquiv>
+                    <Unicode>Manutius, 38, Q. See Cicero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="530,2683 1547,2681 1571,2620 1455,2637 1337,2591 1136,2642 530,2624"/>
+                <Baseline points="540,2663 585,2663 629,2660 674,2663 719,2663 764,2666 809,2663 853,2663 898,2663 943,2663 988,2663 1032,2663 1077,2666 1122,2666 1167,2666 1212,2669 1256,2666 1301,2669 1346,2666 1391,2666 1436,2666 1480,2666 1525,2663 1570,2663 1576,2663"/>
+                <TextEquiv>
+                    <Unicode>Marcellus, 335, O. See Poetae Latini Minores.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="527,2725 1560,2731 1560,2679 1510,2670 527,2683"/>
+                <Baseline points="537,2716 582,2716 626,2716 671,2716 716,2716 761,2719 806,2719 850,2719 895,2716 940,2719 985,2713 1030,2713 1074,2716 1119,2719 1164,2719 1209,2719 1253,2719 1298,2719 1343,2719 1388,2719 1433,2719 1477,2719 1522,2719 1564,2719"/>
+                <TextEquiv>
+                    <Unicode>Martialis, 71, Q. See Scriptores Rei Rusticæ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="713,2780 1978,2793 1989,2703 1698,2694 1515,2743 711,2727"/>
+                <Baseline points="722,2770 767,2770 812,2770 856,2773 901,2770 946,2770 991,2767 1035,2767 1080,2773 1125,2770 1170,2770 1215,2773 1259,2773 1304,2776 1349,2773 1394,2773 1439,2773 1483,2776 1528,2773 1573,2776 1618,2773 1662,2776 1707,2776 1752,2776 1797,2773 1842,2773 1886,2773 1931,2773 1976,2773 1994,2773"/>
+                <TextEquiv>
+                    <Unicode>286, O. M. Valerii Materialis Epigrammata, cum Notis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="746,2836 1989,2852 1989,2793 1939,2782 746,2782"/>
+                <Baseline points="755,2821 800,2824 844,2824 889,2821 934,2824 979,2824 1024,2824 1068,2824 1113,2827 1158,2827 1203,2827 1247,2827 1292,2827 1337,2827 1382,2827 1427,2827 1471,2827 1516,2827 1561,2830 1606,2830 1650,2830 1695,2830 1740,2830 1785,2830 1830,2830 1874,2827 1919,2827 1964,2827 1994,2830"/>
+                <TextEquiv>
+                    <Unicode>Farnabii et Variorum. Accurante Cornelio Schrevelio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="742,2893 963,2883 1011,2902 1245,2882 1328,2909 1366,2891 1366,2839 1342,2834 1239,2850 1156,2832 1094,2852 952,2824 902,2850 742,2836"/>
+                <Baseline points="752,2878 797,2878 841,2881 886,2881 931,2878 976,2881 1021,2881 1065,2881 1110,2881 1155,2881 1200,2881 1244,2878 1289,2878 1334,2878 1370,2881"/>
+                <TextEquiv>
+                    <Unicode>Lugduni Batavorum, 1661.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="530,2972 591,2952 648,2977 700,2940 895,2974 1003,2942 1073,2942 1112,2972 1285,2952 1285,2893 1245,2882 770,2904 689,2865 530,2871"/>
+                <Baseline points="540,2931 585,2928 629,2931 674,2931 719,2934 764,2931 809,2934 853,2937 898,2934 943,2934 988,2934 1032,2934 1077,2934 1122,2934 1167,2934 1212,2934 1256,2934 1289,2934"/>
+                <TextEquiv>
+                    <Unicode>Masvicius, 51, Q. See Virgilius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

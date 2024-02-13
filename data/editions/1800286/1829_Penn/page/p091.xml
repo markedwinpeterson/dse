@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_10:49</Creator>
+        <Created>2024-02-07T19:24:56.382+01:00</Created>
+        <LastChange>2024-02-08T10:49:26.242+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64964054" pageNr="91" tsid="147978436" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=MUYGEHWSTRPEHHMDEXEXZVLZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSMNLKQMANJBEMFVVPBJRKPO" imageId="51988753"/>
+    </Metadata>
+    <Page imageFilename="p091.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669797344" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="635,309 635,2845 2107,2845 2107,309"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1135,363 1271,372 1287,358 1340,376 1373,358 1428,372 1463,359 1496,374 1559,363 1594,374 1592,308 1561,299 1515,310 1373,292 1357,306 1331,293 1298,312 1284,301 1243,312 1135,268"/>
+                <Baseline points="1146,334 1172,336 1198,337 1225,337 1251,337 1277,337 1304,337 1330,337 1356,337 1383,337 1409,337 1435,337 1462,337 1488,337 1514,337 1541,337 1567,337 1594,337"/>
+                <TextEquiv>
+                    <Unicode>MEDICAL SCIANCES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="623,356 634,356 660,376 666,370 675,369 684,378 691,374 706,378 710,279 693,282 689,279 680,286 677,282 666,292 655,290 647,282 636,290 627,290"/>
+                <Baseline points="635,340 661,338 687,337 713,337"/>
+                <TextEquiv>
+                    <Unicode>78</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="853,447 2089,479 2089,385 1955,402 1891,363 1804,411 1665,376 853,391"/>
+                <Baseline points="862,438 923,435 985,435 1046,438 1108,435 1169,438 1231,435 1292,435 1354,438 1415,438 1477,438 1538,438 1600,438 1661,438 1723,438 1784,440 1846,441 1907,439 1969,441 2030,441 2092,441"/>
+                <TextEquiv>
+                    <Unicode>M. D. Plates. Vol. I. Philad. 1824. [Presented</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="844,504 893,513 987,502 1053,523 1075,504 1093,513 1126,499 1192,502 1192,471 1124,466 1086,444 1065,455 1049,442 944,449 899,466 842,438"/>
+                <Baseline points="853,492 879,490 905,489 932,489 958,489 985,489 1011,489 1038,489 1064,491 1091,492 1117,492 1144,492 1170,492 1197,492"/>
+                <TextEquiv>
+                    <Unicode>by the Author.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="640,550 822,583 893,550 2090,556 2090,495 1722,462 1016,532 811,469 640,486"/>
+                <Baseline points="650,546 722,549 794,549 866,549 939,544 1011,546 1083,546 1155,546 1228,546 1300,543 1372,546 1444,546 1517,545 1589,546 1661,546 1733,546 1806,546 1878,546 1950,546 2022,546 2095,549"/>
+                <TextEquiv>
+                    <Unicode>Gregory, 73, O. A Dissertation on the Influence of a Change of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="849,611 2090,627 2090,556 849,552"/>
+                <Baseline points="859,597 920,597 982,597 1044,594 1106,597 1168,597 1229,597 1291,599 1353,600 1415,597 1477,597 1538,600 1600,597 1662,600 1724,599 1786,597 1847,597 1909,600 1971,600 2033,600 2095,603"/>
+                <TextEquiv>
+                    <Unicode>Climate in during Diseases, by Professor Gregory, of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="844,667 2085,673 2085,623 1982,601 1790,634 844,611"/>
+                <Baseline points="853,650 914,650 976,650 1038,650 1100,650 1162,650 1223,650 1285,650 1347,650 1409,653 1471,653 1532,650 1594,653 1656,653 1718,653 1780,653 1841,653 1903,653 1965,653 2027,653 2089,656"/>
+                <TextEquiv>
+                    <Unicode>Edandurgh. Translated from the Latin, with notes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="844,711 904,735 933,706 1542,746 1825,728 1808,658 1694,680 844,664"/>
+                <Baseline points="853,701 901,701 950,701 999,704 1048,704 1097,703 1146,703 1194,704 1243,706 1292,707 1341,707 1390,707 1439,707 1488,706 1536,704 1585,705 1634,706 1683,704 1732,706 1781,707 1830,707"/>
+                <TextEquiv>
+                    <Unicode>by W. P. C. Barton, M. D. Philad. 1815.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="644,768 732,763 783,787 910,761 950,787 1045,765 1098,783 1141,763 1179,783 1238,767 1238,730 1177,730 1157,711 959,724 932,706 888,735 801,682 644,675"/>
+                <Baseline points="653,755 682,757 711,758 741,758 770,760 800,761 829,761 858,759 888,757 917,755 947,757 976,757 1005,755 1035,757 1064,758 1094,758 1123,758 1152,758 1182,758 1211,758 1241,758"/>
+                <TextEquiv>
+                    <Unicode>Greive, 71, O. See Celsus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="631,840 2087,840 2087,778 1694,730 1562,790 1454,734 1185,790 631,761"/>
+                <Baseline points="641,812 713,812 786,812 858,809 931,812 1003,812 1076,811 1148,809 1221,809 1293,812 1366,812 1439,812 1511,812 1584,812 1656,812 1729,812 1801,812 1874,812 1946,812 2019,812 2092,806"/>
+                <TextEquiv>
+                    <Unicode>Hafenrefferus, 331. O. Officina Jatrica, continens Pharmaca se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="844,888 2089,886 2089,842 2028,820 844,822"/>
+                <Baseline points="853,865 918,865 983,865 1048,864 1113,862 1179,862 1244,862 1309,863 1374,865 1439,865 1505,865 1570,865 1635,862 1700,862 1765,863 1831,865 1896,865 1961,865 2026,865 2092,868"/>
+                <TextEquiv>
+                    <Unicode>lecta Hippocratico-Galenica, et Hermetica Paracelsica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="853,944 2094,933 2052,871 853,878"/>
+                <Baseline points="862,916 923,919 985,917 1047,916 1109,916 1171,916 1232,916 1294,916 1356,919 1418,917 1480,917 1541,919 1603,916 1665,919 1727,919 1789,919 1850,919 1912,916 1974,916 2036,916 2098,916"/>
+                <TextEquiv>
+                    <Unicode>juxta Morborum Seriem, causarumque Indicem disposita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="840,985 2074,999 2085,932 840,954"/>
+                <Baseline points="850,970 915,971 980,973 1045,971 1110,971 1176,970 1241,972 1306,973 1371,973 1436,973 1502,971 1567,970 1632,972 1697,970 1762,972 1828,970 1893,971 1958,971 2023,970 2089,970"/>
+                <TextEquiv>
+                    <Unicode>et condita per Samuelem Hafenrefferum, Phil. et Med.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="840,1031 921,1049 977,1025 1021,1051 1078,1025 1241,1045 1348,1027 1372,1038 1397,1032 1397,979 1210,999 1133,974 1087,1012 999,977 935,994 840,987"/>
+                <Baseline points="850,1024 877,1022 905,1022 932,1023 960,1024 987,1024 1015,1024 1042,1024 1070,1024 1097,1024 1125,1024 1152,1024 1180,1024 1207,1024 1235,1024 1262,1024 1290,1024 1317,1024 1345,1024 1372,1023 1400,1021"/>
+                <TextEquiv>
+                    <Unicode>Prof. &amp;c. Ulmae, 1653.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="625,1109 2087,1087 2043,1023 1885,1031 1826,988 1674,1049 1482,1009 800,1045 625,1001"/>
+                <Baseline points="635,1077 707,1077 780,1077 853,1074 926,1071 999,1074 1072,1075 1144,1075 1217,1077 1290,1077 1363,1077 1436,1077 1509,1077 1582,1077 1654,1075 1727,1077 1800,1074 1873,1077 1946,1077 2019,1074 2092,1068"/>
+                <TextEquiv>
+                    <Unicode>Haller, 140—10, O. Pathological Observations, chiefly from Dis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="836,1139 1993,1157 2087,1126 2087,1087 1091,1080 836,1115"/>
+                <Baseline points="847,1128 909,1128 971,1128 1033,1128 1096,1128 1158,1128 1220,1129 1282,1128 1345,1129 1407,1131 1469,1131 1531,1131 1594,1131 1656,1131 1718,1131 1780,1128 1843,1128 1905,1128 1967,1128 2029,1126 2092,1119"/>
+                <TextEquiv>
+                    <Unicode>sections of Morbid Bodies. By Dr. Albert Haller.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="840,1197 875,1203 902,1190 970,1207 998,1192 1036,1199 1058,1186 1082,1201 1119,1194 1159,1203 1179,1197 1181,1142 1102,1135 1084,1152 1062,1144 1031,1159 1020,1150 1003,1157 979,1137 908,1157 880,1137 842,1137"/>
+                <Baseline points="850,1182 875,1182 901,1182 927,1182 953,1182 978,1183 1004,1185 1030,1185 1056,1185 1081,1183 1107,1181 1133,1179 1159,1179 1185,1179"/>
+                <TextEquiv>
+                    <Unicode>London, 1756.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="627,1267 2094,1249 2083,1190 1586,1207 1498,1150 1100,1207 627,1183"/>
+                <Baseline points="638,1236 711,1236 784,1237 857,1236 930,1236 1003,1237 1076,1233 1149,1233 1222,1234 1295,1233 1368,1235 1441,1236 1514,1236 1587,1236 1660,1236 1733,1236 1806,1236 1879,1236 1952,1233 2025,1233 2098,1230"/>
+                <TextEquiv>
+                    <Unicode>Hare, 10, 0. A Viev of the structure, Functions, and Disorders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="840,1302 2090,1306 2090,1260 1951,1240 840,1258"/>
+                <Baseline points="850,1289 912,1289 974,1289 1036,1286 1099,1288 1161,1286 1223,1289 1285,1289 1348,1289 1410,1289 1472,1289 1534,1289 1597,1286 1659,1289 1721,1289 1783,1289 1846,1287 1908,1287 1970,1286 2032,1288 2095,1286"/>
+                <TextEquiv>
+                    <Unicode>of the St Mrnach and Alimentary Organe of the human</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="845,1361 2061,1361 2098,1307 847,1300"/>
+                <Baseline points="856,1343 918,1342 980,1343 1042,1340 1105,1340 1167,1343 1229,1343 1291,1343 1354,1343 1416,1343 1478,1340 1540,1340 1603,1343 1665,1342 1727,1340 1789,1343 1852,1340 1914,1340 1976,1340 2038,1340 2101,1337"/>
+                <TextEquiv>
+                    <Unicode>Body, with Physiological Observations and Remarks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="838,1412 2021,1417 2092,1403 2094,1350 840,1370"/>
+                <Baseline points="850,1394 912,1396 974,1394 1037,1394 1099,1394 1162,1397 1224,1394 1286,1394 1349,1394 1411,1394 1474,1394 1536,1394 1598,1392 1661,1394 1723,1394 1786,1394 1848,1394 1910,1394 1973,1394 2035,1392 2098,1388"/>
+                <TextEquiv>
+                    <Unicode>upon the qualities and effects of Food and bernented</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="836,1463 1770,1449 1938,1480 2094,1460 2094,1403 1935,1432 1801,1403 836,1414"/>
+                <Baseline points="847,1447 909,1447 972,1447 1034,1446 1097,1446 1159,1447 1222,1447 1284,1445 1347,1447 1409,1445 1472,1447 1535,1447 1597,1445 1660,1447 1722,1447 1785,1447 1847,1447 1910,1447 1972,1445 2035,1447 2098,1444"/>
+                <TextEquiv>
+                    <Unicode>Liquors; by Thomas Hare, F. L. S. &amp;c. Plato. Lon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="836,1507 919,1531 966,1509 1337,1524 1399,1500 1672,1529 1744,1507 1744,1478 1652,1456 1562,1476 1181,1454 1109,1478 987,1456 950,1487 836,1465"/>
+                <Baseline points="847,1498 892,1498 937,1501 982,1501 1027,1501 1072,1501 1117,1501 1162,1501 1207,1498 1252,1498 1298,1498 1343,1501 1388,1501 1433,1498 1478,1495 1523,1498 1568,1501 1613,1501 1658,1498 1703,1499 1749,1501"/>
+                <TextEquiv>
+                    <Unicode>don, 1821. [Presented by the Author.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="627,1568 2101,1575 2101,1520 2017,1504 627,1513"/>
+                <Baseline points="638,1552 711,1555 784,1552 857,1552 931,1555 1004,1555 1077,1552 1151,1552 1224,1555 1297,1553 1371,1552 1444,1552 1517,1552 1590,1552 1664,1552 1737,1552 1810,1552 1884,1552 1957,1552 2030,1552 2104,1552"/>
+                <TextEquiv>
+                    <Unicode>Hippocrates, 361, O. Aphorismi Hippocratis, Graece et Latine;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="844,1632 2098,1621 2098,1577 2043,1559 844,1573"/>
+                <Baseline points="853,1609 915,1606 977,1606 1040,1606 1102,1606 1165,1609 1227,1606 1289,1606 1352,1606 1414,1606 1477,1606 1539,1605 1601,1605 1664,1606 1726,1606 1789,1606 1851,1606 1913,1606 1976,1606 2038,1606 2101,1606"/>
+                <TextEquiv>
+                    <Unicode>juxta optimam editionem Theodori Janssoni ab Almelo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="845,1671 1293,1685 1414,1658 1788,1687 1825,1672 1825,1621 1465,1612 1405,1639 1366,1612 1128,1636 1071,1614 1036,1636 979,1608 845,1632"/>
+                <Baseline points="856,1659 904,1659 953,1659 1002,1661 1050,1660 1099,1661 1148,1662 1196,1662 1245,1659 1294,1658 1343,1657 1391,1658 1440,1656 1489,1659 1537,1658 1586,1657 1635,1658 1683,1657 1732,1657 1781,1656 1830,1656"/>
+                <TextEquiv>
+                    <Unicode>veen, M. D. Anno 1685. Edinburgi, 1736.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="631,1746 2096,1738 2096,1663 957,1691 631,1652"/>
+                <Baseline points="641,1713 713,1713 786,1713 859,1710 932,1710 1005,1711 1078,1713 1150,1713 1223,1713 1296,1713 1369,1712 1442,1713 1515,1710 1588,1710 1660,1710 1733,1710 1806,1711 1879,1713 1952,1713 2025,1716 2098,1713"/>
+                <TextEquiv>
+                    <Unicode>Holland, 140—1, O. An Inaugural Dissertation on Apoplexy, by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="849,1779 1825,1782 1812,1724 1460,1716 1355,1753 1295,1718 849,1724"/>
+                <Baseline points="859,1767 907,1765 956,1766 1004,1764 1053,1764 1101,1766 1150,1767 1198,1767 1247,1767 1295,1767 1344,1767 1393,1766 1441,1764 1490,1764 1538,1764 1587,1764 1635,1766 1684,1765 1732,1764 1781,1764 1830,1764"/>
+                <TextEquiv>
+                    <Unicode>N. L. Holland. A. B. Philadelphia, 1815.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="636,1836 906,1845 941,1826 977,1856 1021,1823 1093,1843 1207,1847 1265,1823 1335,1841 1335,1792 1265,1775 801,1788 638,1766"/>
+                <Baseline points="647,1818 681,1818 716,1818 750,1820 785,1821 820,1821 854,1821 889,1818 924,1818 958,1818 993,1818 1028,1818 1062,1818 1097,1818 1132,1818 1166,1818 1201,1818 1236,1818 1270,1818 1305,1817 1340,1815"/>
+                <TextEquiv>
+                    <Unicode>Horstius, 51. F. See Riverius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="631,1903 1986,1896 2096,1880 2096,1834 1729,1799 1606,1837 1533,1786 1427,1843 631,1848"/>
+                <Baseline points="641,1874 714,1874 787,1874 860,1871 933,1871 1006,1871 1079,1871 1152,1871 1225,1869 1298,1871 1371,1871 1444,1871 1517,1865 1590,1866 1663,1868 1736,1865 1809,1868 1882,1868 1955,1868 2028,1868 2101,1865"/>
+                <TextEquiv>
+                    <Unicode>Jenty, 249, O. A course of Anatomico-Physiological Lectures on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="840,1946 2089,1940 2103,1878 840,1883"/>
+                <Baseline points="850,1925 912,1925 975,1925 1038,1923 1101,1923 1164,1925 1227,1924 1289,1922 1352,1925 1415,1925 1478,1925 1541,1922 1604,1922 1667,1924 1729,1922 1792,1922 1855,1923 1918,1922 1981,1922 2044,1922 2107,1925"/>
+                <TextEquiv>
+                    <Unicode>the human structure and animal Œconomy; with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="844,1990 2085,2001 2050,1931 844,1940"/>
+                <Baseline points="853,1979 914,1977 976,1977 1038,1979 1100,1977 1162,1979 1223,1979 1285,1977 1347,1979 1409,1977 1471,1979 1532,1976 1594,1978 1656,1979 1718,1976 1780,1976 1841,1976 1903,1976 1965,1976 2027,1980 2089,1985"/>
+                <TextEquiv>
+                    <Unicode>Motes, &amp;c. &amp; c. &amp;.c. and Essays on Injecting, Dissecting,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="845,2050 2059,2043 2059,1997 2004,1984 1223,1984 1152,2017 1106,1979 943,2017 845,1988"/>
+                <Baseline points="856,2030 916,2030 976,2028 1037,2027 1097,2030 1157,2030 1218,2030 1278,2030 1338,2030 1399,2030 1459,2030 1519,2029 1580,2029 1640,2030 1700,2030 1761,2030 1821,2027 1881,2029 1942,2027 2002,2030 2063,2030"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. 3 vols. By Charles Nicholas Jenty, M. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="853,2078 999,2114 1025,2089 1194,2109 1630,2090 1630,2048 1599,2035 1491,2057 1296,2032 1265,2057 1207,2034 853,2046"/>
+                <Baseline points="862,2071 900,2076 939,2079 977,2082 1016,2082 1054,2081 1093,2083 1131,2083 1170,2083 1208,2085 1247,2086 1286,2085 1324,2083 1363,2083 1401,2083 1440,2083 1478,2083 1517,2083 1555,2082 1594,2080 1633,2083"/>
+                <TextEquiv>
+                    <Unicode>[Vol I. wanting.] London, 1757.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="634,2166 2085,2142 2052,2092 842,2114 636,2061"/>
+                <Baseline points="647,2140 719,2140 791,2140 863,2137 935,2138 1007,2140 1079,2139 1151,2137 1223,2137 1295,2137 1368,2137 1440,2134 1512,2134 1584,2134 1656,2134 1728,2134 1800,2134 1872,2134 1944,2134 2016,2134 2089,2128"/>
+                <TextEquiv>
+                    <Unicode>Lettsom, 18, Q. The Natural tistory of the Tea Tree, with ob¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="845,2199 2023,2210 2085,2204 2085,2144 845,2166"/>
+                <Baseline points="856,2191 917,2193 979,2191 1040,2189 1102,2191 1164,2191 1225,2191 1287,2188 1349,2189 1410,2191 1472,2188 1534,2188 1595,2188 1657,2185 1719,2187 1780,2188 1842,2188 1904,2188 1965,2188 2027,2186 2089,2185"/>
+                <TextEquiv>
+                    <Unicode>servations on theocdical Qualities of Tea, and on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="1458,2252 1515,2267 1584,2250 1661,2267 1713,2246 1790,2267 2094,2259 2094,2204 1458,2206"/>
+                <Baseline points="1468,2242 1499,2242 1531,2242 1562,2242 1594,2242 1625,2242 1657,2242 1688,2242 1720,2242 1751,2242 1783,2242 1814,2242 1846,2241 1877,2239 1909,2242 1940,2242 1972,2242 2003,2242 2035,2242 2066,2242 2098,2245"/>
+                <TextEquiv>
+                    <Unicode>By John Coakley Lettsom,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="845,2254 974,2248 1009,2265 1120,2250 1146,2268 1175,2250 1208,2265 1318,2248 1423,2268 1423,2208 1384,2215 1348,2195 1234,2191 1170,2217 1093,2195 1020,2228 988,2206 845,2202"/>
+                <Baseline points="856,2245 884,2245 913,2244 941,2242 970,2244 998,2245 1027,2243 1055,2242 1084,2242 1112,2244 1141,2244 1170,2242 1198,2242 1227,2242 1255,2242 1284,2242 1312,2242 1341,2242 1369,2243 1398,2245 1427,2245"/>
+                <TextEquiv>
+                    <Unicode>Effects of tea-drmaking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="849,2312 1729,2318 1801,2300 1801,2254 1474,2252 1432,2276 1291,2248 849,2256"/>
+                <Baseline points="859,2298 906,2298 953,2298 1001,2298 1048,2295 1095,2295 1143,2295 1190,2295 1237,2295 1285,2295 1332,2295 1379,2295 1427,2295 1474,2297 1521,2296 1569,2295 1616,2295 1663,2293 1711,2292 1758,2289 1806,2292"/>
+                <TextEquiv>
+                    <Unicode>M. D. Coloured Plato. London, 1799.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="636,2388 2092,2356 2092,2301 1817,2283 1060,2333 636,2270"/>
+                <Baseline points="647,2352 719,2352 791,2352 864,2350 936,2352 1009,2349 1081,2349 1153,2346 1226,2346 1298,2347 1371,2347 1443,2346 1515,2346 1588,2347 1660,2348 1733,2349 1805,2346 1877,2346 1950,2346 2022,2346 2095,2346"/>
+                <TextEquiv>
+                    <Unicode>Morgan, 203, 0. De Puopoiesi, sive Teutamen Medicum Inau¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="849,2426 1892,2411 1953,2441 2087,2424 2087,2356 849,2375"/>
+                <Baseline points="859,2403 920,2404 982,2406 1043,2403 1105,2403 1167,2403 1228,2403 1290,2403 1352,2403 1413,2403 1475,2403 1537,2403 1598,2403 1660,2403 1722,2400 1783,2402 1845,2403 1907,2402 1968,2402 2030,2403 2092,2406"/>
+                <TextEquiv>
+                    <Unicode>garale de Puris Confectione. Auctore Johanne Morgan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="844,2474 974,2465 1018,2488 1111,2455 1238,2481 1293,2463 1353,2490 1405,2468 1491,2476 1529,2461 1529,2422 1416,2411 1368,2432 1196,2408 1115,2443 1064,2411 844,2424"/>
+                <Baseline points="853,2457 887,2457 921,2457 955,2457 989,2457 1023,2457 1057,2457 1091,2456 1125,2454 1159,2456 1193,2457 1227,2457 1261,2457 1295,2454 1329,2452 1363,2452 1397,2454 1431,2457 1465,2455 1499,2454 1534,2457"/>
+                <TextEquiv>
+                    <Unicode>A. M. &amp;c. Edinburgi. 1763.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="814,2523 1927,2531 2090,2516 2090,2444 1999,2426 1841,2481 1687,2435 1482,2487 814,2481"/>
+                <Baseline points="824,2507 887,2508 951,2507 1014,2510 1078,2510 1141,2507 1205,2507 1268,2507 1332,2507 1395,2507 1459,2508 1523,2510 1586,2507 1650,2507 1713,2507 1777,2507 1840,2507 1904,2507 1967,2504 2031,2504 2095,2507"/>
+                <TextEquiv>
+                    <Unicode>264, O. A Discourse upon the Institution ofocdical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="853,2578 2089,2584 2089,2516 853,2518"/>
+                <Baseline points="862,2564 923,2562 985,2562 1046,2561 1108,2564 1169,2564 1231,2564 1292,2562 1354,2564 1415,2561 1477,2561 1538,2561 1600,2562 1661,2561 1723,2561 1784,2561 1846,2561 1907,2561 1969,2561 2030,2561 2092,2564"/>
+                <TextEquiv>
+                    <Unicode>Schools in America, delivered at a Commencement May</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="844,2622 2079,2613 2023,2565 1971,2593 844,2578"/>
+                <Baseline points="853,2615 914,2615 976,2616 1037,2616 1099,2618 1160,2618 1222,2616 1283,2615 1345,2615 1406,2618 1468,2618 1529,2618 1591,2615 1652,2614 1714,2614 1775,2615 1837,2614 1898,2612 1960,2614 2021,2612 2083,2612"/>
+                <TextEquiv>
+                    <Unicode>30, and 31, 1765. With a Preface, &amp;c.&amp;c. Lc. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="849,2692 1773,2708 2085,2677 2041,2620 849,2620"/>
+                <Baseline points="859,2669 920,2669 982,2671 1043,2669 1105,2669 1166,2669 1228,2670 1289,2672 1351,2672 1412,2672 1474,2672 1535,2669 1597,2669 1658,2669 1720,2669 1781,2669 1843,2669 1904,2669 1966,2667 2027,2666 2089,2669"/>
+                <TextEquiv>
+                    <Unicode>John Morgan, M. D., F. R. S. &amp;c. Philadelphia, 1765.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="636,2727 756,2747 811,2730 976,2747 1054,2723 1166,2747 1372,2732 1372,2692 1298,2674 1256,2696 1174,2675 1031,2697 785,2675 726,2692 699,2666 636,2664"/>
+                <Baseline points="647,2722 683,2720 719,2719 756,2719 792,2719 829,2719 865,2722 902,2722 938,2722 975,2723 1011,2725 1047,2722 1084,2722 1120,2722 1157,2722 1193,2722 1230,2722 1266,2722 1303,2720 1339,2720 1376,2722"/>
+                <TextEquiv>
+                    <Unicode>Plantius, 291, O. See Fernelius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="644,2806 662,2802 680,2815 704,2807 722,2815 741,2802 757,2815 800,2798 858,2813 871,2809 871,2740 827,2741 807,2730 798,2740 774,2738 756,2747 732,2732 644,2732"/>
+                <Baseline points="653,2776 680,2776 708,2775 735,2773 763,2773 791,2773 818,2773 846,2773 874,2773"/>
+                <TextEquiv>
+                    <Unicode>Price, 140</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="897,2793 2090,2802 2090,2723 1815,2730 1669,2692 1584,2747 1473,2719 1390,2749 897,2745"/>
+                <Baseline points="907,2776 966,2776 1025,2776 1085,2776 1144,2776 1204,2776 1263,2776 1322,2776 1382,2776 1441,2776 1501,2776 1560,2776 1619,2773 1679,2773 1738,2773 1798,2773 1857,2773 1916,2773 1976,2776 2035,2777 2095,2776"/>
+                <TextEquiv>
+                    <Unicode>—7, O. Inaugural Dissertation on the Magnolia Glauca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="853,2855 1918,2868 1918,2796 1889,2785 1076,2784 1032,2815 853,2787"/>
+                <Baseline points="862,2830 915,2830 968,2830 1021,2830 1074,2830 1127,2833 1180,2833 1233,2833 1286,2831 1339,2830 1392,2830 1445,2833 1498,2831 1551,2830 1604,2830 1657,2830 1710,2830 1763,2829 1816,2827 1869,2827 1922,2824"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. By T. D. Prince. Philadelphia, 1802.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

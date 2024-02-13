@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_18:18</Creator>
+        <Created>2024-02-07T19:24:52.687+01:00</Created>
+        <LastChange>2024-02-08T18:18:50.876+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963994" pageNr="59" tsid="148031751" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=HFCOVTLHHHEGOYJKXXGYVMWL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PERVUTRZCIKFFPESHHEAEIXB" imageId="51988694"/>
+    </Metadata>
+    <Page imageFilename="p059.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669784740" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="603,302 2063,302 2063,1162 603,1162"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="595,387 617,389 635,371 647,376 653,369 660,371 664,367 682,371 678,302 669,302 649,315 642,315 633,307 613,329 607,327 602,333 591,331"/>
+                <Baseline points="603,352 647,355 686,358"/>
+                <TextEquiv>
+                    <Unicode>46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="877,375 1786,384 1786,313 1757,296 1690,327 1591,298 1520,316 1471,284 1404,315 1257,296 1169,327 1122,300 1079,327 877,306"/>
+                <Baseline points="886,355 931,355 976,355 1021,358 1065,358 1110,358 1155,355 1200,355 1244,358 1289,355 1334,355 1379,355 1424,355 1468,355 1513,355 1558,355 1603,355 1648,358 1692,358 1737,358 1782,358 1791,358"/>
+                <TextEquiv>
+                    <Unicode>PHYSICAL AND MATHEMATICAL SCIANCES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="602,498 1622,460 1941,502 2050,480 2050,406 602,411"/>
+                <Baseline points="612,462 656,462 701,462 746,462 788,465 809,459 853,459 898,459 943,459 988,459 1032,459 1077,456 1122,456 1167,456 1212,456 1256,456 1301,456 1346,456 1391,459 1436,459 1480,459 1525,459 1570,459 1615,459 1659,462 1704,459 1749,459 1794,459 1839,459 1883,462 1928,462 1973,462 2018,465 2054,465"/>
+                <TextEquiv>
+                    <Unicode>Muller, 119—3, Q. De justo Probabilitatis valore et usu, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="811,520 1791,527 1777,455 1462,466 1395,495 1266,467 811,484"/>
+                <Baseline points="821,513 865,513 910,510 955,510 1000,513 1044,513 1089,513 1134,510 1179,513 1224,510 1268,513 1313,510 1358,513 1403,513 1447,513 1492,513 1537,513 1582,510 1627,516 1671,513 1716,513 1761,513 1794,513"/>
+                <TextEquiv>
+                    <Unicode>Auctore P. L. S. Muller. Erlangæ, 1757.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="593,593 2030,595 2046,497 1902,535 593,549"/>
+                <Baseline points="603,570 647,570 692,570 737,570 782,570 826,567 871,567 916,567 961,564 1006,567 1050,564 1095,564 1140,567 1185,564 1230,564 1274,564 1319,564 1364,564 1409,564 1453,564 1498,567 1543,567 1588,567 1633,567 1677,567 1722,567 1767,567 1812,567 1857,567 1901,567 1946,567 1991,570 2036,570 2051,570"/>
+                <TextEquiv>
+                    <Unicode>Musschenbroek, 104, O. The Klements of Natural (Philosophy).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="808,629 2052,642 2052,591 1924,577 808,578"/>
+                <Baseline points="818,618 862,620 907,620 952,618 997,618 1041,618 1086,618 1131,618 1176,618 1221,615 1265,615 1310,618 1355,620 1400,620 1444,620 1489,620 1534,620 1579,620 1624,620 1668,620 1713,620 1758,620 1803,620 1848,620 1892,623 1937,620 1982,623 2027,620 2057,620"/>
+                <TextEquiv>
+                    <Unicode>By Peter Van Musschenbroek, M. D. Translate trom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="815,689 948,680 1059,722 1277,678 1317,706 2052,691 2052,640 1973,631 815,631"/>
+                <Baseline points="824,674 868,671 913,674 958,674 1003,674 1047,674 1092,671 1137,674 1182,674 1227,671 1271,674 1316,674 1361,674 1406,674 1450,674 1495,677 1540,674 1585,674 1630,677 1674,671 1719,674 1764,677 1809,677 1854,674 1898,674 1943,677 1988,677 2033,677 2057,680"/>
+                <TextEquiv>
+                    <Unicode>the Latin by John Colson, M. A. &amp;c. Vol. I. London,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="811,733 838,735 851,742 857,738 866,744 888,735 915,735 933,749 938,744 955,744 953,684 940,687 929,682 922,689 900,682 891,691 871,695 851,684 809,689"/>
+                <Baseline points="821,725 865,722 910,725 955,728 958,728"/>
+                <TextEquiv>
+                    <Unicode>1744.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="771,782 2055,795 2055,726 771,735"/>
+                <Baseline points="782,779 826,779 871,782 916,782 961,782 1006,782 1050,779 1095,779 1140,779 1185,779 1230,782 1274,779 1319,779 1364,779 1409,779 1453,782 1498,782 1543,782 1588,782 1633,782 1677,782 1722,782 1767,782 1812,782 1857,782 1901,782 1946,782 1991,782 2036,782 2060,782"/>
+                <TextEquiv>
+                    <Unicode>31, Q. introductio ad Philosophiam Naturalem. Auctore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="811,842 2019,842 2019,798 1968,786 1506,789 1457,822 1402,791 811,788"/>
+                <Baseline points="821,832 865,832 910,832 955,832 1000,832 1044,832 1089,832 1134,832 1179,832 1224,832 1268,832 1313,832 1358,832 1403,835 1447,835 1492,832 1537,835 1582,832 1627,835 1671,832 1716,835 1761,832 1806,835 1851,835 1895,835 1940,832 1985,835 2024,832"/>
+                <TextEquiv>
+                    <Unicode>Petro Von Musschenbroek. Cum figuris. Tom. 2.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="817,898 878,898 902,918 924,898 1020,891 1133,911 1204,893 1249,913 1317,893 1419,906 1420,846 1373,838 1282,858 1222,842 1199,860 1077,835 878,862 818,846"/>
+                <Baseline points="826,886 841,886 886,889 931,886 976,889 1021,886 1065,886 1110,889 1155,886 1200,886 1244,886 1289,886 1334,886 1379,883 1424,883"/>
+                <TextEquiv>
+                    <Unicode>Lugduni Batavorum, 1762.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="593,949 2052,958 2052,898 593,889"/>
+                <Baseline points="603,940 647,940 692,940 737,940 782,940 803,943 821,940 865,943 910,940 955,943 1000,943 1044,940 1089,940 1134,937 1179,940 1224,940 1268,937 1313,940 1358,940 1403,940 1447,940 1492,940 1537,940 1582,940 1627,940 1671,943 1716,940 1761,940 1806,940 1851,940 1895,943 1940,943 1985,943 2030,943 2057,940"/>
+                <TextEquiv>
+                    <Unicode>Newton, 80, Q. Philosophiae Naturalis Principia Mathematica;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="815,1008 2010,1000 2010,953 1961,946 815,951"/>
+                <Baseline points="824,997 850,994 895,994 940,994 985,991 1030,991 1074,991 1119,994 1164,991 1209,991 1253,991 1298,991 1343,991 1388,991 1433,994 1477,994 1522,994 1567,991 1612,994 1656,994 1701,994 1746,994 1791,994 1836,991 1880,991 1925,991 1970,991 2015,991"/>
+                <TextEquiv>
+                    <Unicode>Auctore Isaaco Newtono, Eq. Aurato. Cum effigie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="778,1051 2059,1062 2059,1017 1973,1000 778,1006"/>
+                <Baseline points="788,1047 832,1044 877,1047 922,1044 967,1044 1012,1044 1056,1044 1101,1044 1146,1044 1191,1044 1236,1044 1280,1041 1325,1044 1370,1044 1415,1047 1459,1047 1504,1047 1549,1044 1594,1044 1639,1047 1683,1044 1728,1044 1773,1044 1818,1047 1862,1047 1907,1047 1952,1047 1997,1047 2042,1050 2063,1050"/>
+                <TextEquiv>
+                    <Unicode>70, Q. Philosophiae Naturalis Principia Mathematica;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="815,1108 2052,1119 2052,1066 1957,1053 815,1060"/>
+                <Baseline points="824,1098 868,1098 913,1098 958,1098 1003,1098 1047,1098 1092,1098 1137,1098 1182,1095 1227,1098 1271,1098 1316,1095 1361,1098 1406,1098 1450,1101 1495,1101 1540,1101 1585,1098 1630,1098 1674,1098 1719,1098 1764,1098 1809,1098 1854,1098 1898,1098 1943,1098 1988,1098 2033,1098 2057,1098"/>
+                <TextEquiv>
+                    <Unicode>Auctore Isaaco Newtono, Eq. Aurato; perpetuis Com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="811,1175 2055,1173 2019,1106 1293,1137 811,1108"/>
+                <Baseline points="821,1149 865,1149 910,1152 955,1152 1000,1152 1044,1149 1089,1152 1134,1149 1179,1152 1224,1152 1268,1152 1313,1152 1358,1152 1403,1152 1447,1152 1492,1152 1537,1152 1582,1152 1627,1152 1671,1149 1716,1149 1761,1149 1806,1149 1851,1152 1895,1152 1940,1152 1985,1152 2030,1152 2060,1152"/>
+                <TextEquiv>
+                    <Unicode>mentariis illustrata, communi studio PP. Thomae Le</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="794,1153 2063,1153 2063,1855 794,1855"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="808,1209 2061,1217 2061,1169 2013,1162 808,1171"/>
+                <Baseline points="818,1206 862,1206 907,1206 952,1206 997,1203 1041,1206 1086,1206 1131,1206 1176,1206 1221,1206 1265,1206 1310,1206 1355,1206 1400,1206 1444,1206 1489,1206 1534,1206 1579,1206 1624,1206 1668,1206 1713,1206 1758,1206 1803,1206 1848,1206 1892,1206 1937,1206 1982,1206 2027,1206 2063,1209"/>
+                <TextEquiv>
+                    <Unicode>Seur et Francisci Jacquier, ex Gallicana Minimorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="811,1275 2059,1275 2059,1222 2015,1213 811,1215"/>
+                <Baseline points="821,1259 865,1259 910,1259 955,1259 1000,1259 1044,1259 1089,1259 1134,1259 1179,1259 1224,1259 1268,1259 1313,1259 1358,1256 1403,1259 1447,1259 1492,1259 1537,1259 1582,1259 1627,1259 1671,1259 1716,1259 1761,1259 1806,1259 1851,1259 1895,1259 1940,1259 1985,1259 2030,1259 2063,1259"/>
+                <TextEquiv>
+                    <Unicode>Familia, Matheseos Professorum. Tom. 3. Coloniae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="811,1324 911,1333 940,1322 960,1337 1033,1322 1086,1333 1109,1319 1155,1331 1177,1315 1208,1335 1246,1330 1246,1273 1226,1269 1100,1284 1059,1266 995,1284 922,1269 811,1275"/>
+                <Baseline points="821,1313 847,1313 892,1313 937,1313 982,1310 1027,1310 1071,1310 1116,1310 1161,1310 1206,1310 1250,1310"/>
+                <TextEquiv>
+                    <Unicode>Allobrogum, 1760.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="784,1397 2052,1382 2050,1317 2013,1306 1844,1337 1373,1295 1249,1339 782,1320"/>
+                <Baseline points="794,1364 838,1364 883,1367 928,1364 973,1364 1018,1367 1062,1364 1107,1364 1152,1367 1197,1367 1241,1364 1286,1367 1331,1367 1376,1367 1421,1364 1465,1364 1510,1367 1555,1367 1600,1367 1645,1367 1689,1367 1734,1367 1779,1364 1824,1364 1868,1364 1913,1367 1958,1367 2003,1367 2048,1361 2057,1364"/>
+                <TextEquiv>
+                    <Unicode>171, O. The Mathematical Principales of Natural Philo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="811,1428 1942,1424 2042,1459 2041,1388 1955,1371 811,1382"/>
+                <Baseline points="821,1418 865,1418 910,1421 955,1418 1000,1418 1044,1418 1089,1418 1134,1418 1179,1418 1224,1418 1268,1418 1313,1418 1358,1418 1403,1418 1447,1421 1492,1421 1537,1421 1582,1421 1627,1421 1671,1421 1716,1421 1761,1418 1806,1421 1851,1421 1895,1421 1940,1418 1985,1421 2030,1418 2045,1418"/>
+                <TextEquiv>
+                    <Unicode>sophy. By Sir Isaac Newton. Translate into Eng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="811,1479 2055,1486 2055,1446 1944,1424 811,1428"/>
+                <Baseline points="821,1471 865,1471 910,1471 955,1471 1000,1474 1044,1471 1089,1471 1134,1468 1179,1471 1224,1471 1268,1471 1313,1471 1358,1471 1403,1471 1447,1471 1492,1471 1537,1471 1582,1471 1627,1471 1671,1471 1716,1471 1761,1471 1806,1474 1851,1474 1895,1474 1940,1471 1985,1471 2030,1471 2060,1474"/>
+                <TextEquiv>
+                    <Unicode>lish by Andrew Motte. With the Laws of the Moon's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="808,1528 1790,1535 1892,1568 2052,1535 2052,1480 808,1479"/>
+                <Baseline points="818,1522 862,1522 907,1525 952,1525 997,1525 1041,1525 1086,1525 1131,1525 1176,1522 1221,1522 1265,1525 1310,1525 1355,1522 1400,1525 1444,1522 1489,1525 1534,1525 1579,1525 1624,1525 1668,1525 1713,1525 1758,1525 1803,1525 1848,1525 1892,1528 1937,1525 1982,1525 2027,1528 2054,1525"/>
+                <TextEquiv>
+                    <Unicode>Motion, according to Gravity; by John Machin, Astron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="806,1586 1819,1595 1819,1544 1748,1533 1115,1533 1037,1562 806,1528"/>
+                <Baseline points="815,1576 859,1576 904,1579 949,1579 994,1579 1038,1579 1083,1579 1128,1579 1173,1579 1218,1579 1262,1576 1307,1579 1352,1579 1397,1579 1442,1579 1486,1579 1531,1579 1576,1579 1621,1579 1665,1579 1710,1579 1755,1576 1800,1573 1824,1576"/>
+                <TextEquiv>
+                    <Unicode>Prof. &amp;c. Plates. 2 vols. London, 1729.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="788,1646 2041,1650 2052,1588 1912,1560 1670,1606 788,1593"/>
+                <Baseline points="797,1633 841,1630 886,1630 931,1630 976,1630 1021,1630 1065,1630 1110,1630 1155,1630 1200,1627 1244,1630 1289,1630 1334,1630 1379,1627 1424,1630 1468,1633 1513,1633 1558,1633 1603,1633 1648,1633 1692,1633 1737,1633 1782,1630 1827,1633 1871,1633 1916,1633 1961,1633 2006,1633 2051,1636 2057,1633"/>
+                <TextEquiv>
+                    <Unicode>246, 0. Optice: sive de Reflexionibus, Refractionibus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="811,1697 2059,1695 2024,1641 1822,1668 1748,1639 811,1642"/>
+                <Baseline points="821,1686 853,1683 898,1683 943,1683 988,1683 1032,1683 1077,1683 1122,1683 1167,1683 1212,1683 1256,1683 1301,1683 1346,1683 1391,1683 1436,1680 1480,1686 1525,1683 1570,1686 1615,1686 1659,1683 1704,1683 1749,1686 1794,1686 1839,1683 1883,1686 1928,1686 1973,1686 2018,1686 2063,1683"/>
+                <TextEquiv>
+                    <Unicode>Inflexionibus et coloribus Lucis, libri tres. Authore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="808,1750 2055,1757 2055,1693 808,1697"/>
+                <Baseline points="818,1737 862,1737 907,1740 952,1740 997,1740 1041,1740 1086,1737 1131,1737 1176,1737 1221,1737 1265,1737 1310,1740 1355,1740 1400,1740 1444,1740 1489,1737 1534,1737 1579,1740 1624,1740 1668,1740 1713,1740 1758,1740 1803,1737 1848,1740 1892,1740 1937,1740 1982,1740 2027,1740 2060,1740"/>
+                <TextEquiv>
+                    <Unicode>Isaaco Newtono, Eq. Aurato. Latine reddidit Samuel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="811,1795 1424,1817 1459,1793 1582,1799 1582,1748 1442,1766 1386,1744 1282,1766 1248,1748 1200,1770 1168,1746 811,1753"/>
+                <Baseline points="821,1791 824,1788 868,1791 913,1791 958,1791 1003,1791 1047,1791 1092,1794 1137,1788 1182,1791 1227,1794 1271,1791 1316,1791 1361,1791 1406,1791 1450,1794 1495,1791 1540,1788 1585,1785"/>
+                <TextEquiv>
+                    <Unicode>Clarke, S. T. P. Londini, 1719.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="788,1862 2030,1870 2041,1797 788,1808"/>
+                <Baseline points="797,1842 841,1845 886,1845 931,1845 976,1845 1021,1845 1065,1845 1110,1842 1155,1842 1200,1842 1244,1842 1289,1845 1334,1845 1379,1845 1424,1845 1468,1845 1513,1845 1558,1845 1603,1845 1648,1845 1692,1845 1737,1845 1782,1845 1827,1845 1871,1845 1916,1845 1961,1842 2006,1845 2045,1842"/>
+                <TextEquiv>
+                    <Unicode>15, Q. A View of Sir Isaac Newton’setilosophy. By</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:2;}">
+            <Coords points="606,1845 2065,1845 2065,2873 606,2873"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="806,1917 2061,1930 2061,1851 806,1855"/>
+                <Baseline points="815,1895 859,1895 904,1895 949,1895 994,1898 1038,1898 1083,1898 1128,1895 1173,1898 1218,1901 1262,1898 1307,1901 1352,1898 1397,1898 1442,1898 1486,1898 1531,1898 1576,1898 1621,1898 1665,1901 1710,1901 1755,1901 1800,1901 1845,1901 1889,1901 1934,1901 1979,1901 2024,1901 2065,1901"/>
+                <TextEquiv>
+                    <Unicode>Henry Pemberton, Plates. London, 1728. (Presented</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="808,1962 862,1977 913,1955 948,1973 971,1961 1079,1972 1159,1959 1266,1979 1266,1908 1182,1924 1011,1902 995,1915 942,1901 920,1915 889,1906 875,1921 808,1913"/>
+                <Baseline points="818,1952 862,1949 907,1952 952,1952 997,1952 1041,1952 1086,1949 1131,1949 1176,1949 1221,1952 1265,1952 1271,1952"/>
+                <TextEquiv>
+                    <Unicode>by John McDowell.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="780,2012 1168,2015 1202,2032 1224,2012 1284,2026 1371,2012 1371,1966 1337,1961 1259,1981 1217,1962 949,1973 913,1955 860,1981 824,1955 780,1955"/>
+                <Baseline points="791,2003 835,2006 880,2003 925,2006 970,2006 1015,2003 1059,2003 1104,2003 1149,2000 1194,2003 1238,2003 1283,2006 1328,2003 1373,2003 1376,2003"/>
+                <TextEquiv>
+                    <Unicode>79, Q. See s'Gravesande.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="607,2084 631,2075 640,2079 649,2070 673,2082 704,2066 744,2084 764,2075 793,2092 809,2086 806,2013 773,2008 753,2028 729,2019 689,2028 680,2019 660,2024 644,2010 604,2004"/>
+                <Baseline points="615,2054 659,2057 704,2057 749,2060 794,2060 812,2060"/>
+                <TextEquiv>
+                    <Unicode>Ozanam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="828,2070 2059,2068 2059,2026 1926,2006 828,2021"/>
+                <Baseline points="838,2060 883,2060 928,2057 973,2057 1018,2057 1062,2054 1107,2057 1152,2057 1197,2057 1241,2057 1286,2060 1331,2060 1376,2060 1421,2060 1465,2060 1510,2060 1555,2060 1600,2060 1645,2060 1689,2060 1734,2060 1779,2060 1824,2057 1868,2060 1913,2057 1958,2057 2003,2060 2048,2057 2063,2060"/>
+                <TextEquiv>
+                    <Unicode>282, O. Cursus Mathematicus: or, a complete course</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="808,2128 2010,2139 2052,2135 2052,2068 808,2088"/>
+                <Baseline points="818,2107 862,2110 907,2110 952,2110 997,2107 1041,2110 1086,2110 1131,2110 1176,2110 1221,2110 1265,2107 1310,2110 1355,2110 1400,2110 1444,2110 1489,2113 1534,2110 1579,2110 1624,2110 1668,2110 1713,2113 1758,2110 1803,2110 1848,2110 1892,2110 1937,2110 1982,2113 2027,2110 2057,2110"/>
+                <TextEquiv>
+                    <Unicode>of Mathematicks. Vol. II. Containing Arithmetic and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="815,2184 2004,2190 2052,2135 813,2128"/>
+                <Baseline points="824,2161 868,2161 913,2164 958,2164 1003,2164 1047,2164 1092,2164 1137,2161 1182,2161 1227,2161 1271,2164 1316,2161 1361,2164 1406,2164 1450,2164 1495,2164 1540,2164 1585,2164 1630,2164 1674,2164 1719,2164 1764,2167 1809,2164 1854,2167 1898,2167 1943,2167 1988,2167 2033,2167 2057,2164"/>
+                <TextEquiv>
+                    <Unicode>Trigonometry. With Cables, &amp;c. &amp;o. Translated from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="811,2232 1801,2228 1801,2172 906,2192 811,2170"/>
+                <Baseline points="821,2215 865,2218 910,2218 955,2218 1000,2218 1044,2218 1089,2218 1134,2218 1179,2218 1224,2215 1268,2218 1313,2218 1358,2218 1403,2218 1447,2221 1492,2218 1537,2218 1582,2218 1627,2218 1671,2218 1716,2218 1761,2218 1806,2218"/>
+                <TextEquiv>
+                    <Unicode>the French of M. Ozanam. London, 1712.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="789,2279 2061,2301 2048,2219 789,2233"/>
+                <Baseline points="800,2263 844,2269 889,2269 934,2269 979,2271 1024,2271 1068,2269 1113,2269 1158,2266 1203,2269 1247,2269 1292,2271 1337,2271 1382,2271 1427,2271 1471,2271 1516,2271 1561,2271 1606,2271 1650,2269 1695,2269 1740,2271 1785,2271 1830,2274 1874,2271 1919,2274 1964,2274 2009,2271 2054,2271 2063,2274"/>
+                <TextEquiv>
+                    <Unicode>138, 0. Cours de Mathematique. Par M. Ozanam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="818,2335 1575,2346 1560,2279 1411,2297 1286,2279 1208,2304 1180,2281 1088,2303 1046,2277 982,2303 818,2277"/>
+                <Baseline points="829,2319 874,2319 919,2322 964,2322 1009,2325 1053,2325 1098,2322 1143,2322 1188,2325 1233,2322 1277,2325 1322,2325 1367,2325 1412,2325 1456,2325 1501,2325 1546,2325 1579,2322"/>
+                <TextEquiv>
+                    <Unicode>Tomes 2, 3, 4, 5. A Paris, 1693.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="597,2384 915,2399 1064,2383 1082,2399 1288,2383 1288,2348 1195,2330 1173,2346 1104,2330 1062,2353 1000,2332 742,2343 722,2324 667,2343 633,2326 597,2348"/>
+                <Baseline points="606,2373 650,2373 695,2373 740,2376 785,2376 829,2376 874,2376 919,2379 964,2376 1009,2379 1053,2376 1098,2376 1143,2376 1188,2376 1233,2376 1277,2376 1292,2376"/>
+                <TextEquiv>
+                    <Unicode>Patrick, 88, O. See Collarius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="598,2463 2055,2437 2055,2392 1995,2375 598,2392"/>
+                <Baseline points="609,2430 626,2430 671,2430 716,2430 761,2430 806,2430 850,2430 895,2433 940,2430 985,2433 1030,2430 1074,2430 1119,2430 1164,2430 1209,2430 1253,2430 1298,2430 1343,2433 1388,2433 1433,2433 1477,2433 1522,2430 1567,2433 1612,2433 1656,2433 1701,2433 1746,2433 1791,2430 1836,2430 1880,2430 1925,2430 1970,2430 2015,2430 2060,2424"/>
+                <TextEquiv>
+                    <Unicode>Paterson, 91, O. A Brief Outline of Physics, or Natural Philo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="811,2497 2008,2514 2052,2501 2052,2437 811,2459"/>
+                <Baseline points="821,2480 865,2483 910,2483 955,2483 1000,2483 1044,2483 1089,2483 1134,2483 1179,2483 1224,2486 1268,2489 1313,2486 1358,2486 1403,2483 1447,2483 1492,2486 1537,2486 1582,2486 1627,2483 1671,2483 1716,2486 1761,2486 1806,2483 1851,2486 1895,2486 1940,2486 1985,2486 2030,2483 2057,2480"/>
+                <TextEquiv>
+                    <Unicode>sophy: being an Appendix to Adams’s Lectures, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="817,2552 1790,2555 1771,2494 817,2495"/>
+                <Baseline points="826,2537 871,2537 916,2534 961,2537 1006,2534 1050,2537 1095,2537 1140,2537 1185,2537 1230,2537 1274,2540 1319,2537 1364,2537 1409,2540 1453,2540 1498,2540 1543,2540 1588,2540 1633,2540 1677,2537 1722,2537 1767,2537 1794,2537"/>
+                <TextEquiv>
+                    <Unicode>By Robertaiterson. Philadelphia, 1807.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="780,2599 858,2612 900,2597 957,2615 977,2597 1029,2610 1053,2595 1097,2614 1144,2595 1228,2612 1228,2546 1189,2566 1155,2544 1068,2548 1049,2563 998,2546 942,2561 913,2546 882,2574 842,2546 780,2550"/>
+                <Baseline points="791,2585 835,2588 880,2588 925,2591 970,2591 1015,2591 1059,2591 1104,2588 1149,2591 1194,2588 1233,2591"/>
+                <TextEquiv>
+                    <Unicode>56, O. See Ewing.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="598,2650 835,2666 875,2644 931,2664 1317,2652 1317,2614 1260,2601 1131,2617 1049,2595 1020,2615 808,2597 749,2615 706,2588 598,2606"/>
+                <Baseline points="609,2639 653,2639 698,2639 743,2639 788,2642 832,2645 877,2645 922,2648 967,2645 1012,2645 1056,2645 1101,2648 1146,2648 1191,2645 1236,2645 1280,2645 1322,2642"/>
+                <TextEquiv>
+                    <Unicode>Pemberton, 15, Q. See Newton.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="606,2719 922,2697 958,2726 1011,2703 1460,2723 1486,2717 1486,2659 606,2664"/>
+                <Baseline points="615,2692 659,2692 704,2695 749,2695 794,2695 838,2695 883,2698 928,2695 973,2698 1018,2695 1062,2695 1107,2698 1152,2698 1197,2698 1241,2698 1286,2698 1331,2695 1376,2698 1421,2698 1465,2698 1489,2698"/>
+                <TextEquiv>
+                    <Unicode>Philo, 15, F. See Mathematici Veteres.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="607,2750 713,2772 893,2755 924,2775 980,2755 1282,2777 1375,2759 1375,2721 1237,2706 1148,2724 998,2706 957,2726 922,2697 607,2715"/>
+                <Baseline points="618,2746 662,2746 707,2746 752,2749 797,2749 841,2749 886,2749 931,2749 976,2749 1021,2749 1065,2752 1110,2749 1155,2752 1200,2749 1244,2749 1289,2749 1334,2749 1379,2752"/>
+                <TextEquiv>
+                    <Unicode>Pingré, 55, Q. See Courtanvaux.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="602,2812 1973,2823 2055,2815 2055,2754 602,2764"/>
+                <Baseline points="612,2797 656,2800 701,2800 746,2803 791,2800 835,2800 880,2803 925,2803 970,2806 1015,2806 1059,2806 1104,2806 1149,2806 1194,2806 1238,2806 1283,2806 1328,2806 1373,2806 1418,2806 1462,2806 1507,2806 1552,2806 1597,2806 1642,2803 1686,2803 1731,2803 1776,2803 1821,2803 1865,2803 1910,2803 1955,2800 2000,2800 2045,2800 2060,2797"/>
+                <TextEquiv>
+                    <Unicode>Priestley, 49, Q. The tistory of the present State of Discoveries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="811,2865 951,2897 1077,2865 1590,2897 1813,2866 1910,2903 2052,2877 2035,2810 1311,2815 1268,2846 1195,2814 811,2819"/>
+                <Baseline points="821,2854 865,2857 910,2860 955,2860 1000,2860 1044,2860 1089,2860 1134,2860 1179,2860 1224,2863 1268,2863 1313,2863 1358,2863 1403,2863 1447,2863 1492,2863 1537,2863 1582,2860 1627,2860 1671,2860 1716,2860 1761,2860 1806,2857 1851,2860 1895,2860 1940,2860 1985,2857 2030,2857 2057,2854"/>
+                <TextEquiv>
+                    <Unicode>relating to Vision, Light, and Colours. By Joseph</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

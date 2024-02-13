@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_13:54</Creator>
+        <Created>2024-02-07T19:24:49.897+01:00</Created>
+        <LastChange>2024-02-08T13:54:50.797+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963954" pageNr="37" tsid="147996184" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=FKVVQDZYQCAYDQELDZQUXDVY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLECGKYQYYTBEKXSHTRUVHCP" imageId="51988654"/>
+    </Metadata>
+    <Page imageFilename="p037.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669779184" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="588,311 2042,311 2042,1234 588,1234"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1059,382 1099,395 1155,380 1182,396 1209,378 1248,398 1337,400 1364,373 1435,371 1551,395 1566,391 1566,318 1406,333 1297,300 1273,320 1159,309 1059,329"/>
+                <Baseline points="1068,361 1113,361 1158,361 1203,361 1247,361 1292,361 1337,361 1382,361 1427,364 1471,364 1516,364 1561,361 1570,364"/>
+                <TextEquiv>
+                    <Unicode>ANCIENT LITERATURE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="580,469 713,493 762,473 813,491 900,471 995,489 1040,471 1326,478 1306,389 1255,418 1080,404 1040,426 826,387 707,427 580,411"/>
+                <Baseline points="591,465 635,462 680,462 725,462 770,465 815,462 859,459 904,459 949,459 994,459 1038,459 1083,459 1128,462 1173,462 1218,465 1262,465 1307,465 1331,465"/>
+                <TextEquiv>
+                    <Unicode>Menagius, 280, O. See Lucianus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="580,538 1322,549 1451,524 1602,558 1590,475 580,477"/>
+                <Baseline points="591,516 635,519 680,519 725,519 770,519 815,516 859,513 904,513 949,513 994,513 1038,513 1083,513 1128,516 1173,516 1218,519 1262,519 1307,519 1352,519 1397,519 1442,519 1486,519 1531,519 1576,519 1606,516"/>
+                <TextEquiv>
+                    <Unicode>Menander, 320, O. See Poetæ Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="587,582 777,598 797,582 924,580 984,598 1009,580 1135,582 1135,531 868,529 844,549 791,529 762,549 724,531 669,542 587,527"/>
+                <Baseline points="597,570 641,570 686,570 731,570 776,570 821,570 865,570 910,570 955,567 1000,567 1044,567 1089,567 1134,570 1140,573"/>
+                <TextEquiv>
+                    <Unicode>Menecrates, 320, O. See</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="587,640 1217,635 1277,653 1277,593 1239,578 1102,580 1080,600 1031,580 991,598 828,584 800,602 587,586"/>
+                <Baseline points="597,623 641,626 686,623 731,623 776,623 821,623 865,620 910,623 955,620 1000,623 1044,623 1089,623 1134,623 1179,623 1224,626 1268,626 1280,626"/>
+                <TextEquiv>
+                    <Unicode>Mercerus, 116, O. See Facitus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="580,689 1635,700 1635,638 580,655"/>
+                <Baseline points="591,680 635,680 680,677 725,677 770,677 815,677 859,677 904,677 949,677 994,677 1038,677 1083,680 1128,680 1173,680 1218,680 1262,683 1307,680 1352,683 1397,683 1442,683 1486,680 1531,683 1576,683 1621,683 1639,680"/>
+                <TextEquiv>
+                    <Unicode>Metrodorus, 320, O. See Poetae Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="587,746 1455,760 1453,707 1422,687 586,691"/>
+                <Baseline points="597,734 641,734 686,731 731,731 776,734 821,734 865,731 910,734 955,731 1000,731 1044,731 1089,734 1134,734 1179,737 1224,737 1268,737 1313,734 1358,737 1403,737 1447,737 1459,734"/>
+                <TextEquiv>
+                    <Unicode>Meursius, 132, O. See Minucius Felix.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="580,804 1635,806 1610,740 1435,764 580,746"/>
+                <Baseline points="591,785 635,785 680,788 725,788 770,785 815,788 859,788 904,788 949,788 994,788 1038,788 1083,785 1128,788 1173,791 1218,791 1262,791 1307,791 1352,791 1397,791 1442,791 1486,791 1531,791 1576,791 1621,788 1639,788"/>
+                <TextEquiv>
+                    <Unicode>Minnermus, 320. O, See Poetae Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="578,851 2028,851 1993,798 578,804"/>
+                <Baseline points="588,841 632,841 677,841 722,841 767,841 797,841 821,841 824,838 868,841 913,841 958,844 1003,844 1047,841 1092,841 1137,844 1182,844 1227,841 1271,844 1316,844 1361,844 1406,844 1450,844 1495,844 1540,844 1585,844 1630,841 1674,841 1719,841 1764,844 1809,844 1854,844 1898,844 1943,844 1988,844 2033,838"/>
+                <TextEquiv>
+                    <Unicode>Minucius Felix, 132, O. M. Minucii Felicis Octavius cum inte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="797,918 1964,920 2037,908 2037,849 797,868"/>
+                <Baseline points="806,895 850,895 895,895 940,895 985,895 1030,895 1074,895 1119,895 1164,898 1209,895 1253,898 1298,898 1343,898 1388,898 1433,898 1477,898 1522,898 1567,898 1612,898 1656,898 1701,898 1746,898 1791,898 1836,898 1880,895 1925,898 1970,898 2015,895 2042,898"/>
+                <TextEquiv>
+                    <Unicode>gris omnium Notis, &amp;c. novaque Recensione Jacobi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="793,958 1972,973 2028,962 2028,913 793,922"/>
+                <Baseline points="803,949 847,949 892,949 937,952 982,952 1027,949 1071,952 1116,949 1161,949 1206,949 1250,952 1295,952 1340,952 1385,952 1430,952 1474,952 1519,952 1564,952 1609,952 1653,952 1698,952 1743,952 1788,952 1833,952 1877,952 1922,952 1967,952 2012,952 2033,952"/>
+                <TextEquiv>
+                    <Unicode>Ouzelii. Cujus et accedunt Ammadversiones. Insuper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="789,1020 2035,1017 2010,958 789,953"/>
+                <Baseline points="800,1003 844,1003 889,1006 934,1006 979,1003 1024,1000 1068,1003 1113,1003 1158,1003 1203,1003 1247,1003 1292,1006 1337,1003 1382,1006 1427,1006 1471,1006 1516,1006 1561,1006 1606,1006 1650,1003 1695,1006 1740,1006 1785,1006 1830,1006 1874,1006 1919,1003 1964,1003 2009,1003 2039,1006"/>
+                <TextEquiv>
+                    <Unicode>Joh. Meursii Notae. Et Liber Julii Firmici Materni, V.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="789,1064 2037,1069 1988,1013 789,1020"/>
+                <Baseline points="800,1053 844,1056 889,1056 934,1056 979,1053 1024,1056 1068,1056 1113,1056 1158,1056 1203,1056 1247,1059 1292,1059 1337,1059 1382,1059 1427,1059 1471,1059 1516,1059 1561,1059 1606,1059 1650,1059 1695,1062 1740,1059 1785,1059 1830,1059 1874,1059 1919,1059 1964,1059 2009,1056 2042,1056"/>
+                <TextEquiv>
+                    <Unicode>C. De Errore Profanarum Religionum. Lugduni Ba¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="789,1115 817,1126 864,1119 904,1128 911,1120 942,1133 998,1119 1057,1124 1066,1133 1091,1124 1091,1069 1060,1079 989,1062 942,1084 895,1068 838,1075 789,1066"/>
+                <Baseline points="800,1107 826,1110 871,1107 916,1110 961,1113 1006,1110 1050,1110 1095,1104"/>
+                <TextEquiv>
+                    <Unicode>tavorum, 167</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="764,1180 1977,1199 2032,1182 2032,1122 764,1128"/>
+                <Baseline points="773,1161 818,1164 862,1164 907,1164 952,1164 997,1167 1041,1167 1086,1164 1131,1167 1176,1167 1221,1167 1265,1164 1310,1164 1355,1164 1400,1167 1444,1167 1489,1164 1534,1167 1579,1167 1624,1167 1668,1167 1704,1167 1719,1164 1722,1164 1767,1167 1812,1167 1857,1164 1901,1167 1946,1164 1991,1164 2036,1161"/>
+                <TextEquiv>
+                    <Unicode>329, O. Marci Minucii Felicis Octavius. Ex recensione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="784,1224 1613,1248 1721,1222 1855,1259 1855,1189 1811,1173 784,1189"/>
+                <Baseline points="794,1218 838,1218 883,1218 928,1218 973,1218 1018,1218 1062,1218 1107,1218 1152,1218 1197,1221 1241,1218 1286,1218 1331,1221 1376,1221 1421,1221 1465,1224 1510,1221 1555,1221 1600,1221 1645,1221 1689,1221 1734,1218 1779,1218 1824,1218 1857,1218"/>
+                <TextEquiv>
+                    <Unicode>Johannis Davisii. Glasguae, apud Foulis, 1750.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="579,1218 2033,1218 2033,2305 579,2305"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="575,1299 602,1282 1031,1279 1113,1300 1191,1286 1191,1244 1048,1226 722,1242 622,1220 575,1249"/>
+                <Baseline points="585,1268 629,1268 674,1271 719,1274 764,1274 809,1271 853,1274 898,1271 943,1271 988,1271 1032,1271 1077,1271 1122,1274 1167,1274 1194,1271"/>
+                <TextEquiv>
+                    <Unicode>Modius, 32, F. See Livius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="582,1348 729,1337 791,1357 866,1333 1035,1330 1260,1353 1273,1280 1224,1268 1113,1300 1073,1280 580,1293"/>
+                <Baseline points="591,1322 635,1325 680,1325 725,1325 749,1328 758,1328 803,1328 847,1328 892,1325 937,1325 982,1322 1027,1325 1071,1325 1116,1325 1161,1328 1206,1328 1250,1328 1277,1331"/>
+                <TextEquiv>
+                    <Unicode>Morell, 183, O. See Euripides.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="575,1388 784,1408 835,1388 869,1406 1269,1390 1269,1351 1217,1335 1175,1357 1122,1337 1024,1355 1002,1335 909,1333 808,1360 613,1333 575,1353"/>
+                <Baseline points="585,1376 629,1376 674,1379 719,1379 764,1382 791,1382 806,1379 850,1379 895,1379 940,1379 985,1376 1030,1379 1074,1379 1119,1382 1164,1382 1209,1382 1253,1382 1274,1379"/>
+                <TextEquiv>
+                    <Unicode>Morellus, 98, F. See Libanius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="580,1453 1575,1444 1575,1391 1488,1380 1399,1408 1300,1379 1233,1406 580,1391"/>
+                <Baseline points="591,1433 635,1433 680,1433 725,1436 770,1436 815,1436 859,1433 904,1433 949,1433 994,1433 1038,1430 1083,1433 1128,1433 1173,1436 1218,1436 1262,1433 1307,1436 1352,1436 1397,1436 1442,1436 1486,1436 1531,1436 1576,1439 1579,1439"/>
+                <TextEquiv>
+                    <Unicode>Moschus, 304, O. See Poetæ Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="766,1528 837,1493 855,1506 917,1497 926,1506 957,1506 971,1497 1024,1502 1055,1488 1055,1460 1028,1460 986,1439 944,1459 917,1444 886,1464 862,1444 809,1455 766,1451"/>
+                <Baseline points="776,1486 791,1483 835,1486 880,1486 925,1486 970,1486 1015,1486 1059,1483"/>
+                <TextEquiv>
+                    <Unicode>320, O. See</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="578,1555 1264,1555 1264,1500 1084,1482 966,1508 578,1497"/>
+                <Baseline points="588,1534 632,1537 677,1537 722,1540 767,1543 812,1540 856,1540 901,1540 946,1537 991,1540 1035,1540 1080,1540 1125,1540 1170,1540 1215,1540 1259,1543 1268,1543"/>
+                <TextEquiv>
+                    <Unicode>Muretus, 116, O. See Tacitus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="769,1613 922,1599 1018,1619 1042,1602 1095,1617 1115,1604 1173,1621 1200,1604 1277,1615 1277,1546 1220,1570 1169,1550 1113,1562 1077,1550 1048,1573 977,1550 769,1560"/>
+                <Baseline points="779,1597 824,1594 868,1594 913,1594 958,1594 1003,1591 1047,1594 1092,1594 1137,1594 1182,1597 1227,1597 1271,1597 1280,1597"/>
+                <TextEquiv>
+                    <Unicode>177, O. See Xenophon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="573,1653 684,1675 862,1653 886,1670 1213,1666 1213,1610 1044,1600 1018,1619 924,1599 862,1633 828,1600 573,1606"/>
+                <Baseline points="582,1645 626,1645 671,1645 716,1650 761,1653 806,1650 850,1648 895,1648 940,1648 985,1645 1030,1648 1074,1650 1119,1648 1164,1648 1209,1648 1218,1650"/>
+                <TextEquiv>
+                    <Unicode>Murphy, 24, D. See Lucian.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="578,1722 1562,1728 1562,1635 1059,1679 578,1653"/>
+                <Baseline points="588,1701 632,1701 677,1701 722,1704 767,1701 812,1701 856,1701 901,1701 946,1701 991,1698 1035,1701 1080,1701 1125,1701 1170,1704 1215,1701 1259,1704 1304,1704 1349,1704 1394,1701 1439,1701 1483,1704 1528,1704 1567,1701"/>
+                <TextEquiv>
+                    <Unicode>Musœus, 304, O. See Poetæ Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="755,1757 797,1775 842,1766 862,1777 873,1766 889,1773 920,1762 1006,1775 1028,1768 1028,1728 998,1730 969,1706 951,1719 898,1710 871,1730 846,1711 806,1721 784,1706 766,1721 755,1719"/>
+                <Baseline points="764,1752 809,1752 853,1755 898,1755 943,1755 988,1755 1032,1755 1035,1752"/>
+                <TextEquiv>
+                    <Unicode>320, O. See</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="578,1821 984,1833 1051,1815 1162,1819 1162,1773 1102,1766 1051,1779 773,1768 728,1784 682,1761 578,1759"/>
+                <Baseline points="588,1809 629,1806 674,1809 719,1809 764,1809 809,1809 853,1812 898,1809 943,1809 988,1809 1032,1809 1077,1806 1122,1809 1167,1806"/>
+                <TextEquiv>
+                    <Unicode>Naumachius, 320, O. See</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="575,1881 1086,1866 1344,1892 1402,1871 1402,1813 786,1842 575,1815"/>
+                <Baseline points="585,1862 629,1859 674,1862 719,1862 764,1862 809,1862 853,1862 898,1862 943,1862 988,1862 1032,1859 1077,1862 1122,1859 1167,1862 1212,1865 1256,1865 1301,1865 1346,1865 1391,1862 1406,1865"/>
+                <TextEquiv>
+                    <Unicode>Heedham, 209, O. See Theophrastus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="575,1922 1646,1930 1644,1882 1564,1857 1344,1892 573,1882"/>
+                <Baseline points="585,1916 629,1916 674,1916 719,1913 764,1916 809,1916 853,1916 898,1916 943,1916 988,1916 1032,1916 1077,1916 1122,1916 1167,1916 1212,1916 1256,1919 1301,1919 1346,1919 1391,1919 1436,1919 1480,1919 1525,1919 1570,1916 1615,1916 1648,1919"/>
+                <TextEquiv>
+                    <Unicode>Nemesianus, 335, O. See Poetæ Latini Minores.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="578,1990 1637,1981 1611,1928 578,1926"/>
+                <Baseline points="588,1970 632,1970 677,1970 722,1970 767,1970 812,1970 856,1973 901,1970 946,1973 991,1970 1035,1970 1080,1970 1125,1970 1170,1973 1215,1973 1259,1973 1304,1973 1349,1973 1394,1973 1439,1973 1483,1970 1528,1973 1573,1970 1618,1970 1642,1970"/>
+                <TextEquiv>
+                    <Unicode>Nicostratus, 320, O. See Poetæ Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="569,2028 1986,2042 2028,1968 569,1992"/>
+                <Baseline points="579,2024 623,2021 668,2024 713,2021 758,2021 803,2024 847,2024 892,2024 937,2024 982,2024 1027,2024 1071,2024 1116,2024 1161,2024 1206,2024 1250,2024 1295,2024 1340,2027 1385,2027 1430,2024 1474,2024 1519,2024 1564,2024 1609,2024 1653,2021 1698,2024 1743,2024 1788,2024 1833,2024 1877,2027 1922,2024 1967,2024 2012,2024 2033,2024"/>
+                <TextEquiv>
+                    <Unicode>Novus Historiarum Delectus, 255, O. Novus Historiarum Fabel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="788,2084 2019,2090 2019,2046 1953,2035 788,2041"/>
+                <Baseline points="797,2077 841,2077 886,2077 931,2077 976,2077 1021,2077 1065,2077 1110,2074 1155,2077 1200,2077 1244,2080 1289,2080 1334,2080 1379,2077 1424,2080 1468,2077 1513,2074 1558,2077 1603,2077 1648,2077 1692,2077 1737,2077 1782,2077 1827,2077 1871,2077 1916,2077 1961,2077 2006,2080 2024,2077"/>
+                <TextEquiv>
+                    <Unicode>larumque Delectus: cum Notis et Versione. Græce et La¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="789,2144 1799,2135 1915,2166 1897,2084 1006,2084 931,2119 789,2086"/>
+                <Baseline points="800,2128 844,2131 889,2134 934,2131 979,2131 1024,2128 1068,2128 1113,2131 1158,2131 1203,2131 1247,2131 1292,2131 1337,2131 1382,2131 1427,2131 1471,2131 1516,2131 1561,2131 1606,2134 1650,2131 1695,2134 1740,2134 1785,2131 1830,2131 1874,2131 1919,2134 1922,2131"/>
+                <TextEquiv>
+                    <Unicode>tine. In Usum Scholæ Etonensis. Londini, 1701.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="578,2197 1844,2219 1844,2150 1799,2135 578,2137"/>
+                <Baseline points="588,2185 632,2185 677,2182 722,2185 767,2185 812,2188 856,2185 901,2185 946,2182 991,2179 1035,2185 1080,2185 1125,2182 1170,2182 1215,2182 1259,2185 1304,2185 1349,2185 1394,2185 1439,2185 1483,2185 1528,2185 1573,2185 1618,2185 1662,2185 1707,2188 1752,2185 1797,2185 1842,2188 1848,2185"/>
+                <TextEquiv>
+                    <Unicode>Ocellus Lucanus, 297, O. See Opuscula Mythologica, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="575,2259 1484,2264 1484,2193 1291,2217 1208,2192 575,2201"/>
+                <Baseline points="585,2239 629,2239 674,2239 719,2239 764,2239 809,2239 853,2239 898,2239 943,2239 988,2239 1032,2236 1077,2239 1122,2242 1167,2239 1212,2236 1256,2239 1301,2239 1346,2239 1391,2239 1436,2239 1480,2239 1489,2239"/>
+                <TextEquiv>
+                    <Unicode>Olivarius, 158, O. See Pomponius Mela.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="578,2304 2022,2323 2022,2259 1797,2228 578,2253"/>
+                <Baseline points="588,2289 632,2292 677,2292 722,2292 767,2295 812,2292 856,2292 901,2292 946,2292 991,2292 1035,2292 1080,2292 1125,2292 1170,2289 1215,2292 1259,2292 1304,2289 1349,2292 1394,2292 1439,2292 1483,2295 1528,2292 1573,2292 1618,2292 1662,2292 1707,2292 1752,2289 1797,2292 1842,2292 1886,2295 1931,2292 1976,2292 2021,2289 2027,2289"/>
+                <TextEquiv>
+                    <Unicode>Opuscula Mythologica, Ithica, et Physica, 297, O. Opusula My¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="585,2293 2033,2293 2033,2899 585,2899"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="788,2353 2017,2363 2017,2313 1932,2299 1448,2332 788,2299"/>
+                <Baseline points="797,2343 841,2346 886,2343 931,2343 976,2346 1021,2346 1065,2346 1110,2343 1155,2343 1200,2346 1244,2346 1289,2346 1334,2343 1379,2346 1424,2349 1468,2346 1513,2346 1558,2346 1603,2343 1648,2343 1692,2343 1737,2346 1782,2346 1827,2346 1871,2346 1916,2346 1961,2346 2006,2346 2021,2343"/>
+                <TextEquiv>
+                    <Unicode>thologica, Ethica, et Physica. Græce et Latine. Palae¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="789,2421 2028,2423 2028,2359 789,2355"/>
+                <Baseline points="800,2400 844,2400 889,2397 934,2400 979,2400 1024,2400 1068,2400 1113,2400 1158,2400 1203,2400 1247,2400 1292,2400 1337,2400 1382,2400 1427,2403 1471,2400 1516,2400 1561,2400 1606,2400 1650,2400 1695,2400 1740,2400 1785,2400 1830,2400 1874,2400 1919,2400 1964,2400 2009,2403 2033,2406"/>
+                <TextEquiv>
+                    <Unicode>phatus, Heraclitus, Anonymus, Phurnutus, Sallustius,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="788,2461 2022,2481 2022,2421 1892,2410 788,2421"/>
+                <Baseline points="797,2448 841,2451 886,2451 931,2454 976,2454 1021,2454 1065,2454 1110,2454 1155,2457 1200,2457 1244,2454 1289,2454 1334,2454 1379,2454 1424,2454 1468,2457 1513,2457 1558,2454 1603,2454 1648,2454 1692,2454 1737,2454 1782,2454 1827,2457 1871,2454 1916,2454 1961,2454 2006,2454 2027,2454"/>
+                <TextEquiv>
+                    <Unicode>Ocellus Lucanus, Timaeus Locrus.—Demophilus, Demo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="788,2521 2022,2519 1986,2463 786,2463"/>
+                <Baseline points="797,2504 818,2504 862,2504 907,2504 952,2507 997,2504 1041,2504 1086,2507 1131,2504 1176,2507 1221,2504 1265,2507 1310,2507 1355,2507 1400,2507 1444,2507 1489,2507 1534,2507 1579,2507 1624,2507 1668,2510 1713,2507 1758,2507 1803,2510 1848,2507 1892,2507 1937,2507 1982,2507 2027,2501"/>
+                <TextEquiv>
+                    <Unicode>crates, Secundus, Sextius Pythagoricus, Theophrasti Cha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="784,2570 2019,2604 2008,2517 784,2519"/>
+                <Baseline points="794,2555 838,2558 883,2561 928,2561 973,2561 1018,2561 1062,2561 1107,2561 1152,2561 1197,2561 1241,2561 1286,2561 1331,2561 1376,2561 1421,2564 1465,2561 1510,2564 1555,2564 1600,2564 1645,2561 1689,2561 1734,2564 1779,2564 1824,2564 1868,2561 1913,2561 1958,2561 2003,2561 2024,2558"/>
+                <TextEquiv>
+                    <Unicode>racteres, Pythagoricorum Fragmenta.—Heliodori Laris¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="788,2624 909,2639 1079,2615 1151,2643 1237,2624 1379,2646 1508,2626 1508,2583 1431,2570 1113,2574 1037,2597 968,2574 788,2575"/>
+                <Baseline points="797,2609 841,2612 886,2612 931,2615 976,2615 1021,2615 1065,2615 1110,2615 1155,2615 1200,2615 1244,2615 1289,2615 1334,2615 1379,2615 1424,2615 1468,2615 1513,2618 1516,2615"/>
+                <TextEquiv>
+                    <Unicode>sæi Optica. Cantabrigiæ, 1671.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="578,2681 1562,2694 1542,2606 1379,2646 1079,2615 1026,2643 773,2644 578,2601"/>
+                <Baseline points="588,2669 632,2669 677,2666 722,2669 767,2669 812,2666 856,2666 901,2669 946,2669 991,2669 1035,2666 1080,2669 1125,2669 1170,2672 1215,2672 1259,2669 1304,2672 1349,2669 1394,2669 1439,2672 1483,2672 1528,2672 1567,2672"/>
+                <TextEquiv>
+                    <Unicode>Orpheus, 320, O. See Poetæ Minores Græci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="575,2724 1428,2739 1428,2688 1382,2677 1195,2699 1108,2679 1062,2701 937,2677 898,2704 833,2679 575,2684"/>
+                <Baseline points="585,2719 629,2722 674,2719 719,2722 764,2722 791,2722 806,2719 850,2722 895,2722 940,2722 985,2722 1030,2722 1074,2725 1119,2725 1164,2725 1209,2722 1253,2722 1298,2722 1343,2722 1388,2722 1430,2722"/>
+                <TextEquiv>
+                    <Unicode>Ouzelius, 132, O. See Minucius Felix.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="584,2781 1888,2806 2019,2792 2019,2719 584,2735"/>
+                <Baseline points="594,2773 638,2776 683,2776 728,2776 770,2776 788,2776 815,2776 859,2776 904,2776 949,2776 994,2776 1038,2776 1083,2779 1128,2779 1173,2779 1218,2779 1262,2776 1307,2776 1352,2776 1397,2776 1442,2779 1486,2779 1531,2779 1576,2779 1621,2779 1665,2779 1710,2779 1755,2779 1800,2776 1845,2776 1889,2773 1934,2773 1979,2773 2024,2773"/>
+                <TextEquiv>
+                    <Unicode>Ovidius, 196, O. P. Ovidii Nasonis Opera Omnia, cum integris Ni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="788,2835 2017,2846 1992,2786 788,2801"/>
+                <Baseline points="797,2830 812,2827 856,2830 901,2830 946,2830 991,2830 1035,2830 1080,2833 1125,2833 1170,2836 1215,2833 1259,2833 1304,2830 1349,2830 1394,2830 1439,2833 1483,2830 1528,2833 1573,2830 1618,2833 1662,2833 1707,2833 1752,2833 1797,2833 1842,2830 1886,2830 1931,2830 1976,2830 2021,2827"/>
+                <TextEquiv>
+                    <Unicode>colai Heinsii, D. F. lectissimisque Variorum Notis: qui¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="789,2928 1142,2895 1297,2928 1550,2899 2024,2923 1995,2839 789,2837"/>
+                <Baseline points="800,2884 818,2884 862,2887 907,2887 952,2887 997,2887 1041,2887 1086,2887 1131,2887 1176,2889 1221,2887 1265,2887 1310,2887 1355,2887 1400,2889 1444,2889 1489,2887 1534,2887 1579,2887 1624,2887 1668,2889 1713,2887 1758,2887 1803,2887 1848,2887 1892,2887 1937,2884 1982,2884 2027,2878"/>
+                <TextEquiv>
+                    <Unicode>bus non pauca, ad suos quaeque antiquitatis fontes dili¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_12:47</Creator>
+        <Created>2024-02-07T19:24:48.500+01:00</Created>
+        <LastChange>2024-02-08T12:47:01.787+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963935" pageNr="27" tsid="147991441" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=NNROGHXMXBEYVZHAHQVFIIHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WEZFZIVNYNFZKPOKZLZCHYNC" imageId="51988635"/>
+    </Metadata>
+    <Page imageFilename="p027.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669776904" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="579,293 2048,293 2048,1535 579,1535"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="805,361 847,387 1335,387 1395,358 1823,381 1823,306 1770,288 1155,319 1124,290 1027,315 972,273 904,315 805,308"/>
+                <Baseline points="815,346 859,346 904,346 949,346 994,346 1038,346 1083,346 1128,346 1173,346 1218,346 1262,346 1307,346 1352,343 1397,343 1442,343 1486,346 1531,346 1576,346 1621,346 1665,346 1710,346 1755,346 1800,346 1827,349"/>
+                <TextEquiv>
+                    <Unicode>THEOLOGY AND ECCLESIASTICAL HISTORY, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="574,385 583,385 585,381 596,389 603,389 618,378 638,381 656,374 653,281 640,284 618,271 614,275 607,273 579,297 570,297"/>
+                <Baseline points="582,346 626,346 659,349"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="578,457 691,490 2034,477 2034,413 1779,380 1722,413 578,402"/>
+                <Baseline points="588,450 606,453 650,453 695,453 740,453 785,453 829,453 874,450 919,450 964,450 1009,450 1053,453 1098,450 1143,450 1188,450 1233,450 1277,450 1322,450 1367,450 1412,450 1456,450 1501,450 1546,450 1591,450 1636,450 1680,450 1725,453 1770,453 1815,453 1859,450 1904,450 1949,450 1994,450 2039,447"/>
+                <TextEquiv>
+                    <Unicode>Weyermann, 121—4, Q. Trauerrede auf den Herrn Karl Theodo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="789,519 2037,524 2035,475 1812,460 787,464"/>
+                <Baseline points="797,507 841,507 886,507 931,504 976,501 1021,504 1065,504 1110,504 1155,504 1200,504 1244,504 1289,504 1334,504 1379,504 1424,504 1468,504 1513,504 1558,504 1603,507 1648,507 1692,507 1737,507 1782,504 1827,504 1871,507 1916,504 1961,507 2006,507 2042,513"/>
+                <TextEquiv>
+                    <Unicode>rick, von und zu Guttenberg, &amp;c. von G. F. Weyermann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="783,576 1581,567 1581,526 1526,515 1381,534 1245,512 1190,539 1133,512 1098,532 1016,513 994,532 937,512 783,526"/>
+                <Baseline points="794,558 838,558 883,558 928,558 973,555 1018,558 1062,561 1107,558 1152,558 1197,555 1241,558 1286,558 1331,558 1376,558 1421,555 1465,558 1510,558 1555,558 1585,558"/>
+                <TextEquiv>
+                    <Unicode>den 14ten April. Bamberg, 1794.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="745,634 1982,634 2032,616 2032,541 1753,534 1577,583 745,565"/>
+                <Baseline points="755,612 800,612 844,609 889,609 934,609 979,612 1024,612 1068,612 1113,612 1158,612 1203,612 1247,612 1292,612 1337,612 1382,612 1427,615 1471,612 1516,612 1561,612 1606,615 1650,612 1695,612 1740,612 1785,612 1830,612 1874,612 1919,612 1964,612 2009,612 2036,612"/>
+                <TextEquiv>
+                    <Unicode>121—9, Q. Trauerrede auf Joseph den Zweiten den aller¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="783,691 1859,666 1975,700 2034,678 2034,638 783,644"/>
+                <Baseline points="794,665 829,665 874,662 919,665 964,665 1009,665 1053,665 1098,659 1143,662 1188,665 1233,665 1277,665 1322,665 1367,665 1412,665 1456,665 1501,665 1546,665 1591,665 1636,665 1680,665 1725,665 1770,662 1815,665 1859,662 1904,662 1949,662 1994,662 2039,662"/>
+                <TextEquiv>
+                    <Unicode>durchlauchtigsten Römischen Kayser, von G. F. Weyer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="790,743 1817,743 1881,728 1881,675 790,689"/>
+                <Baseline points="800,713 844,716 889,719 934,719 979,719 1024,719 1068,716 1113,716 1158,719 1203,719 1247,719 1292,719 1337,719 1382,719 1427,719 1471,719 1516,719 1561,719 1606,719 1650,719 1695,719 1740,719 1785,716 1830,716 1874,716 1886,716"/>
+                <TextEquiv>
+                    <Unicode>mann, den 20ten April, 1790. Bamberg, 1760.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="800,779 1797,809 2017,787 2035,734 800,739"/>
+                <Baseline points="809,770 829,770 874,773 919,773 964,773 1009,770 1053,773 1098,770 1143,770 1188,770 1233,773 1277,773 1322,773 1367,773 1412,770 1456,773 1501,773 1546,773 1591,773 1636,773 1680,773 1725,773 1770,773 1815,770 1859,770 1904,770 1949,770 1994,770 2039,767"/>
+                <TextEquiv>
+                    <Unicode>202, O. Six Dissertations; on Josephus; Reply to Dr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="576,785 590,783 640,807 682,781 710,787 722,779 734,789 754,790 776,781 774,686 734,700 706,688 666,695 625,688 589,721 576,722"/>
+                <Baseline points="585,770 629,770 674,773 719,773 764,773 779,770"/>
+                <TextEquiv>
+                    <Unicode>Whiston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="787,840 1799,833 1995,864 1995,790 1936,779 1797,807 787,787"/>
+                <Baseline points="797,824 841,824 886,824 931,824 976,824 1021,826 1065,826 1110,824 1155,826 1200,824 1244,826 1289,826 1334,824 1379,826 1424,826 1468,826 1513,826 1558,826 1603,826 1648,826 1692,826 1737,824 1782,824 1827,824 1871,824 1916,824 1961,824 2000,824"/>
+                <TextEquiv>
+                    <Unicode>Sykes, on the Chronology of the Scriptures, &amp;c. &amp;c.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="792,889 1837,902 1837,844 1799,833 1526,834 1469,869 1423,842 792,833"/>
+                <Baseline points="803,877 847,874 892,871 937,874 982,877 1027,877 1071,880 1116,877 1161,877 1206,877 1250,880 1295,880 1340,880 1385,880 1430,880 1474,883 1519,883 1564,883 1609,880 1653,880 1698,880 1743,880 1788,877 1833,877 1842,877"/>
+                <TextEquiv>
+                    <Unicode>By William Whiston, M. A. London, 1734.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="576,941 2034,954 2034,893 1870,884 576,895"/>
+                <Baseline points="585,928 606,928 650,931 695,931 740,931 785,931 829,931 874,931 919,934 964,934 1009,934 1053,934 1098,934 1143,931 1188,931 1233,931 1277,931 1322,934 1367,934 1412,934 1456,931 1501,931 1546,934 1591,934 1636,934 1680,934 1725,931 1770,931 1815,931 1859,931 1904,931 1949,931 1994,928 2039,925"/>
+                <TextEquiv>
+                    <Unicode>Wideburgius, 117, Q. Mat fois Biblica septem speciminibus com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="792,1009 2032,1005 2032,954 1962,941 792,954"/>
+                <Baseline points="803,985 826,985 871,985 916,988 961,985 1006,985 1050,985 1095,985 1140,985 1185,988 1230,985 1274,985 1319,985 1364,985 1409,985 1453,985 1498,985 1543,985 1588,988 1633,988 1677,988 1722,988 1767,985 1812,985 1857,985 1901,982 1946,985 1991,982 2036,979"/>
+                <TextEquiv>
+                    <Unicode>prehensa, exhibens explicationes locorum mathematico¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="778,1058 2006,1060 2032,1003 778,1014"/>
+                <Baseline points="788,1035 826,1038 871,1038 916,1038 961,1038 1006,1038 1050,1038 1095,1038 1140,1035 1185,1038 1230,1038 1274,1038 1319,1038 1364,1038 1409,1038 1453,1038 1498,1038 1543,1038 1588,1038 1633,1038 1677,1038 1722,1038 1767,1038 1812,1038 1857,1038 1901,1038 1946,1035 1991,1035 2036,1032"/>
+                <TextEquiv>
+                    <Unicode>rum quae per Universam Scripturam V. et N. Testa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="781,1097 2037,1122 2037,1058 1979,1043 781,1062"/>
+                <Baseline points="791,1092 835,1089 880,1092 925,1092 970,1092 1015,1092 1059,1092 1104,1092 1149,1089 1194,1092 1238,1092 1283,1092 1328,1092 1373,1092 1418,1092 1462,1092 1507,1092 1552,1092 1597,1092 1642,1092 1686,1092 1731,1089 1776,1089 1821,1089 1865,1089 1910,1089 1955,1092 2000,1089 2042,1095"/>
+                <TextEquiv>
+                    <Unicode>menti occurrunt. Autore Jo. Bernhardo Wideburgio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="787,1155 1696,1161 1696,1115 1671,1108 1430,1097 1353,1126 1214,1091 1157,1120 972,1097 922,1126 787,1100"/>
+                <Baseline points="797,1143 841,1143 886,1143 931,1143 976,1146 1021,1143 1065,1146 1110,1146 1155,1143 1200,1143 1244,1143 1289,1146 1334,1146 1379,1146 1424,1146 1468,1146 1513,1146 1558,1143 1603,1146 1648,1146 1692,1143 1701,1146"/>
+                <TextEquiv>
+                    <Unicode>Math. Prof. Jenensi, &amp;c. Jenae, 1730.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="572,1227 2043,1216 2043,1148 1966,1135 1548,1174 572,1144"/>
+                <Baseline points="582,1194 626,1194 671,1197 716,1197 761,1197 806,1197 850,1197 895,1197 940,1197 985,1197 1030,1197 1074,1197 1119,1197 1164,1197 1209,1197 1253,1197 1298,1200 1343,1197 1388,1200 1433,1200 1477,1197 1522,1200 1567,1200 1612,1200 1656,1200 1701,1197 1746,1197 1791,1197 1836,1197 1880,1197 1925,1197 1970,1194 2015,1194 2048,1197"/>
+                <TextEquiv>
+                    <Unicode>Wilson, 49, F. The Works of the Rt. Rev. Father in God, Thos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="790,1273 2035,1262 2035,1218 1918,1203 1373,1232 790,1208"/>
+                <Baseline points="800,1247 844,1247 889,1250 934,1247 979,1250 1024,1247 1068,1247 1113,1247 1158,1247 1203,1250 1247,1250 1292,1250 1337,1250 1382,1250 1427,1250 1471,1253 1516,1250 1561,1253 1606,1250 1650,1250 1695,1250 1740,1250 1785,1250 1830,1250 1874,1250 1919,1247 1964,1247 2009,1247 2039,1247"/>
+                <TextEquiv>
+                    <Unicode>Wilson, D. D. fifty-eight years Lord Bishop of Sodor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="781,1320 1771,1333 2037,1313 2037,1262 781,1273"/>
+                <Baseline points="791,1301 832,1304 877,1304 922,1304 967,1304 1012,1304 1056,1304 1101,1301 1146,1301 1191,1304 1236,1304 1280,1304 1325,1304 1370,1304 1415,1304 1459,1304 1504,1307 1549,1307 1594,1307 1639,1304 1683,1304 1728,1304 1773,1304 1818,1304 1862,1304 1907,1304 1952,1304 1997,1298 2042,1298"/>
+                <TextEquiv>
+                    <Unicode>and Man. With his Life, by the Rev. C. Crutwell. 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="790,1377 871,1366 921,1383 979,1362 1047,1384 1282,1362 1328,1383 1416,1366 1416,1333 1375,1318 1278,1333 1186,1311 1170,1328 1098,1315 1045,1335 855,1311 790,1324"/>
+                <Baseline points="800,1355 844,1352 889,1358 934,1358 979,1358 1024,1358 1068,1358 1113,1358 1158,1358 1203,1358 1247,1358 1292,1358 1337,1358 1382,1358 1421,1355"/>
+                <TextEquiv>
+                    <Unicode>vols. in 1. London, 1782.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="568,1419 2034,1427 2034,1368 1931,1357 1192,1388 568,1339"/>
+                <Baseline points="579,1406 623,1406 668,1409 713,1409 758,1409 803,1412 847,1412 892,1409 937,1409 982,1409 1027,1412 1071,1409 1116,1409 1161,1409 1206,1412 1250,1412 1295,1412 1340,1412 1385,1412 1430,1412 1474,1412 1519,1412 1564,1412 1609,1412 1653,1412 1698,1412 1743,1412 1788,1412 1833,1409 1877,1409 1922,1409 1967,1409 2012,1406 2039,1406"/>
+                <TextEquiv>
+                    <Unicode>Winckellmann, 123—3, Q. Lob-und Trauer-Rede auf den Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="787,1465 2043,1482 2043,1430 1977,1417 1403,1414 1174,1452 787,1419"/>
+                <Baseline points="797,1462 841,1462 886,1462 931,1462 976,1462 1021,1462 1065,1462 1110,1462 1155,1465 1200,1462 1244,1462 1289,1462 1334,1465 1379,1462 1424,1465 1468,1465 1513,1465 1558,1465 1603,1465 1648,1465 1692,1468 1737,1465 1782,1465 1827,1465 1871,1465 1916,1465 1961,1462 2006,1462 2048,1462"/>
+                <TextEquiv>
+                    <Unicode>Gallus, &amp; c. &amp;c. Von A. R. P. G. Windkellmann, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="787,1542 1007,1561 1144,1522 1302,1559 1555,1531 1555,1491 1443,1469 1383,1491 1192,1474 1130,1506 1098,1476 787,1465"/>
+                <Baseline points="797,1516 841,1519 886,1519 931,1519 976,1519 1021,1519 1065,1519 1110,1519 1155,1516 1200,1519 1244,1519 1289,1522 1334,1522 1379,1525 1424,1522 1468,1519 1513,1519 1558,1519 1561,1516"/>
+                <TextEquiv>
+                    <Unicode>12ten Februar. Augspurg, 1728.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

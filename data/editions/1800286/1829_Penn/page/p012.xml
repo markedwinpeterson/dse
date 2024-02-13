@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=07_02_2024_23:12</Creator>
+        <Created>2024-02-07T19:24:46.636+01:00</Created>
+        <LastChange>2024-02-07T23:12:38.861+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963908" pageNr="12" tsid="147942365" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=OOPRTPKVIOINMPSYJDMRTXFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPRHQHBKOBMXKRWXDDOKCUNI" imageId="51988608"/>
+    </Metadata>
+    <Page imageFilename="p012.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669768892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="522,442 1997,442 1997,1643 522,1643"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1026,521 1073,539 1143,528 1164,508 1195,523 1226,512 1270,538 1366,512 1475,527 1475,440 1423,422 1302,429 1283,412 1250,427 1234,411 1202,433 1184,418 1110,414 1070,440 1026,438"/>
+                <Baseline points="1035,492 1080,492 1125,495 1170,495 1215,495 1259,492 1304,495 1349,492 1394,495 1439,498 1477,498"/>
+                <TextEquiv>
+                    <Unicode>PREFACE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="598,777 1898,803 1992,792 1992,685 598,709"/>
+                <Baseline points="609,770 653,770 698,770 743,773 788,770 832,767 877,767 922,767 967,770 1012,770 1056,770 1101,770 1146,770 1191,770 1236,773 1280,770 1325,770 1370,770 1415,770 1459,770 1504,770 1549,770 1594,773 1639,773 1683,770 1728,770 1773,770 1818,770 1862,773 1907,773 1952,776 1997,773"/>
+                <TextEquiv>
+                    <Unicode>THE Trustees of the University of Pennsylvania have long had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="516,840 1983,852 1983,788 1790,770 516,781"/>
+                <Baseline points="525,826 570,826 615,826 659,826 704,826 749,829 794,826 838,826 883,824 928,826 973,826 1018,826 1062,824 1107,826 1152,824 1197,826 1241,826 1286,824 1331,824 1376,824 1421,826 1465,824 1510,826 1555,824 1600,826 1645,826 1689,824 1734,826 1779,824 1824,826 1868,826 1913,826 1958,829 1988,829"/>
+                <TextEquiv>
+                    <Unicode>inliemplation to cause a Catalogue of their Library to be made,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="527,893 1974,895 1957,838 527,843"/>
+                <Baseline points="537,877 582,883 626,880 671,880 716,880 761,880 806,880 850,880 895,880 940,877 985,880 1030,880 1074,880 1119,880 1164,880 1209,877 1253,880 1298,880 1343,880 1388,880 1433,877 1477,880 1522,880 1567,880 1612,880 1656,880 1701,880 1746,880 1791,877 1836,880 1880,880 1925,880 1970,880 1979,880"/>
+                <TextEquiv>
+                    <Unicode>with a view of increaseing it, and rendering it worthy of the first lite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="516,939 1983,946 1983,895 1832,887 516,899"/>
+                <Baseline points="525,934 570,934 615,934 659,937 704,934 749,934 794,934 838,934 883,934 928,934 973,934 1018,934 1062,934 1107,934 1152,934 1197,934 1241,934 1286,934 1331,934 1376,934 1421,934 1465,934 1510,934 1555,931 1600,934 1645,934 1689,934 1734,934 1779,934 1824,934 1868,934 1913,934 1958,934 1988,934"/>
+                <TextEquiv>
+                    <Unicode>rary institution of this commonwealth; but they were discouraged</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="525,998 1983,1009 1965,943 525,946"/>
+                <Baseline points="534,991 555,991 600,988 644,991 689,988 734,988 779,988 824,988 868,991 913,991 958,988 1003,988 1047,988 1092,988 1137,988 1182,988 1227,988 1271,988 1316,988 1361,988 1406,988 1450,988 1495,985 1540,985 1585,988 1630,988 1674,988 1719,988 1764,988 1809,988 1854,988 1898,988 1943,988 1988,988"/>
+                <TextEquiv>
+                    <Unicode>not only by the small number of volumes that it contains, but by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="516,1062 1814,1072 1965,1062 1987,1007 516,1009"/>
+                <Baseline points="525,1044 558,1041 603,1041 647,1044 692,1041 737,1041 782,1041 826,1041 871,1041 916,1044 961,1044 1006,1044 1050,1041 1095,1041 1140,1041 1185,1038 1230,1041 1274,1041 1319,1041 1364,1038 1409,1038 1453,1041 1498,1041 1543,1041 1588,1041 1633,1041 1677,1041 1722,1041 1767,1041 1812,1044 1857,1041 1901,1041 1946,1041 1991,1041"/>
+                <TextEquiv>
+                    <Unicode>little attention that was paid to it for a considerable time, in conse¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="516,1110 1803,1127 1989,1114 1989,1051 516,1066"/>
+                <Baseline points="525,1095 570,1095 615,1098 659,1095 704,1095 749,1095 794,1095 838,1095 883,1095 928,1095 973,1092 1018,1092 1062,1092 1107,1095 1152,1095 1197,1092 1241,1092 1286,1095 1331,1095 1376,1095 1421,1095 1465,1095 1510,1095 1555,1095 1600,1092 1645,1092 1689,1092 1734,1092 1779,1095 1824,1095 1868,1095 1913,1095 1958,1095 1994,1095"/>
+                <TextEquiv>
+                    <Unicode>quence of the successive changes which the University experienced</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="516,1160 1992,1169 1992,1112 1832,1103 516,1116"/>
+                <Baseline points="525,1152 564,1149 609,1149 653,1149 698,1149 743,1149 788,1149 832,1149 877,1149 922,1149 967,1149 1012,1149 1056,1149 1101,1149 1146,1149 1191,1149 1236,1146 1280,1146 1325,1149 1370,1146 1415,1149 1459,1146 1504,1146 1549,1146 1594,1149 1639,1146 1683,1149 1728,1149 1773,1149 1818,1149 1862,1149 1907,1149 1952,1149 1997,1146"/>
+                <TextEquiv>
+                    <Unicode>in its organization, which occasioned the loss of many books, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="517,1208 1989,1224 1966,1158 517,1162"/>
+                <Baseline points="528,1200 573,1203 618,1203 662,1203 707,1200 752,1200 797,1200 841,1200 886,1200 931,1200 976,1200 1021,1200 1065,1197 1110,1200 1155,1200 1200,1200 1244,1200 1289,1200 1334,1200 1379,1200 1424,1200 1468,1200 1513,1200 1558,1200 1603,1200 1648,1200 1692,1200 1737,1200 1782,1200 1827,1200 1871,1203 1916,1203 1961,1203 1994,1203"/>
+                <TextEquiv>
+                    <Unicode>that the sets of valuable works have been broken, which it will be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="521,1285 1987,1280 1987,1224 1915,1208 521,1223"/>
+                <Baseline points="531,1256 576,1256 620,1253 665,1253 710,1253 755,1253 800,1253 844,1253 889,1253 934,1256 979,1253 1024,1253 1068,1253 1113,1253 1158,1253 1203,1256 1247,1253 1292,1250 1337,1250 1382,1253 1427,1253 1471,1253 1516,1253 1561,1253 1606,1253 1650,1253 1695,1253 1740,1253 1785,1253 1830,1256 1874,1256 1919,1256 1964,1256 1991,1262"/>
+                <TextEquiv>
+                    <Unicode>necessary to replace entirely. The institution, however, having</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="516,1316 1992,1340 1992,1280 1838,1261 516,1283"/>
+                <Baseline points="525,1310 570,1310 615,1310 659,1307 704,1310 749,1307 794,1310 838,1310 883,1307 928,1307 973,1310 1018,1304 1062,1307 1107,1307 1152,1310 1197,1307 1241,1307 1286,1307 1331,1307 1376,1310 1421,1307 1465,1307 1510,1307 1555,1307 1600,1307 1645,1307 1689,1307 1734,1307 1779,1307 1824,1310 1868,1310 1913,1310 1958,1313 1997,1319"/>
+                <TextEquiv>
+                    <Unicode>made important changes in their internal arrangement, and having</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="525,1372 1983,1377 1983,1337 1900,1318 525,1320"/>
+                <Baseline points="534,1364 555,1364 600,1361 644,1364 689,1364 734,1361 779,1364 824,1364 868,1361 913,1361 958,1361 1003,1361 1047,1361 1092,1361 1137,1361 1182,1361 1227,1361 1271,1361 1316,1364 1361,1361 1406,1364 1450,1361 1495,1361 1540,1361 1585,1364 1630,1361 1674,1364 1719,1361 1764,1361 1809,1361 1854,1361 1898,1364 1943,1364 1988,1361"/>
+                <TextEquiv>
+                    <Unicode>determined to erect new building, in place of the former inconve¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="517,1431 1989,1429 1950,1372 517,1372"/>
+                <Baseline points="528,1418 573,1418 618,1418 662,1418 707,1418 752,1415 797,1415 841,1418 886,1418 931,1415 976,1415 1021,1415 1065,1415 1110,1415 1155,1415 1200,1415 1244,1415 1289,1415 1334,1415 1379,1415 1424,1415 1468,1415 1513,1415 1558,1415 1603,1415 1648,1415 1692,1418 1737,1418 1782,1415 1827,1415 1871,1418 1916,1415 1961,1418 1994,1418"/>
+                <TextEquiv>
+                    <Unicode>nient edifice, which building, it is expected, will be finished at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="517,1493 1992,1490 1981,1429 517,1431"/>
+                <Baseline points="528,1474 573,1471 618,1468 662,1471 707,1471 752,1471 797,1468 841,1468 886,1468 931,1471 976,1471 1021,1468 1065,1468 1110,1468 1155,1468 1200,1468 1244,1468 1289,1468 1334,1468 1379,1468 1424,1468 1468,1468 1513,1468 1558,1468 1603,1468 1648,1468 1692,1471 1737,1468 1782,1468 1827,1471 1871,1471 1916,1471 1961,1471 1997,1474"/>
+                <TextEquiv>
+                    <Unicode>close of the present year, it has been thought expedient to prepare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="512,1534 1928,1554 1983,1537 1983,1482 512,1491"/>
+                <Baseline points="522,1525 567,1525 612,1525 656,1525 701,1525 746,1522 791,1522 835,1525 880,1525 925,1522 970,1522 1015,1522 1059,1522 1104,1525 1149,1522 1194,1522 1238,1522 1283,1522 1328,1522 1373,1522 1418,1522 1462,1519 1507,1522 1552,1522 1597,1522 1642,1522 1686,1522 1731,1525 1776,1522 1821,1522 1865,1525 1910,1525 1955,1525 1988,1525"/>
+                <TextEquiv>
+                    <Unicode>and published the present Catalogue of the few books at present pos¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="517,1591 1989,1609 1974,1537 517,1543"/>
+                <Baseline points="528,1576 573,1573 618,1573 662,1579 707,1576 752,1579 797,1576 841,1576 886,1576 931,1576 976,1576 1021,1576 1065,1576 1110,1576 1155,1579 1200,1576 1244,1576 1289,1576 1334,1576 1379,1576 1424,1576 1468,1576 1513,1576 1558,1576 1603,1573 1648,1576 1692,1576 1737,1579 1782,1579 1827,1579 1871,1579 1916,1579 1961,1582 1991,1582"/>
+                <TextEquiv>
+                    <Unicode>sessed by the University, among which, however, it will be found,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="516,1646 1989,1639 1963,1595 1847,1589 517,1598"/>
+                <Baseline points="525,1630 570,1633 615,1633 659,1633 704,1633 749,1633 794,1630 838,1630 883,1630 928,1630 973,1630 1018,1627 1062,1627 1107,1630 1152,1630 1197,1630 1241,1630 1286,1630 1331,1630 1376,1633 1421,1630 1465,1630 1510,1630 1555,1630 1600,1630 1645,1630 1689,1630 1734,1630 1779,1630 1824,1630 1868,1630 1913,1633 1958,1633 1994,1630"/>
+                <TextEquiv>
+                    <Unicode>that there are a number of valuable works, and the whole, taken to-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="519,1633 1994,1633 1994,2777 519,2777"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="516,1699 1957,1723 1989,1637 516,1659"/>
+                <Baseline points="525,1686 570,1683 615,1686 659,1686 704,1686 749,1686 794,1686 838,1686 883,1686 928,1686 973,1686 1018,1683 1062,1683 1107,1683 1152,1683 1197,1683 1241,1686 1286,1683 1331,1686 1376,1683 1421,1686 1465,1683 1510,1683 1555,1683 1600,1686 1645,1683 1689,1686 1734,1686 1779,1686 1824,1686 1868,1686 1913,1686 1958,1689 1994,1692"/>
+                <TextEquiv>
+                    <Unicode>gether, may be considered as a good nu meus for an academical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="519,1784 538,1775 562,1777 589,1749 602,1755 608,1749 624,1749 646,1769 672,1766 670,1707 655,1703 637,1711 633,1707 621,1718 608,1711 582,1716 562,1699 541,1709 516,1701"/>
+                <Baseline points="528,1740 573,1737 618,1740 662,1743 677,1746"/>
+                <TextEquiv>
+                    <Unicode>library</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="574,1819 1965,1823 1983,1723 827,1712 574,1755"/>
+                <Baseline points="585,1791 629,1791 674,1791 719,1794 764,1791 809,1791 853,1791 898,1791 943,1791 988,1794 1032,1794 1077,1794 1122,1794 1167,1791 1212,1794 1256,1794 1301,1791 1346,1791 1391,1791 1436,1791 1480,1791 1525,1791 1570,1791 1615,1791 1659,1791 1704,1794 1749,1794 1794,1794 1839,1791 1883,1794 1928,1794 1973,1794 1988,1794"/>
+                <TextEquiv>
+                    <Unicode>This liberty was begun by private denations of the friends of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="517,1865 1989,1867 1989,1815 1834,1803 517,1806"/>
+                <Baseline points="528,1848 573,1848 618,1845 662,1848 707,1848 752,1848 797,1848 841,1845 886,1845 931,1845 976,1845 1021,1845 1065,1848 1110,1845 1155,1845 1200,1845 1244,1845 1289,1842 1334,1845 1379,1848 1424,1848 1468,1848 1513,1845 1558,1848 1603,1848 1648,1848 1692,1848 1737,1848 1782,1848 1827,1848 1871,1848 1916,1848 1961,1851 1994,1851"/>
+                <TextEquiv>
+                    <Unicode>institution, among whom the Rev. William Smith, the first Provost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="517,1909 1979,1915 1979,1874 1792,1860 517,1863"/>
+                <Baseline points="528,1901 549,1901 594,1901 638,1901 683,1898 728,1898 773,1898 818,1895 862,1898 907,1898 952,1898 997,1898 1041,1898 1086,1898 1131,1898 1176,1898 1221,1898 1265,1898 1310,1898 1355,1898 1400,1901 1444,1898 1489,1898 1534,1901 1579,1901 1624,1901 1668,1901 1713,1901 1758,1901 1803,1901 1848,1901 1892,1901 1937,1901 1982,1898"/>
+                <TextEquiv>
+                    <Unicode>of the College and Academy, and Dr. McDowell, one of his succes-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="512,1972 1974,1987 1974,1922 1856,1909 512,1933"/>
+                <Baseline points="522,1952 567,1952 612,1952 656,1952 701,1949 746,1946 791,1949 835,1949 880,1952 925,1955 970,1952 1015,1952 1059,1952 1104,1952 1149,1955 1194,1952 1238,1952 1283,1952 1328,1952 1373,1955 1418,1952 1462,1952 1507,1955 1552,1955 1597,1952 1642,1955 1686,1952 1731,1952 1776,1955 1821,1955 1865,1955 1910,1958 1955,1958 1979,1961"/>
+                <TextEquiv>
+                    <Unicode>sors, deserve to be particularly noticed. During the revolutionary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="517,2014 1989,2022 1989,1985 1749,1957 517,1978"/>
+                <Baseline points="528,2009 573,2009 618,2006 662,2006 707,2006 752,2006 797,2003 841,2003 886,2003 931,2003 976,2003 1021,2006 1065,2006 1110,2006 1155,2006 1200,2006 1244,2006 1289,2006 1334,2006 1379,2009 1424,2006 1468,2006 1513,2009 1558,2009 1603,2009 1648,2006 1692,2009 1737,2009 1782,2009 1827,2009 1871,2009 1916,2012 1961,2012 1991,2015"/>
+                <TextEquiv>
+                    <Unicode>war, our little collection was enriched by a donation in books from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="517,2073 1989,2086 1989,2022 517,2014"/>
+                <Baseline points="528,2063 573,2063 618,2063 662,2060 707,2057 752,2057 797,2057 841,2060 886,2060 931,2057 976,2057 1021,2060 1065,2060 1110,2060 1155,2060 1200,2060 1244,2063 1289,2060 1334,2060 1379,2060 1424,2060 1468,2060 1513,2063 1558,2063 1603,2063 1648,2063 1692,2063 1737,2063 1782,2063 1827,2063 1871,2065 1916,2065 1961,2065 1991,2065"/>
+                <TextEquiv>
+                    <Unicode>his majesty Louis the Sixteenth. These books, printed at the royal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="517,2138 1983,2130 1959,2077 517,2081"/>
+                <Baseline points="528,2119 573,2116 618,2116 662,2113 707,2113 752,2110 797,2110 841,2110 886,2110 931,2113 976,2113 1021,2110 1065,2113 1110,2113 1155,2113 1200,2113 1244,2110 1289,2113 1334,2113 1379,2113 1424,2113 1468,2113 1513,2113 1558,2113 1603,2116 1648,2116 1692,2116 1737,2116 1782,2116 1827,2119 1871,2119 1916,2119 1961,2122 1988,2122"/>
+                <TextEquiv>
+                    <Unicode>twinting office, consist chiefly of mathematical works, of works on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="516,2180 1989,2191 1989,2130 1780,2119 516,2138"/>
+                <Baseline points="525,2170 570,2170 615,2170 659,2167 704,2170 749,2164 794,2167 838,2167 883,2167 928,2167 973,2167 1018,2164 1062,2167 1107,2167 1152,2167 1197,2170 1241,2167 1286,2167 1331,2167 1376,2170 1421,2167 1465,2170 1510,2167 1555,2170 1600,2170 1645,2170 1689,2167 1734,2170 1779,2170 1824,2170 1868,2170 1913,2173 1958,2173 1994,2173"/>
+                <TextEquiv>
+                    <Unicode>natural history, among which is a collection of M. Buffon’s, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="508,2243 1983,2248 1983,2191 1908,2178 508,2178"/>
+                <Baseline points="519,2224 564,2224 609,2221 653,2221 698,2218 743,2218 788,2218 832,2221 877,2221 922,2224 967,2221 1012,2221 1056,2221 1101,2224 1146,2221 1191,2224 1236,2224 1280,2221 1325,2221 1370,2221 1415,2221 1459,2224 1504,2224 1549,2221 1594,2224 1639,2221 1683,2221 1728,2224 1773,2224 1818,2224 1862,2227 1907,2227 1952,2227 1988,2230"/>
+                <TextEquiv>
+                    <Unicode>some of the wattine historians. They have been all carefully</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="517,2292 1981,2305 1937,2235 517,2237"/>
+                <Baseline points="528,2280 552,2277 597,2274 641,2271 686,2274 731,2274 776,2274 821,2271 865,2274 910,2274 955,2274 1000,2274 1044,2277 1089,2274 1134,2274 1179,2277 1224,2274 1268,2277 1313,2274 1358,2271 1403,2277 1447,2277 1492,2277 1537,2277 1582,2277 1627,2280 1671,2277 1716,2277 1761,2277 1806,2277 1851,2277 1895,2277 1940,2280 1985,2277"/>
+                <TextEquiv>
+                    <Unicode>preserved, and will, it is hoped, long remain, a Memorial of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="517,2340 1981,2349 1981,2305 1795,2287 517,2292"/>
+                <Baseline points="528,2334 573,2331 618,2331 662,2328 707,2328 752,2328 797,2328 841,2328 886,2331 931,2328 976,2328 1021,2328 1065,2331 1110,2331 1155,2331 1200,2328 1244,2331 1289,2331 1334,2328 1379,2328 1424,2331 1468,2331 1513,2331 1558,2331 1603,2331 1648,2331 1692,2331 1737,2331 1782,2331 1827,2331 1871,2334 1916,2334 1961,2334 1985,2337"/>
+                <TextEquiv>
+                    <Unicode>liberality of that great and unfortunate Monarch. For a few years</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="516,2408 1933,2414 1983,2407 1983,2348 516,2351"/>
+                <Baseline points="525,2388 570,2385 615,2385 659,2385 704,2385 749,2382 794,2382 838,2382 883,2382 928,2382 973,2382 1018,2382 1062,2382 1107,2382 1152,2385 1197,2385 1241,2385 1286,2385 1331,2385 1376,2385 1421,2385 1465,2385 1510,2388 1555,2388 1600,2385 1645,2385 1689,2385 1734,2385 1779,2388 1824,2385 1868,2385 1913,2388 1958,2391 1988,2391"/>
+                <TextEquiv>
+                    <Unicode>past, the Board of Trustees havenernally kppropriated a sum of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="516,2464 1909,2469 1981,2460 1981,2405 516,2408"/>
+                <Baseline points="525,2439 570,2439 615,2439 659,2439 704,2439 749,2436 794,2436 838,2436 883,2439 928,2436 973,2439 1018,2436 1062,2439 1107,2442 1152,2439 1197,2439 1241,2439 1286,2439 1331,2439 1376,2439 1421,2439 1465,2439 1510,2439 1555,2439 1600,2439 1645,2442 1689,2439 1734,2439 1779,2439 1824,2439 1868,2439 1913,2442 1958,2442 1985,2442"/>
+                <TextEquiv>
+                    <Unicode>money for the purchase of books, by means of which this liberty is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="508,2517 1981,2510 1933,2449 508,2465"/>
+                <Baseline points="519,2492 564,2492 609,2495 653,2492 698,2492 743,2489 788,2492 832,2489 877,2489 922,2492 967,2492 1012,2492 1056,2492 1101,2492 1146,2492 1191,2492 1236,2492 1280,2492 1325,2489 1370,2492 1415,2492 1459,2495 1504,2495 1549,2492 1594,2492 1639,2492 1683,2492 1728,2495 1773,2492 1818,2492 1862,2495 1907,2492 1952,2495 1985,2495"/>
+                <TextEquiv>
+                    <Unicode>now suadually increaseing, and it is to be hoped, will continue to in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="512,2559 1974,2574 1952,2506 512,2519"/>
+                <Baseline points="522,2546 567,2546 612,2546 656,2546 701,2546 746,2546 791,2546 835,2546 880,2543 925,2546 970,2546 1015,2546 1059,2546 1104,2546 1149,2546 1194,2546 1238,2546 1283,2546 1328,2546 1373,2546 1418,2546 1462,2546 1507,2549 1552,2549 1597,2549 1642,2549 1686,2549 1731,2546 1776,2549 1821,2549 1865,2546 1910,2549 1955,2549 1979,2549"/>
+                <TextEquiv>
+                    <Unicode>crease. But the fund of the University being limited, it is greatly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="508,2613 1659,2639 1979,2611 1979,2569 508,2572"/>
+                <Baseline points="519,2600 564,2600 609,2600 653,2600 698,2600 743,2600 788,2597 832,2597 877,2600 922,2600 967,2600 1012,2600 1056,2600 1101,2600 1146,2600 1191,2600 1236,2600 1280,2603 1325,2603 1370,2600 1415,2603 1459,2603 1504,2600 1549,2603 1594,2600 1639,2603 1683,2603 1728,2600 1773,2603 1818,2600 1862,2603 1907,2603 1952,2603 1982,2603"/>
+                <TextEquiv>
+                    <Unicode>to be wished that the friends of public instruction may Oontibute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="517,2662 1981,2683 1981,2616 517,2607"/>
+                <Baseline points="528,2654 573,2654 618,2654 662,2654 707,2654 752,2654 797,2654 841,2651 886,2654 931,2654 976,2654 1021,2654 1065,2654 1110,2654 1155,2654 1200,2654 1244,2657 1289,2657 1334,2657 1379,2657 1424,2657 1468,2657 1513,2657 1558,2654 1603,2654 1648,2654 1692,2657 1737,2657 1782,2657 1827,2657 1871,2654 1916,2657 1961,2657 1985,2657"/>
+                <TextEquiv>
+                    <Unicode>their aid to the attainment of this important object. Donations of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="508,2714 1974,2727 1974,2681 1904,2670 508,2670"/>
+                <Baseline points="519,2710 564,2710 609,2707 653,2707 698,2707 743,2707 788,2707 832,2707 877,2707 922,2707 967,2707 1012,2707 1056,2707 1101,2710 1146,2707 1191,2707 1236,2710 1280,2710 1325,2707 1370,2707 1415,2710 1459,2710 1504,2710 1549,2710 1594,2710 1639,2710 1683,2707 1728,2710 1773,2710 1818,2710 1862,2710 1907,2710 1952,2710 1979,2710"/>
+                <TextEquiv>
+                    <Unicode>keoks, therefore, will be thankfully received, and the deserous don¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="508,2775 1664,2804 1891,2775 1891,2725 508,2729"/>
+                <Baseline points="519,2764 564,2764 609,2764 653,2767 698,2767 743,2764 788,2764 832,2767 877,2764 922,2767 967,2767 1012,2764 1056,2767 1101,2767 1146,2767 1191,2767 1236,2767 1280,2767 1325,2767 1370,2767 1415,2767 1459,2767 1504,2767 1549,2767 1594,2767 1639,2767 1683,2767 1728,2767 1773,2767 1818,2767 1862,2767 1895,2767"/>
+                <TextEquiv>
+                    <Unicode>ors will entitle themselves to the gratitude of future deserations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

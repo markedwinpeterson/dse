@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=07_02_2024_23:48</Creator>
+        <Created>2024-02-07T19:24:47.569+01:00</Created>
+        <LastChange>2024-02-07T23:48:38.359+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963922" pageNr="20" tsid="147942864" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=XXOFCGTJPMVLRAIWWCIFLKLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOUOFSDCGDHQHYEQWQMAWUAG" imageId="51988622"/>
+    </Metadata>
+    <Page imageFilename="p020.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669774415" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="489,278 1964,278 1964,1413 489,1413"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="704,351 1365,345 1409,377 1479,340 1740,353 1740,283 1599,303 1417,248 1093,301 941,265 865,305 704,285"/>
+                <Baseline points="713,334 758,337 803,337 847,334 892,334 937,331 982,331 1027,334 1071,331 1116,331 1161,331 1206,334 1250,331 1295,331 1340,331 1385,331 1430,331 1474,328 1519,328 1564,328 1609,331 1653,331 1698,331 1743,331"/>
+                <TextEquiv>
+                    <Unicode>THEOLOGY AND ECCLESIASTICAL HISTORY, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="700,459 1909,458 1950,454 1950,382 700,386"/>
+                <Baseline points="710,438 746,438 791,438 835,438 880,438 925,435 970,435 1015,438 1059,438 1104,438 1149,438 1194,438 1238,438 1283,438 1328,438 1373,438 1418,438 1462,435 1507,435 1552,435 1597,435 1642,435 1686,435 1731,435 1776,435 1821,432 1865,435 1910,435 1955,432"/>
+                <TextEquiv>
+                    <Unicode>D. D. Whereunto is added, the Reasonableness of Chris¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="696,502 1920,503 1920,461 1814,441 696,459"/>
+                <Baseline points="707,492 716,492 761,495 806,495 850,492 895,495 940,495 985,495 1030,492 1074,492 1119,489 1164,492 1209,492 1253,492 1298,492 1343,492 1388,492 1433,492 1477,492 1522,492 1567,489 1612,492 1656,492 1701,492 1746,492 1791,489 1836,486 1880,489 1925,489"/>
+                <TextEquiv>
+                    <Unicode>tian Religion. By the same Author. London, 1662.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="478,575 1946,564 1948,498 480,494"/>
+                <Baseline points="489,549 534,552 579,552 623,552 668,549 713,546 758,546 803,546 847,546 892,546 937,546 982,546 1027,546 1071,546 1116,549 1161,546 1206,546 1250,546 1295,546 1340,546 1385,543 1430,546 1474,546 1519,543 1564,543 1609,543 1653,543 1698,543 1743,543 1788,543 1833,543 1877,540 1922,546 1952,549"/>
+                <TextEquiv>
+                    <Unicode>Hare, 176, O. Psalmorum Liber, in Versiculos metrice divisus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="700,612 1953,627 1926,559 700,562"/>
+                <Baseline points="710,600 749,603 794,600 838,603 883,603 928,600 973,603 1018,603 1062,600 1107,600 1152,597 1197,597 1241,600 1286,600 1331,600 1376,600 1421,600 1465,597 1510,597 1555,600 1600,600 1645,600 1689,597 1734,597 1779,597 1824,597 1868,597 1913,597 1958,597"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. Cum Dissertatione de antiqua Hebraeorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="704,665 1951,665 1896,608 704,614"/>
+                <Baseline points="713,656 746,653 791,653 835,653 880,653 925,653 970,656 1015,656 1059,653 1104,653 1149,653 1194,653 1238,653 1283,653 1328,653 1373,653 1418,650 1462,650 1507,650 1552,653 1597,653 1642,653 1686,650 1731,650 1776,650 1821,653 1865,650 1910,650 1955,650"/>
+                <TextEquiv>
+                    <Unicode>Poesi, &amp;c. Accedunt Poescos Hebraicae Specimina, &amp;e.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="704,722 1909,728 1953,718 1953,660 704,667"/>
+                <Baseline points="713,707 749,707 794,707 838,704 883,704 928,707 973,707 1018,707 1062,707 1107,710 1152,710 1197,710 1241,710 1286,710 1331,707 1376,707 1421,707 1465,704 1510,707 1555,707 1600,704 1645,707 1689,707 1734,707 1779,707 1824,704 1868,704 1913,704 1958,704"/>
+                <TextEquiv>
+                    <Unicode>Edidit Franciscus Hare, S. T. P. Episc. Cicestr. He¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="711,775 1643,781 1720,770 1720,718 921,718 864,744 711,720"/>
+                <Baseline points="722,758 767,761 812,761 856,761 901,764 946,764 991,764 1035,761 1080,764 1125,761 1170,761 1215,761 1259,761 1304,761 1349,761 1394,761 1439,758 1483,761 1528,761 1573,758 1618,761 1662,758 1707,758 1722,758"/>
+                <TextEquiv>
+                    <Unicode>braicè et Latinè. Tom. 2. Londini, 1736.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="485,849 1944,836 1944,748 485,768"/>
+                <Baseline points="495,815 540,815 585,815 629,818 674,818 719,815 740,815 755,812 800,815 844,815 889,815 934,818 979,815 1024,815 1068,815 1113,812 1158,812 1203,815 1247,815 1292,815 1337,815 1382,812 1427,812 1471,809 1516,815 1561,812 1606,812 1650,812 1695,812 1740,815 1785,812 1830,812 1874,812 1919,815 1949,815"/>
+                <TextEquiv>
+                    <Unicode>Larold, 50—4, O. A Letter to the Rev. W. V. Harold on reading</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="696,876 1953,884 1953,838 1887,821 696,821"/>
+                <Baseline points="707,868 749,871 794,871 838,868 883,871 928,871 973,871 1018,871 1062,868 1107,868 1152,865 1197,868 1241,868 1286,868 1331,868 1376,868 1421,868 1465,868 1510,865 1555,868 1600,865 1645,865 1689,865 1734,868 1779,868 1824,868 1868,868 1913,865 1958,865"/>
+                <TextEquiv>
+                    <Unicode>his late Reply to a“Catholic layman.” By an admirer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="704,943 1417,943 1442,932 1442,888 1049,876 987,910 919,878 704,891"/>
+                <Baseline points="713,925 758,922 803,922 847,922 892,922 937,925 982,922 1027,922 1071,922 1116,922 1161,922 1206,925 1250,925 1295,925 1340,922 1385,922 1430,922 1447,925"/>
+                <TextEquiv>
+                    <Unicode>of Fenelon. Philadelphia, 1822.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="491,1001 1852,981 1959,1022 1959,937 1784,908 1182,961 491,922"/>
+                <Baseline points="501,976 546,976 591,976 635,976 680,979 719,979 731,979 776,973 821,973 865,976 910,979 955,979 1000,979 1044,979 1089,976 1134,979 1179,979 1224,976 1268,976 1313,976 1358,976 1403,976 1447,976 1492,976 1537,973 1582,973 1627,973 1671,973 1716,973 1761,973 1806,973 1851,973 1895,976 1940,976 1964,979"/>
+                <TextEquiv>
+                    <Unicode>Hartman, 144—4, Q. Allegata et Probata Philosophiae Christianae,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="704,1036 1771,1051 1917,1042 1917,987 704,994"/>
+                <Baseline points="713,1030 758,1030 803,1030 847,1030 892,1032 937,1032 982,1032 1027,1030 1071,1030 1116,1030 1161,1030 1206,1030 1250,1032 1295,1030 1340,1030 1385,1030 1430,1030 1474,1027 1519,1027 1564,1027 1609,1024 1653,1024 1698,1027 1743,1027 1788,1027 1833,1024 1877,1024 1922,1027"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. Auct. P. C. Hartman. Duderstadii, 1690.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="491,1102 1953,1091 1911,1036 491,1035"/>
+                <Baseline points="501,1080 546,1083 591,1083 635,1080 680,1083 725,1083 770,1083 815,1083 859,1083 904,1080 949,1080 994,1080 1038,1080 1083,1083 1128,1083 1173,1083 1218,1083 1262,1083 1307,1083 1352,1083 1397,1083 1442,1083 1486,1083 1531,1083 1576,1080 1621,1080 1665,1080 1710,1080 1755,1080 1800,1080 1845,1080 1889,1080 1934,1083 1958,1083"/>
+                <TextEquiv>
+                    <Unicode>Haven, 103, Q. Petri V. Haven M. Ph. Commentatio analytica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="704,1147 1951,1161 1940,1091 704,1095"/>
+                <Baseline points="713,1137 746,1137 791,1134 835,1134 880,1134 925,1134 970,1137 1015,1137 1059,1134 1104,1137 1149,1134 1194,1134 1238,1134 1283,1137 1328,1134 1373,1137 1418,1137 1462,1137 1507,1137 1552,1137 1597,1134 1642,1134 1686,1134 1731,1134 1776,1131 1821,1134 1865,1134 1910,1137 1955,1134"/>
+                <TextEquiv>
+                    <Unicode>in Epistolam Pauli ad Titum; cum Praefatione Sig. J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="696,1202 1687,1198 1687,1147 1641,1143 696,1147"/>
+                <Baseline points="707,1188 752,1185 797,1188 841,1188 886,1191 931,1191 976,1191 1021,1188 1065,1185 1110,1188 1155,1188 1200,1188 1244,1188 1289,1185 1334,1188 1379,1191 1424,1188 1468,1188 1513,1188 1558,1188 1603,1185 1648,1188 1689,1188"/>
+                <TextEquiv>
+                    <Unicode>Baumgarten. Halæ Magdeburgicæ, 1742.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="485,1268 1900,1266 1957,1257 1957,1200 485,1209"/>
+                <Baseline points="495,1238 528,1241 573,1241 618,1241 662,1241 707,1241 752,1241 797,1241 841,1241 886,1241 931,1241 976,1241 1021,1238 1065,1241 1110,1241 1155,1241 1200,1241 1244,1241 1289,1241 1334,1241 1379,1241 1424,1241 1468,1241 1513,1241 1558,1241 1603,1241 1648,1238 1692,1238 1737,1238 1782,1238 1827,1238 1871,1238 1916,1238 1961,1236"/>
+                <TextEquiv>
+                    <Unicode>Heckel, 120—4, Q. De Patriarchis Commentatio historico-critico¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="704,1305 1948,1323 1948,1255 1799,1244 704,1268"/>
+                <Baseline points="713,1295 743,1295 788,1292 832,1292 877,1295 922,1295 967,1295 1012,1295 1056,1292 1101,1292 1146,1295 1191,1295 1236,1295 1280,1295 1325,1295 1370,1295 1415,1295 1459,1298 1504,1295 1549,1295 1594,1295 1639,1295 1683,1292 1728,1295 1773,1295 1818,1295 1862,1295 1907,1292 1952,1292"/>
+                <TextEquiv>
+                    <Unicode>canonia, &amp;c. Auct. P.P. Heckel et P. S. Schlicker.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="700,1365 834,1356 897,1373 926,1356 956,1369 979,1349 1042,1363 1106,1354 1106,1308 1057,1297 1040,1310 1001,1303 957,1330 906,1308 854,1321 840,1306 808,1306 785,1321 753,1303 700,1303"/>
+                <Baseline points="710,1346 755,1349 800,1346 844,1343 889,1343 934,1346 979,1346 1024,1346 1068,1346 1110,1349"/>
+                <TextEquiv>
+                    <Unicode>Bambergæ, 1792.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="480,1424 1953,1415 1953,1341 1490,1371 1158,1327 893,1374 480,1334"/>
+                <Baseline points="489,1403 525,1403 570,1403 615,1400 659,1400 704,1400 749,1403 794,1400 838,1403 883,1400 928,1400 973,1403 1018,1400 1062,1400 1107,1400 1152,1400 1197,1400 1241,1400 1286,1400 1331,1400 1376,1400 1421,1400 1465,1400 1510,1400 1555,1403 1600,1400 1645,1400 1689,1400 1734,1400 1779,1403 1824,1397 1868,1400 1913,1400 1958,1400"/>
+                <TextEquiv>
+                    <Unicode>Heinaichen, 110—4, Q. Concordia Uulgatae Latinæ cum Fonte</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="492,1400 1961,1400 1961,2908 492,2908"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1793,1487 1810,1481 1819,1487 1828,1479 1843,1492 1850,1487 1865,1496 1887,1477 1893,1483 1900,1479 1909,1488 1920,1488 1939,1476 1953,1479 1951,1413 1933,1411 1922,1417 1898,1409 1882,1420 1863,1404 1849,1413 1792,1411"/>
+                <Baseline points="1803,1450 1848,1450 1892,1453 1937,1453 1958,1453"/>
+                <TextEquiv>
+                    <Unicode>Wirce-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="704,1464 1735,1474 1711,1409 702,1415"/>
+                <Baseline points="713,1456 755,1453 800,1453 844,1453 889,1453 934,1453 979,1453 1024,1453 1068,1453 1113,1453 1158,1456 1203,1456 1247,1453 1292,1453 1337,1453 1382,1456 1427,1456 1471,1456 1516,1453 1561,1456 1606,1456 1650,1456 1695,1453 1740,1453"/>
+                <TextEquiv>
+                    <Unicode>Hebraico, &amp;c. &amp;c Auct. F. E. Heinaichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="704,1521 746,1516 790,1540 818,1518 865,1525 908,1514 933,1521 944,1514 954,1523 989,1518 990,1470 978,1474 968,1464 924,1472 899,1466 889,1474 878,1464 808,1464 770,1483 737,1464 706,1466"/>
+                <Baseline points="713,1507 725,1507 770,1507 815,1507 859,1507 904,1504 949,1504 994,1504"/>
+                <TextEquiv>
+                    <Unicode>burgi, 1756.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="485,1584 1202,1569 1189,1516 1035,1523 998,1503 950,1531 821,1520 792,1542 757,1518 654,1534 485,1503"/>
+                <Baseline points="495,1561 540,1561 585,1561 629,1564 674,1564 719,1561 764,1561 809,1561 853,1561 898,1558 943,1561 988,1558 1032,1561 1077,1558 1122,1561 1167,1561 1206,1561"/>
+                <TextEquiv>
+                    <Unicode>Hermas, 35, F. See Cotelerius:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="729,1621 1948,1635 1959,1553 1656,1586 1586,1551 729,1573"/>
+                <Baseline points="740,1612 752,1612 797,1615 841,1612 886,1612 931,1615 976,1612 1021,1612 1065,1615 1110,1612 1155,1612 1200,1612 1244,1612 1289,1612 1334,1615 1379,1612 1424,1612 1468,1612 1513,1615 1558,1615 1603,1615 1648,1615 1692,1612 1737,1612 1782,1615 1827,1615 1871,1612 1916,1615 1961,1609"/>
+                <TextEquiv>
+                    <Unicode>110—3, Q. Unio Religionis Protestanticae cum Catho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="485,1628 502,1624 551,1643 571,1639 582,1650 605,1645 650,1654 674,1652 691,1635 709,1630 709,1586 693,1588 673,1575 643,1578 636,1586 594,1580 575,1586 560,1573 540,1571 485,1584"/>
+                <Baseline points="495,1615 534,1615 579,1615 623,1615 668,1615 713,1612"/>
+                <TextEquiv>
+                    <Unicode>Hermann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="696,1674 1953,1694 1920,1623 1371,1613 1255,1650 1136,1617 1029,1654 943,1617 757,1634 696,1588"/>
+                <Baseline points="707,1668 749,1665 794,1668 838,1668 883,1665 928,1665 973,1668 1018,1665 1062,1668 1107,1668 1152,1668 1197,1668 1241,1668 1286,1665 1331,1668 1376,1668 1421,1665 1465,1668 1510,1668 1555,1668 1600,1668 1645,1668 1689,1668 1734,1665 1779,1665 1824,1668 1868,1665 1913,1668 1958,1665"/>
+                <TextEquiv>
+                    <Unicode>lica, &amp;c. &amp;c Auct. F. G. Hermann. Augustae Vin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="700,1725 737,1729 744,1736 788,1729 803,1738 814,1727 882,1736 882,1679 851,1685 820,1676 792,1690 779,1678 757,1685 735,1676 720,1681 700,1676"/>
+                <Baseline points="710,1719 749,1719 794,1719 838,1719 886,1715"/>
+                <TextEquiv>
+                    <Unicode>del. 177</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="485,1797 1957,1788 1957,1744 1806,1724 485,1729"/>
+                <Baseline points="495,1773 540,1773 585,1773 629,1776 674,1776 689,1779 713,1776 752,1773 797,1773 841,1773 886,1773 931,1770 976,1770 1021,1770 1065,1770 1110,1770 1155,1773 1200,1773 1244,1770 1289,1773 1334,1773 1379,1773 1424,1773 1468,1773 1513,1773 1558,1773 1603,1773 1648,1773 1692,1773 1737,1773 1782,1773 1827,1770 1871,1770 1916,1776 1961,1773"/>
+                <TextEquiv>
+                    <Unicode>Herring, 96, O. Seven Sermons on Public Occasions. By the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="695,1838 1325,1834 1420,1867 1953,1836 1953,1793 1764,1773 695,1781"/>
+                <Baseline points="704,1824 749,1827 794,1827 838,1824 883,1824 928,1827 973,1827 1018,1824 1062,1827 1107,1827 1152,1827 1197,1827 1241,1827 1286,1824 1331,1827 1376,1827 1421,1830 1465,1830 1510,1830 1555,1830 1600,1830 1645,1830 1689,1830 1734,1830 1779,1830 1824,1827 1868,1827 1913,1830 1958,1827"/>
+                <TextEquiv>
+                    <Unicode>most Rev. Dr. Thomas Herring, late Archbishop of Can¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="706,1887 1356,1900 1356,1839 1250,1839 1218,1860 1143,1834 1095,1852 1068,1832 1038,1856 933,1834 888,1854 706,1838"/>
+                <Baseline points="716,1877 761,1877 806,1880 850,1877 895,1877 940,1877 985,1880 1030,1877 1074,1877 1119,1877 1164,1880 1209,1877 1253,1880 1298,1877 1343,1880 1358,1880"/>
+                <TextEquiv>
+                    <Unicode>terbury, &amp;c. Dublin, 1763.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="489,1946 1770,1962 1957,1950 1957,1874 489,1896"/>
+                <Baseline points="498,1934 543,1931 588,1931 632,1937 677,1937 722,1934 767,1934 812,1931 856,1931 901,1931 946,1928 991,1931 1035,1931 1080,1931 1125,1931 1170,1934 1215,1934 1259,1931 1304,1931 1349,1934 1394,1934 1439,1934 1483,1931 1528,1931 1573,1931 1618,1934 1662,1931 1707,1934 1752,1934 1797,1934 1842,1934 1886,1937 1931,1934 1961,1937"/>
+                <TextEquiv>
+                    <Unicode>Hervey, 12, D. Theron and Aspasio: or, a series of Dialogues and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="700,1999 1950,2018 1950,1968 1902,1946 700,1944"/>
+                <Baseline points="710,1982 755,1985 800,1985 844,1985 889,1988 934,1988 979,1988 1024,1985 1068,1988 1113,1985 1158,1988 1203,1985 1247,1985 1292,1988 1337,1985 1382,1988 1427,1988 1471,1988 1516,1988 1561,1988 1606,1988 1650,1985 1695,1982 1740,1985 1785,1988 1830,1985 1874,1985 1919,1988 1955,1988"/>
+                <TextEquiv>
+                    <Unicode>Letters, upon the most important and interesting Sub-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="700,2064 1948,2054 1948,2012 1865,1997 1782,2025 1692,1992 1319,2021 700,1996"/>
+                <Baseline points="710,2033 752,2042 797,2042 841,2039 886,2039 931,2036 976,2039 1021,2039 1065,2036 1110,2036 1155,2039 1200,2039 1244,2039 1289,2042 1334,2039 1379,2042 1424,2042 1468,2039 1513,2042 1558,2042 1603,2039 1648,2039 1692,2039 1737,2039 1782,2039 1827,2039 1871,2042 1916,2042 1952,2042"/>
+                <TextEquiv>
+                    <Unicode>jects. By James Hervey, A. M. &amp;c. 3 vols. Lon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="695,2109 1834,2113 1920,2071 1580,2043 983,2075 876,2045 695,2076"/>
+                <Baseline points="704,2089 749,2089 794,2092 838,2092 883,2092 928,2092 973,2095 1018,2092 1062,2089 1107,2089 1152,2092 1197,2092 1241,2092 1286,2092 1331,2092 1376,2095 1421,2095 1465,2095 1510,2095 1555,2095 1600,2092 1645,2092 1689,2092 1734,2092 1779,2095 1824,2092 1868,2095 1913,2098 1925,2098"/>
+                <TextEquiv>
+                    <Unicode>don, 1755. [Presented by the Rev. Thomas Barton.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="485,2166 1948,2166 1948,2119 1876,2104 485,2109"/>
+                <Baseline points="495,2146 540,2143 585,2143 629,2143 674,2143 719,2143 764,2146 809,2146 853,2146 898,2146 943,2146 988,2146 1032,2146 1077,2146 1122,2146 1167,2146 1212,2146 1256,2146 1301,2149 1346,2146 1391,2146 1436,2146 1480,2146 1525,2146 1570,2146 1615,2146 1659,2146 1704,2146 1749,2146 1794,2146 1839,2146 1883,2149 1928,2149 1952,2146"/>
+                <TextEquiv>
+                    <Unicode>Hildebrandus, 133, Q. B. D. Joach. Hildebrandi Historia Concilio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="691,2212 1944,2222 1909,2157 691,2161"/>
+                <Baseline points="701,2200 746,2197 791,2200 835,2200 880,2200 925,2200 970,2197 1015,2200 1059,2200 1104,2203 1149,2200 1194,2203 1238,2203 1283,2203 1328,2200 1373,2203 1418,2200 1462,2200 1507,2200 1552,2203 1597,2200 1642,2200 1686,2200 1731,2200 1776,2200 1821,2203 1865,2200 1910,2200 1949,2200"/>
+                <TextEquiv>
+                    <Unicode>rum a N. C. usq; ad Seculi XVII. annum XLV. in Ec¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="700,2256 1944,2290 1944,2222 1823,2212 700,2211"/>
+                <Baseline points="710,2251 755,2254 800,2254 844,2254 889,2251 934,2251 979,2254 1024,2254 1068,2254 1113,2254 1158,2254 1203,2254 1247,2254 1292,2254 1337,2254 1382,2254 1427,2254 1471,2254 1516,2251 1561,2254 1606,2254 1650,2254 1695,2254 1740,2254 1785,2254 1830,2254 1874,2254 1919,2257 1949,2257"/>
+                <TextEquiv>
+                    <Unicode>clesia habitorum, Anno Christi MDCL. in illustri Aca¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="695,2312 1825,2319 1810,2262 695,2267"/>
+                <Baseline points="704,2304 749,2304 794,2307 838,2307 883,2307 928,2307 973,2307 1018,2310 1062,2307 1107,2307 1152,2307 1197,2307 1241,2307 1286,2307 1331,2307 1376,2310 1421,2307 1465,2307 1510,2307 1555,2307 1600,2307 1645,2307 1689,2307 1734,2307 1779,2307 1824,2307 1830,2310"/>
+                <TextEquiv>
+                    <Unicode>demia Julia exposita, &amp;c. &amp;e. Helmstadii, 1715.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="481,2374 1959,2380 1959,2312 1896,2299 1694,2335 481,2301"/>
+                <Baseline points="492,2358 537,2358 582,2358 626,2358 671,2358 716,2358 761,2358 806,2358 850,2358 895,2361 940,2358 985,2361 1030,2361 1074,2361 1119,2361 1164,2361 1209,2358 1253,2358 1298,2358 1343,2358 1388,2361 1433,2361 1477,2358 1522,2358 1567,2361 1612,2361 1656,2361 1701,2361 1746,2358 1791,2358 1836,2361 1880,2361 1925,2361 1961,2364"/>
+                <TextEquiv>
+                    <Unicode>Histoire Ecclesiastique, 317, O. Histoire Ecclésiastique des Eglises</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="695,2418 1942,2435 1942,2381 1883,2372 695,2370"/>
+                <Baseline points="704,2412 749,2412 794,2412 838,2412 883,2412 928,2412 973,2412 1018,2412 1062,2415 1107,2415 1152,2415 1197,2415 1241,2409 1286,2412 1331,2412 1376,2412 1421,2415 1465,2415 1510,2415 1555,2415 1600,2415 1645,2415 1689,2415 1734,2415 1779,2415 1824,2409 1868,2415 1913,2412 1946,2412"/>
+                <TextEquiv>
+                    <Unicode>Reformées au Royaume de France en laquelle est des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="695,2477 1951,2482 1951,2435 1779,2418 695,2420"/>
+                <Baseline points="704,2466 749,2466 794,2466 838,2466 883,2466 928,2466 973,2469 1018,2466 1062,2466 1107,2469 1152,2469 1197,2466 1241,2463 1286,2466 1331,2466 1376,2466 1421,2469 1465,2469 1510,2466 1555,2466 1600,2466 1645,2466 1689,2469 1734,2469 1779,2469 1824,2469 1868,2469 1913,2469 1955,2469"/>
+                <TextEquiv>
+                    <Unicode>crite au vray la renaissance et accroissement d'icelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="695,2528 1951,2538 1939,2479 693,2486"/>
+                <Baseline points="704,2519 749,2522 794,2519 838,2519 883,2519 928,2519 973,2519 1018,2516 1062,2522 1107,2522 1152,2519 1197,2522 1241,2522 1286,2519 1331,2516 1376,2519 1421,2519 1465,2522 1510,2522 1555,2522 1600,2519 1645,2522 1689,2522 1734,2519 1779,2519 1824,2522 1868,2522 1913,2522 1955,2522"/>
+                <TextEquiv>
+                    <Unicode>depuis l'an sortXI. jusques en l'année MDLXIII. leur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="700,2582 1953,2602 1953,2536 1918,2532 700,2541"/>
+                <Baseline points="710,2573 755,2573 800,2573 844,2573 889,2573 934,2573 979,2576 1024,2573 1068,2576 1113,2576 1158,2576 1203,2576 1247,2573 1292,2573 1337,2576 1382,2576 1427,2576 1471,2576 1516,2576 1561,2573 1606,2573 1650,2573 1695,2576 1740,2573 1785,2573 1830,2573 1874,2576 1919,2576 1958,2579"/>
+                <TextEquiv>
+                    <Unicode>discipline, Synodes, persecutions, &amp;c. &amp;c, &amp;e. avec le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="696,2648 1944,2642 1944,2600 1893,2580 696,2578"/>
+                <Baseline points="707,2627 752,2627 797,2627 841,2627 886,2627 931,2627 976,2627 1021,2627 1065,2630 1110,2630 1155,2630 1200,2627 1244,2627 1289,2627 1334,2630 1379,2630 1424,2627 1468,2630 1513,2630 1558,2630 1603,2627 1648,2624 1692,2627 1737,2627 1782,2630 1827,2630 1871,2630 1916,2630 1949,2627"/>
+                <TextEquiv>
+                    <Unicode>discours des premiers troubles ou guerres civiles, des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="700,2694 1957,2707 1957,2639 700,2652"/>
+                <Baseline points="710,2681 755,2678 800,2681 844,2681 889,2681 934,2681 979,2681 1024,2681 1068,2683 1113,2683 1158,2683 1203,2683 1247,2683 1292,2683 1337,2683 1382,2683 1427,2683 1471,2683 1516,2683 1561,2683 1606,2681 1650,2681 1695,2681 1740,2681 1785,2683 1830,2686 1874,2683 1919,2686 1961,2686"/>
+                <TextEquiv>
+                    <Unicode>quelles la vraye cause est aussi declarée. 3 tom. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="700,2740 810,2742 832,2756 854,2742 1038,2751 1038,2714 1011,2696 968,2699 939,2688 902,2703 869,2694 854,2707 816,2696 777,2703 748,2690 731,2701 700,2697"/>
+                <Baseline points="710,2731 755,2731 800,2734 844,2731 889,2731 934,2734 979,2731 1024,2734 1041,2734"/>
+                <TextEquiv>
+                    <Unicode>Geneve, 1580.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="481,2815 1766,2817 1942,2802 1942,2732 481,2738"/>
+                <Baseline points="492,2785 537,2785 582,2785 626,2788 671,2788 716,2785 761,2782 806,2788 850,2788 895,2788 940,2788 985,2788 1030,2785 1074,2788 1119,2788 1164,2788 1209,2791 1253,2791 1298,2791 1343,2791 1388,2791 1433,2788 1477,2788 1522,2788 1567,2788 1612,2788 1656,2788 1701,2788 1746,2788 1791,2788 1836,2785 1880,2788 1925,2788 1946,2788"/>
+                <TextEquiv>
+                    <Unicode>Hogan, 50—2, O. Strictures on a congress written by W. V.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1849,2839 1863,2841 1883,2855 1898,2857 1905,2852 1928,2870 1935,2868 1942,2874 1951,2874 1944,2804 1929,2804 1922,2797 1911,2799 1896,2787 1858,2811 1845,2810"/>
+                <Baseline points="1859,2836 1904,2842 1949,2845 1952,2845"/>
+                <TextEquiv>
+                    <Unicode>By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="700,2852 1611,2850 1681,2876 1819,2850 1819,2817 1646,2799 700,2797"/>
+                <Baseline points="710,2839 755,2842 800,2842 844,2842 889,2839 934,2842 979,2842 1024,2842 1068,2842 1113,2839 1158,2842 1203,2845 1247,2842 1292,2842 1337,2842 1382,2845 1427,2845 1471,2845 1516,2845 1561,2845 1606,2845 1650,2848 1695,2848 1740,2845 1785,2845 1824,2845"/>
+                <TextEquiv>
+                    <Unicode>Harold entitled “A Reply to a Catholic layman.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="715,2927 820,2909 910,2936 946,2909 998,2936 1137,2907 1209,2936 1292,2912 1474,2931 1567,2909 1567,2855 1536,2852 715,2852"/>
+                <Baseline points="725,2892 770,2892 815,2895 859,2898 904,2895 949,2898 994,2895 1038,2898 1083,2895 1128,2895 1173,2895 1218,2898 1262,2895 1307,2895 1352,2895 1397,2895 1442,2895 1486,2895 1531,2898 1570,2895"/>
+                <TextEquiv>
+                    <Unicode>William Hogan. Philadelphia, 1822.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

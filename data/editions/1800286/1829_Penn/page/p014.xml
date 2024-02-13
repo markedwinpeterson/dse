@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=07_02_2024_23:21</Creator>
+        <Created>2024-02-07T19:24:46.996+01:00</Created>
+        <LastChange>2024-02-07T23:21:44.707+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963912" pageNr="14" tsid="147942451" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=EQLJFIYZXMBCKLUATFHZIHCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=STNYKQEXXUAJOHBQQBZHOCJV" imageId="51988612"/>
+    </Metadata>
+    <Page imageFilename="p014.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669769423" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="516,744 1991,744 1991,2007 516,2007"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="930,829 1129,836 1213,805 1272,834 1447,836 1556,805 1556,733 1532,724 1414,714 1353,736 1285,714 1250,729 1096,714 1042,735 967,713 930,731"/>
+                <Baseline points="940,797 979,797 1024,797 1068,797 1113,797 1158,797 1203,797 1247,797 1292,797 1337,797 1382,797 1427,797 1471,797 1516,797 1561,794"/>
+                <TextEquiv>
+                    <Unicode>CATALOGUE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="508,1248 757,1213 1895,1243 1989,1219 1989,1131 508,1160"/>
+                <Baseline points="519,1215 558,1209 603,1212 647,1212 692,1212 737,1212 782,1212 826,1215 871,1215 916,1215 961,1209 1006,1209 1050,1209 1095,1209 1140,1212 1185,1212 1230,1212 1274,1212 1319,1212 1364,1212 1409,1212 1453,1212 1498,1212 1543,1212 1588,1212 1633,1212 1677,1209 1722,1209 1767,1212 1812,1212 1857,1212 1901,1212 1946,1212 1991,1212"/>
+                <TextEquiv>
+                    <Unicode>THEOLOGY, AND ECCLESIASTICAL HISTORY AND</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1059,1282 1105,1285 1145,1311 1186,1300 1208,1315 1311,1283 1394,1293 1425,1287 1425,1221 1374,1221 1355,1234 1333,1219 1315,1228 1289,1219 1256,1235 1219,1221 1202,1232 1178,1221 1145,1235 1096,1221 1059,1232"/>
+                <Baseline points="1068,1274 1113,1274 1158,1274 1203,1274 1247,1277 1292,1274 1337,1274 1382,1274 1427,1280 1430,1277"/>
+                <TextEquiv>
+                    <Unicode>BIOGRAPHY.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="508,1471 1298,1475 1298,1423 1177,1423 1108,1396 1031,1418 924,1401 889,1431 841,1407 683,1423 508,1398"/>
+                <Baseline points="519,1459 564,1462 609,1459 653,1459 698,1462 743,1462 788,1459 832,1462 877,1462 922,1459 967,1462 1012,1459 1056,1462 1101,1459 1146,1462 1191,1462 1236,1462 1280,1462 1301,1462"/>
+                <TextEquiv>
+                    <Unicode>Abravanel, 116, Q. See Maiiemon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="512,1539 1961,1554 1974,1462 512,1482"/>
+                <Baseline points="522,1516 567,1519 612,1519 656,1516 701,1516 746,1513 791,1516 835,1513 880,1513 925,1516 970,1516 1015,1516 1059,1516 1104,1516 1149,1516 1194,1516 1238,1513 1283,1516 1328,1513 1373,1516 1418,1513 1462,1513 1507,1513 1552,1513 1597,1513 1642,1513 1686,1516 1731,1516 1776,1516 1821,1516 1865,1516 1910,1516 1955,1516 1976,1516"/>
+                <TextEquiv>
+                    <Unicode>Acontius, 56, D. Statagematum Satanae libri octo. Jacobo Acon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="727,1583 1539,1580 1519,1526 1101,1525 1055,1558 965,1523 843,1523 801,1550 727,1521"/>
+                <Baseline points="737,1567 782,1570 826,1570 871,1570 916,1570 961,1570 1006,1570 1050,1570 1095,1570 1140,1570 1185,1567 1230,1567 1274,1567 1319,1570 1364,1567 1409,1567 1453,1564 1498,1567 1543,1570"/>
+                <TextEquiv>
+                    <Unicode>tio, Åuthore. Amstelædami, 1664.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="506,1626 1823,1648 1972,1639 1972,1552 1701,1591 506,1582"/>
+                <Baseline points="516,1621 540,1624 585,1624 629,1624 674,1621 719,1618 764,1618 773,1615 818,1621 862,1618 907,1621 952,1621 997,1621 1041,1621 1086,1618 1131,1621 1176,1621 1221,1621 1265,1621 1310,1618 1355,1621 1400,1621 1444,1618 1489,1618 1534,1621 1579,1621 1624,1618 1668,1621 1713,1621 1758,1621 1803,1621 1848,1621 1892,1621 1937,1621 1976,1621"/>
+                <TextEquiv>
+                    <Unicode>Allen, 115—1, F. Certa.nenenen Select Disc iniurses on the Doctrine of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="727,1679 1965,1711 1935,1631 727,1637"/>
+                <Baseline points="737,1674 782,1671 826,1671 871,1671 916,1674 961,1674 1006,1674 1050,1674 1095,1674 1140,1674 1185,1674 1230,1674 1274,1674 1319,1671 1364,1674 1409,1674 1453,1674 1498,1674 1543,1674 1588,1674 1633,1674 1677,1674 1722,1674 1767,1677 1812,1677 1857,1677 1901,1677 1946,1677 1970,1674"/>
+                <TextEquiv>
+                    <Unicode>Two Covenants, &amp;c. and on faith and Justification. By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="729,1736 1460,1738 1460,1687 1409,1683 1138,1685 1096,1705 1024,1683 729,1685"/>
+                <Baseline points="740,1722 785,1725 829,1728 874,1728 919,1728 964,1728 1009,1728 1053,1728 1098,1728 1143,1728 1188,1728 1233,1728 1277,1728 1322,1728 1367,1725 1412,1725 1456,1728 1465,1725"/>
+                <TextEquiv>
+                    <Unicode>William Allen. London, 1699.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="506,1799 1906,1806 1974,1793 1974,1740 506,1746"/>
+                <Baseline points="516,1782 561,1782 606,1782 650,1782 695,1782 728,1782 752,1782 770,1782 815,1782 859,1785 904,1782 949,1782 994,1782 1038,1782 1083,1779 1128,1782 1173,1782 1218,1782 1262,1782 1307,1782 1352,1782 1397,1782 1442,1782 1486,1782 1531,1782 1576,1782 1621,1782 1665,1782 1710,1782 1755,1782 1800,1782 1845,1782 1889,1782 1934,1785 1979,1779"/>
+                <TextEquiv>
+                    <Unicode>Alstedius, 115, Q. Theologia Scholastica didactica, exhibens locos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="724,1858 1974,1849 1930,1792 724,1801"/>
+                <Baseline points="734,1833 779,1836 824,1836 868,1836 913,1836 958,1833 1003,1836 1047,1836 1092,1836 1137,1833 1182,1836 1227,1836 1271,1836 1316,1836 1361,1833 1406,1833 1450,1836 1495,1836 1540,1836 1585,1836 1630,1836 1674,1836 1719,1839 1764,1839 1809,1839 1854,1836 1898,1836 1943,1839 1979,1836"/>
+                <TextEquiv>
+                    <Unicode>communes Theologicos methodo scholastica, quatuor in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="729,1911 1793,1891 1965,1922 1965,1847 729,1858"/>
+                <Baseline points="740,1886 785,1886 829,1886 874,1886 919,1889 964,1886 1009,1889 1053,1889 1098,1889 1143,1889 1188,1889 1233,1889 1277,1889 1322,1889 1367,1886 1412,1886 1456,1886 1501,1889 1546,1889 1591,1889 1636,1889 1680,1889 1725,1892 1770,1892 1815,1889 1859,1886 1904,1892 1949,1892 1970,1889"/>
+                <TextEquiv>
+                    <Unicode>partes tributa, studio Johannis-Henrici Alstedii. Hano¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="727,1952 764,1952 775,1961 788,1948 816,1959 841,1950 865,1970 900,1946 932,1959 952,1948 965,1950 965,1913 939,1900 919,1906 908,1896 899,1904 875,1893 864,1904 792,1911 766,1896 748,1913 727,1909"/>
+                <Baseline points="737,1937 782,1940 826,1940 871,1940 916,1937 961,1940 967,1940"/>
+                <TextEquiv>
+                    <Unicode>viae, 1618.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="506,2012 1930,2027 1963,1926 1604,1970 506,1959"/>
+                <Baseline points="516,1991 561,1994 606,1994 650,1994 695,1994 740,1991 785,1991 829,1994 874,1994 919,1994 964,1997 1009,1994 1053,1994 1098,1994 1143,1994 1188,1994 1233,1994 1277,1994 1322,1991 1367,1994 1412,1994 1456,1997 1501,1997 1546,1994 1591,1997 1636,1997 1680,1997 1725,1997 1770,1994 1815,1997 1859,1997 1904,1997 1949,1997 1967,1997"/>
+                <TextEquiv>
+                    <Unicode>Altenstaig, 50, Q. Lexicon Theologicum quo omnium fere termi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="513,1995 1973,1995 1973,2917 513,2917"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="722,2059 1963,2068 1961,2012 720,2014"/>
+                <Baseline points="731,2048 776,2045 821,2048 865,2045 910,2045 955,2045 1000,2045 1044,2045 1089,2048 1134,2048 1179,2048 1224,2048 1268,2048 1313,2048 1358,2048 1403,2048 1447,2045 1492,2048 1537,2048 1582,2048 1627,2051 1671,2051 1716,2051 1761,2051 1806,2051 1851,2051 1895,2051 1940,2054 1967,2057"/>
+                <TextEquiv>
+                    <Unicode>norum et obscuriorum vocum etymologiae, ambiguitates,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="722,2110 1968,2127 1933,2060 722,2059"/>
+                <Baseline points="731,2101 776,2101 821,2101 865,2098 910,2098 955,2098 1000,2098 1044,2101 1089,2098 1134,2101 1179,2101 1224,2101 1268,2098 1313,2098 1358,2098 1403,2098 1447,2098 1492,2101 1537,2101 1582,2101 1627,2101 1671,2104 1716,2104 1761,2104 1806,2104 1851,2104 1895,2104 1940,2104 1973,2107"/>
+                <TextEquiv>
+                    <Unicode> definitiones, usus, enucleatae ob oculos ponuntur, et di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="722,2171 1965,2169 1965,2123 1908,2112 722,2108"/>
+                <Baseline points="731,2155 776,2152 821,2152 865,2152 910,2152 955,2152 1000,2155 1044,2155 1089,2155 1134,2155 1179,2152 1224,2152 1268,2152 1313,2152 1358,2152 1403,2152 1447,2152 1492,2155 1537,2155 1582,2152 1627,2155 1671,2155 1716,2158 1761,2155 1806,2158 1851,2158 1895,2158 1940,2158 1970,2158"/>
+                <TextEquiv>
+                    <Unicode>lucide explicantur. Post summum laborem Joannis Al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="722,2217 1966,2222 1965,2169 1911,2165 722,2171"/>
+                <Baseline points="731,2209 776,2206 821,2206 865,2209 910,2209 955,2209 1000,2209 1044,2209 1089,2209 1134,2206 1179,2209 1224,2206 1268,2209 1313,2209 1358,2209 1403,2209 1447,2209 1492,2209 1537,2209 1582,2209 1627,2209 1671,2212 1716,2209 1761,2212 1806,2212 1851,2212 1895,2215 1940,2215 1970,2212"/>
+                <TextEquiv>
+                    <Unicode>tenstaig, S. T. D. &amp;c. Studio et labore R. B. Joannis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="724,2265 775,2283 897,2261 1160,2289 1199,2268 1508,2278 1508,2222 1449,2215 1366,2237 1265,2211 1178,2235 930,2213 899,2239 724,2217"/>
+                <Baseline points="734,2257 779,2260 824,2257 868,2260 913,2260 958,2260 1003,2260 1047,2263 1092,2263 1137,2263 1182,2260 1227,2263 1271,2260 1316,2263 1361,2263 1406,2260 1450,2260 1495,2263 1513,2260"/>
+                <TextEquiv>
+                    <Unicode>Tytz. Coloniae Agrippinae, 1619.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="738,2324 1913,2342 1970,2333 1970,2265 738,2279"/>
+                <Baseline points="749,2313 794,2313 838,2313 883,2313 928,2313 973,2313 1018,2313 1062,2316 1107,2316 1152,2313 1197,2313 1241,2310 1286,2313 1331,2313 1376,2313 1421,2313 1465,2316 1510,2313 1555,2316 1600,2316 1645,2316 1689,2316 1734,2316 1779,2316 1824,2316 1868,2316 1913,2316 1958,2319 1973,2316"/>
+                <TextEquiv>
+                    <Unicode>131, F. Media: the Middle Things, in reference to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="508,2327 527,2333 549,2324 562,2331 573,2327 595,2342 621,2338 641,2325 648,2333 668,2322 687,2331 718,2322 718,2272 700,2268 676,2285 637,2272 630,2278 619,2270 600,2276 593,2268 556,2268 508,2287"/>
+                <Baseline points="519,2313 564,2313 609,2313 653,2313 698,2313 722,2313"/>
+                <TextEquiv>
+                    <Unicode>Ambrose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="718,2379 1965,2386 1965,2335 1828,2324 718,2331"/>
+                <Baseline points="728,2367 773,2364 818,2364 862,2367 907,2364 952,2367 997,2367 1041,2364 1086,2370 1131,2370 1176,2367 1221,2367 1265,2367 1310,2367 1355,2367 1400,2367 1444,2370 1489,2370 1534,2370 1579,2370 1624,2370 1668,2370 1713,2370 1758,2367 1803,2370 1848,2370 1892,2373 1937,2376 1970,2376"/>
+                <TextEquiv>
+                    <Unicode>first and last things; or the means, Duties, Ordinance,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="718,2430 1968,2440 1946,2383 716,2377"/>
+                <Baseline points="728,2418 773,2418 818,2418 862,2421 907,2421 952,2421 997,2421 1041,2424 1086,2421 1131,2421 1176,2421 1221,2424 1265,2424 1310,2424 1355,2424 1400,2424 1444,2424 1489,2421 1534,2421 1579,2421 1624,2424 1668,2424 1713,2424 1758,2424 1803,2424 1848,2427 1892,2424 1937,2427 1973,2430"/>
+                <TextEquiv>
+                    <Unicode>both secret, private, and publick, for continuance and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="714,2484 1965,2506 1933,2438 714,2429"/>
+                <Baseline points="725,2472 770,2472 815,2472 859,2475 904,2475 949,2475 994,2475 1038,2475 1083,2475 1128,2475 1173,2475 1218,2477 1262,2475 1307,2477 1352,2477 1397,2477 1442,2477 1486,2477 1531,2477 1576,2477 1621,2475 1665,2477 1710,2475 1755,2477 1800,2477 1845,2477 1889,2477 1934,2480 1970,2480"/>
+                <TextEquiv>
+                    <Unicode>intrease of a Godly Life, (once begun) tell we come to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="718,2535 1965,2559 1963,2504 1887,2486 718,2484"/>
+                <Baseline points="728,2525 773,2525 818,2525 862,2528 907,2528 952,2531 997,2528 1041,2531 1086,2528 1131,2531 1176,2531 1221,2531 1265,2531 1310,2531 1355,2531 1400,2534 1444,2534 1489,2534 1534,2531 1579,2531 1624,2531 1668,2531 1713,2534 1758,2531 1803,2534 1848,2534 1892,2534 1937,2537 1970,2540"/>
+                <TextEquiv>
+                    <Unicode>Heaven, &amp;c &amp;c. &amp;e. By Isaac Ambrose. London,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="724,2591 760,2589 784,2609 812,2589 827,2594 843,2589 849,2592 852,2587 871,2589 869,2554 856,2554 838,2541 816,2545 803,2535 794,2541 784,2535 762,2543 751,2535 748,2539 722,2535"/>
+                <Baseline points="731,2576 776,2576 821,2576 865,2579 874,2579"/>
+                <TextEquiv>
+                    <Unicode>1674.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="506,2646 554,2640 573,2659 641,2642 681,2653 703,2637 753,2662 849,2642 876,2662 989,2640 1038,2655 1051,2592 1018,2604 972,2581 893,2600 812,2587 781,2607 738,2587 678,2605 552,2587 527,2609 506,2600"/>
+                <Baseline points="516,2630 561,2633 606,2633 650,2633 695,2633 740,2633 785,2633 829,2633 874,2633 919,2633 964,2636 1009,2636 1053,2636 1056,2636"/>
+                <TextEquiv>
+                    <Unicode>Aquila, 36, Q. See Bos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="503,2697 1252,2699 1252,2659 1123,2633 1046,2661 972,2642 875,2662 803,2637 746,2668 711,2644 503,2648"/>
+                <Baseline points="513,2683 558,2686 603,2686 647,2686 692,2683 737,2689 782,2686 826,2686 871,2686 916,2686 961,2686 1006,2686 1050,2689 1095,2689 1140,2689 1185,2689 1230,2689 1256,2689"/>
+                <TextEquiv>
+                    <Unicode>Armiiuus, 113. Q. See Tuissus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="508,2773 1970,2756 1968,2699 1863,2690 506,2703"/>
+                <Baseline points="519,2737 564,2737 609,2740 653,2740 698,2737 743,2737 788,2740 832,2740 877,2740 922,2740 967,2740 1012,2743 1056,2740 1101,2743 1146,2743 1191,2743 1236,2743 1280,2746 1325,2743 1370,2743 1415,2743 1459,2743 1504,2743 1549,2743 1594,2743 1639,2743 1683,2743 1728,2743 1773,2743 1818,2743 1862,2746 1907,2746 1952,2746 1973,2746"/>
+                <TextEquiv>
+                    <Unicode>Aschenbrenner, 143—6, Q. De Episcopo in Ecclesia, et Eccesia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="718,2806 1959,2823 1959,2764 1922,2755 718,2751"/>
+                <Baseline points="728,2791 773,2794 818,2794 862,2794 907,2794 952,2794 997,2797 1041,2797 1086,2797 1131,2797 1176,2797 1221,2800 1265,2800 1310,2797 1355,2800 1400,2797 1444,2797 1489,2797 1534,2797 1579,2800 1624,2800 1668,2797 1713,2800 1758,2800 1803,2800 1848,2800 1892,2800 1937,2803 1964,2803"/>
+                <TextEquiv>
+                    <Unicode>in Episcopo, &amp;c. &amp;c. Auct. D. P. Aschenbrenner.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="724,2863 854,2858 882,2874 899,2861 913,2876 1007,2856 1035,2872 1055,2858 1083,2871 1119,2863 1119,2806 1015,2804 972,2821 873,2806 812,2821 766,2802 724,2802"/>
+                <Baseline points="734,2848 779,2848 824,2848 868,2848 913,2848 958,2851 1003,2851 1047,2851 1092,2848 1125,2851"/>
+                <TextEquiv>
+                    <Unicode>Bambergæ, 1768.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="506,2909 974,2948 1959,2917 1959,2841 506,2847"/>
+                <Baseline points="516,2895 561,2898 606,2898 650,2901 695,2904 740,2904 785,2904 829,2904 874,2904 919,2907 964,2904 1009,2907 1053,2907 1098,2904 1143,2904 1188,2904 1233,2904 1277,2901 1322,2901 1367,2904 1412,2904 1456,2904 1501,2904 1546,2904 1591,2907 1636,2904 1680,2904 1725,2904 1770,2907 1815,2907 1859,2907 1904,2904 1949,2904 1964,2904"/>
+                <TextEquiv>
+                    <Unicode>Barclay, 9, Q. An Apology for the true Christian Divinity; be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

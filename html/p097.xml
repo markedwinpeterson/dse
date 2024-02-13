@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_10:21</Creator>
+        <Created>2024-02-07T19:24:57.154+01:00</Created>
+        <LastChange>2024-02-08T10:21:07.300+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64964064" pageNr="97" tsid="147974625" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=XUJIUCGKFZCJOTFUFUITDPYZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWDACQNVAADYEAXEGOQVVHRZ" imageId="51988763"/>
+    </Metadata>
+    <Page imageFilename="p097.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669798841" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="629,314 2101,314 2101,1443 629,1443"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="618,394 1700,374 1898,409 1940,403 1942,310 1034,326 895,282 776,339 620,299"/>
+                <Baseline points="629,367 647,370 692,370 737,370 782,370 826,370 871,370 916,370 961,367 1006,367 1050,367 1095,367 1140,364 1185,364 1230,367 1274,367 1319,367 1364,367 1409,364 1453,367 1498,367 1543,367 1588,367 1633,367 1677,367 1722,367 1767,367 1812,367 1857,367 1901,367 1946,364"/>
+                <TextEquiv>
+                    <Unicode>84 MISCELLANEOUS wordS AND VOLYGRAPHIC AUTHORS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="625,484 1388,482 1421,475 1421,420 1258,405 1197,429 1126,402 1003,435 893,414 752,438 706,407 625,442"/>
+                <Baseline points="635,471 662,468 707,471 752,471 797,471 841,471 886,471 931,468 976,468 1021,468 1065,468 1110,468 1155,468 1200,468 1244,468 1289,468 1334,468 1379,468 1424,465"/>
+                <TextEquiv>
+                    <Unicode>Capugnanus, 39, D. See Schottus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="631,537 1936,550 2087,535 2087,479 631,486"/>
+                <Baseline points="641,525 656,525 701,528 746,525 791,525 835,522 880,525 925,522 970,519 1015,522 1059,522 1104,522 1149,522 1194,522 1238,522 1283,522 1328,522 1373,522 1418,522 1462,522 1507,522 1552,522 1597,522 1642,522 1686,522 1731,522 1776,525 1821,522 1865,522 1910,522 1955,525 2000,522 2045,522 2089,522"/>
+                <TextEquiv>
+                    <Unicode>Catalogue of Books, &amp;c. 9, 0. Catalogue of Books belonging to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="840,603 2085,607 2074,534 840,537"/>
+                <Baseline points="850,576 880,576 925,576 970,576 1015,576 1059,576 1104,576 1149,573 1194,576 1238,576 1283,576 1328,576 1373,576 1418,576 1462,576 1507,576 1552,576 1597,576 1642,579 1686,579 1731,579 1776,576 1821,579 1865,576 1910,576 1955,576 2000,576 2045,573 2089,573"/>
+                <TextEquiv>
+                    <Unicode>the February Company of Philadelphia; with an Account</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="840,638 1980,662 2048,651 2048,589 840,605"/>
+                <Baseline points="850,629 886,629 931,629 976,629 1021,629 1065,629 1110,629 1155,629 1200,629 1244,629 1289,629 1334,629 1379,629 1424,626 1468,629 1513,629 1558,629 1603,629 1648,629 1692,632 1737,629 1782,629 1827,629 1871,629 1916,629 1961,626 2006,629 2051,626"/>
+                <TextEquiv>
+                    <Unicode>of the Institution, &amp;c. &amp;c., etc. Philadelphia, 1807.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="836,689 904,711 1062,689 1414,708 1449,684 1693,708 1693,638 836,647"/>
+                <Baseline points="847,686 892,680 937,683 982,683 1027,686 1071,683 1116,683 1161,683 1206,683 1250,683 1295,683 1340,683 1385,683 1430,683 1474,683 1519,683 1564,683 1609,680 1653,683 1698,680"/>
+                <TextEquiv>
+                    <Unicode>(Presented by the February Company.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="814,746 1854,757 1837,691 814,691"/>
+                <Baseline points="824,737 829,737 874,734 919,731 964,737 1009,737 1053,737 1098,737 1143,737 1188,737 1233,731 1277,734 1322,737 1367,737 1412,737 1456,734 1501,734 1546,737 1591,737 1636,737 1680,737 1725,737 1770,734 1815,734 1859,734"/>
+                <TextEquiv>
+                    <Unicode>76—2, O. Catalogus Collegii Yalensis, 1808.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="816,800 2056,811 2090,801 2090,726 1858,763 816,745"/>
+                <Baseline points="826,788 841,788 886,791 931,794 976,791 1021,791 1065,791 1110,791 1155,791 1200,791 1244,785 1289,788 1334,788 1379,791 1424,788 1468,788 1513,788 1558,791 1603,791 1648,791 1692,791 1737,788 1782,791 1827,791 1871,791 1916,791 1961,791 2006,788 2051,788 2095,785"/>
+                <TextEquiv>
+                    <Unicode>106, O. Catalogus Bibliothecae Harvardianae Cantabri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="831,864 1331,844 1724,869 1724,803 831,814"/>
+                <Baseline points="841,841 886,841 931,844 976,844 1021,841 1065,841 1110,844 1155,841 1200,844 1244,841 1289,841 1334,844 1379,844 1424,844 1468,841 1513,844 1558,841 1603,844 1648,841 1692,841 1728,841"/>
+                <TextEquiv>
+                    <Unicode>giae Nov-Anglorum. Bostoniae, 1790.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="625,906 2010,921 2096,910 2096,827 1704,871 625,844"/>
+                <Baseline points="635,898 668,898 713,898 758,898 803,895 847,898 892,895 937,895 982,898 1027,898 1071,895 1116,898 1161,898 1206,898 1250,898 1295,895 1340,895 1385,895 1430,898 1474,898 1519,898 1564,898 1609,898 1653,898 1698,895 1743,895 1788,898 1833,895 1877,895 1922,895 1967,895 2012,892 2057,892 2101,892"/>
+                <TextEquiv>
+                    <Unicode>Chamber, 20, F. Cyclopœdia: or, an Universal Tictionary of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="840,959 1289,974 1405,948 1577,968 1632,952 1632,913 1328,904 1293,932 1049,899 840,922"/>
+                <Baseline points="850,952 874,952 919,952 964,952 1009,949 1053,952 1098,949 1143,949 1188,949 1233,952 1277,949 1322,949 1367,949 1412,946 1456,949 1501,949 1546,952 1591,952 1636,949"/>
+                <TextEquiv>
+                    <Unicode>Arts and &amp;ciences, c. &amp;c. &amp;e.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1667,950 1735,976 1760,957 1792,966 1850,948 1898,963 2052,954 2096,968 2096,911 2061,900 2034,899 2017,915 1990,902 1920,917 1903,902 1870,904 1828,921 1812,904 1705,902 1667,921"/>
+                <Baseline points="1677,949 1722,949 1767,949 1812,949 1857,946 1901,946 1946,949 1991,949 2036,949 2080,949 2098,952"/>
+                <TextEquiv>
+                    <Unicode>By E. Chambers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="836,1009 2081,1020 2052,954 1135,957 1095,985 836,957"/>
+                <Baseline points="847,1003 877,1003 922,1003 967,1003 1012,1003 1056,1006 1101,1006 1146,1003 1191,1003 1236,1003 1280,1003 1325,1003 1370,1003 1415,1003 1459,1003 1504,1006 1549,1006 1594,1006 1639,1003 1683,1003 1728,1003 1773,1003 1818,1003 1862,1000 1907,997 1952,1000 1997,1003 2042,1006 2086,1000"/>
+                <TextEquiv>
+                    <Unicode>F. R. S. Plates. 2 vols. London, 1751.—Supple-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="831,1064 1335,1058 1564,1087 1696,1065 1696,1018 1654,1010 831,1016"/>
+                <Baseline points="841,1056 886,1056 931,1056 976,1056 1021,1053 1065,1056 1110,1056 1155,1056 1200,1056 1244,1056 1289,1056 1334,1053 1379,1053 1424,1056 1468,1056 1513,1056 1558,1056 1603,1056 1648,1053 1692,1053 1701,1056"/>
+                <TextEquiv>
+                    <Unicode>ment to ditto, 2 vols. London, 1753.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="622,1111 699,1133 864,1115 955,1131 985,1111 1152,1133 1192,1115 1216,1133 1307,1124 1309,1069 1102,1062 1051,1084 1027,1065 623,1069"/>
+                <Baseline points="632,1110 638,1110 683,1113 728,1113 773,1113 818,1110 862,1110 907,1110 952,1110 997,1107 1041,1110 1086,1107 1131,1110 1176,1110 1221,1107 1265,1107 1310,1104"/>
+                <TextEquiv>
+                    <Unicode>Clarke, 35, D. See Erasmus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="625,1177 1859,1185 2094,1170 2096,1117 627,1113"/>
+                <Baseline points="635,1167 680,1167 725,1167 770,1167 815,1167 826,1167 850,1164 889,1161 934,1164 979,1161 1024,1161 1068,1161 1113,1164 1158,1161 1203,1161 1247,1161 1292,1158 1337,1158 1382,1161 1427,1161 1471,1161 1516,1161 1561,1161 1606,1161 1650,1161 1695,1164 1740,1161 1785,1161 1830,1161 1874,1161 1919,1161 1964,1161 2009,1158 2054,1158 2098,1158"/>
+                <TextEquiv>
+                    <Unicode>Clothing French Prisoners, &amp;c. 118. F. proceedings of the Com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="836,1225 1969,1241 2094,1221 2094,1168 836,1183"/>
+                <Baseline points="847,1215 889,1215 934,1215 979,1215 1024,1215 1068,1215 1113,1215 1158,1215 1203,1215 1247,1215 1292,1215 1337,1215 1382,1215 1427,1215 1471,1215 1516,1215 1561,1215 1606,1215 1650,1215 1695,1215 1740,1215 1785,1212 1830,1212 1874,1212 1919,1215 1964,1215 2009,1215 2054,1215 2098,1212"/>
+                <TextEquiv>
+                    <Unicode>mittee appointed to marage the Contributions begun at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="840,1278 2094,1289 2094,1219 840,1225"/>
+                <Baseline points="850,1271 889,1268 934,1271 979,1268 1024,1268 1068,1268 1113,1268 1158,1268 1203,1268 1247,1268 1292,1268 1337,1268 1382,1268 1427,1268 1471,1268 1516,1268 1561,1268 1606,1268 1650,1268 1695,1268 1740,1265 1785,1268 1830,1268 1874,1268 1919,1268 1964,1268 2009,1268 2054,1265 2098,1262"/>
+                <TextEquiv>
+                    <Unicode>London, Dec. 18, 1759, for clothing French Prisoners of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="849,1322 933,1346 999,1322 1067,1344 1106,1329 1207,1339 1221,1326 1306,1339 1350,1333 1351,1276 1172,1289 1047,1276 992,1309 946,1280 921,1291 849,1278"/>
+                <Baseline points="859,1319 862,1319 907,1322 952,1325 997,1322 1041,1322 1086,1322 1131,1322 1176,1319 1221,1322 1265,1319 1310,1319 1355,1316"/>
+                <TextEquiv>
+                    <Unicode>War. London, 1760.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="809,1379 1852,1383 1852,1322 1806,1313 1702,1342 809,1322"/>
+                <Baseline points="818,1373 862,1373 907,1373 952,1376 997,1373 1041,1376 1086,1373 1131,1376 1176,1376 1221,1373 1265,1373 1310,1370 1355,1370 1400,1373 1444,1373 1489,1370 1534,1373 1579,1373 1624,1373 1668,1373 1713,1373 1758,1373 1803,1370 1848,1370 1857,1373"/>
+                <TextEquiv>
+                    <Unicode>124—2, F. The same Work. London, 1760.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="625,1447 2087,1450 2089,1373 627,1386"/>
+                <Baseline points="635,1430 659,1427 704,1430 749,1433 794,1433 838,1427 883,1430 928,1427 973,1427 1018,1430 1062,1430 1107,1430 1152,1427 1197,1427 1241,1427 1286,1427 1331,1427 1376,1427 1421,1427 1465,1427 1510,1427 1555,1427 1600,1430 1645,1430 1689,1430 1734,1427 1779,1427 1824,1427 1868,1427 1913,1427 1958,1427 2003,1427 2048,1427 2092,1424"/>
+                <TextEquiv>
+                    <Unicode>Cooper. 57, O. A Practical Treatise on Dyeing, and Calicoe Print-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="821,1427 2104,1427 2104,1971 821,1971"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="834,1496 2098,1504 2098,1454 2030,1434 834,1441"/>
+                <Baseline points="844,1480 889,1480 934,1483 979,1483 1024,1480 1068,1480 1113,1480 1158,1480 1203,1480 1247,1480 1292,1480 1337,1480 1382,1480 1427,1480 1471,1480 1516,1477 1561,1480 1606,1480 1650,1480 1695,1480 1740,1480 1785,1480 1830,1480 1874,1480 1919,1480 1964,1480 2009,1480 2054,1480 2098,1486 2101,1486"/>
+                <TextEquiv>
+                    <Unicode>ing; exhibiting the processes in the French, German,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="844,1542 2098,1540 2046,1489 844,1491"/>
+                <Baseline points="853,1534 892,1534 937,1534 982,1534 1027,1531 1071,1534 1116,1534 1161,1534 1206,1534 1250,1534 1295,1534 1340,1534 1385,1534 1430,1534 1474,1534 1519,1534 1564,1531 1609,1531 1653,1534 1698,1531 1743,1534 1788,1534 1833,1534 1877,1531 1922,1531 1967,1531 2012,1531 2057,1534 2101,1531"/>
+                <TextEquiv>
+                    <Unicode>English and American practice of fixing Colours on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="845,1599 2090,1610 2090,1559 2037,1540 845,1544"/>
+                <Baseline points="856,1585 901,1588 946,1588 991,1588 1035,1588 1080,1585 1125,1588 1170,1588 1215,1588 1259,1588 1304,1588 1349,1588 1394,1588 1439,1588 1483,1588 1528,1588 1573,1588 1618,1588 1662,1588 1707,1585 1752,1585 1797,1588 1842,1588 1886,1588 1931,1588 1976,1588 2021,1588 2065,1588 2095,1591"/>
+                <TextEquiv>
+                    <Unicode>WoolIen, Cotton, Silk, and Linen. By Thomas Cooper,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="840,1656 908,1650 954,1672 992,1641 1076,1661 1177,1647 1212,1665 1254,1649 1296,1660 1317,1641 1445,1665 1445,1608 1412,1595 1300,1610 1175,1592 1106,1606 1076,1590 1001,1595 961,1623 904,1595 840,1601"/>
+                <Baseline points="850,1639 895,1642 940,1645 985,1639 1030,1639 1074,1642 1119,1642 1164,1642 1209,1642 1253,1642 1298,1639 1343,1642 1388,1642 1433,1639 1450,1642"/>
+                <TextEquiv>
+                    <Unicode>Esq. Philadelphia, 1815.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="811,1698 2096,1702 2096,1650 2030,1638 811,1650"/>
+                <Baseline points="821,1689 865,1692 910,1695 955,1692 1000,1692 1044,1692 1089,1695 1134,1695 1179,1692 1224,1695 1268,1695 1313,1692 1358,1692 1403,1692 1447,1695 1492,1695 1537,1695 1582,1695 1627,1692 1671,1692 1716,1692 1761,1692 1806,1692 1851,1692 1895,1692 1940,1692 1985,1689 2030,1692 2074,1689 2101,1692"/>
+                <TextEquiv>
+                    <Unicode>4, O. Some Information concerning Gas Light, by Tho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="834,1753 2041,1779 2100,1762 2100,1705 834,1726"/>
+                <Baseline points="844,1746 850,1746 895,1746 940,1746 985,1746 1030,1746 1074,1749 1119,1749 1164,1749 1209,1749 1253,1746 1298,1746 1343,1749 1388,1749 1433,1749 1477,1749 1522,1746 1567,1749 1612,1746 1656,1746 1701,1746 1746,1746 1791,1746 1836,1746 1880,1746 1925,1746 1970,1749 2015,1746 2060,1746 2104,1740"/>
+                <TextEquiv>
+                    <Unicode>mas Cooper, Esq. Philad. 1816. (Presented by R. De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="844,1814 864,1808 878,1812 891,1825 922,1808 946,1810 957,1819 983,1808 990,1814 1001,1804 1010,1804 1010,1755 985,1757 974,1768 954,1755 921,1768 908,1757 867,1757 862,1762 844,1755"/>
+                <Baseline points="853,1797 898,1800 943,1797 988,1800 1015,1797"/>
+                <TextEquiv>
+                    <Unicode>Silver.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="811,1869 2002,1869 2094,1858 2094,1804 1931,1795 1876,1834 1682,1790 904,1834 811,1806"/>
+                <Baseline points="821,1851 844,1851 889,1851 934,1851 979,1854 1024,1851 1068,1851 1113,1851 1158,1854 1203,1854 1247,1854 1292,1854 1337,1854 1382,1854 1427,1854 1471,1854 1516,1851 1561,1854 1606,1854 1650,1851 1695,1851 1740,1854 1785,1851 1830,1854 1874,1851 1919,1851 1964,1851 2009,1851 2054,1854 2098,1848"/>
+                <TextEquiv>
+                    <Unicode>59, O. The Emporium of Arts and Princes. New Se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="844,1925 2043,1933 2094,1911 2094,1858 844,1870"/>
+                <Baseline points="853,1904 898,1904 943,1907 988,1904 1032,1904 1077,1907 1122,1907 1167,1907 1212,1904 1256,1907 1301,1904 1346,1904 1391,1904 1436,1904 1480,1907 1525,1907 1570,1907 1615,1907 1659,1904 1704,1907 1749,1907 1794,1907 1839,1907 1883,1901 1892,1901 1937,1904 1982,1907 2027,1907 2071,1904 2098,1901"/>
+                <TextEquiv>
+                    <Unicode>ries. Conducted by Thomas Cooper, Esq. Vols. II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="836,1969 1898,1977 1898,1909 1287,1936 1009,1905 836,1940"/>
+                <Baseline points="847,1958 871,1958 916,1955 961,1955 1006,1958 1050,1958 1095,1961 1140,1961 1185,1958 1230,1958 1274,1958 1319,1955 1364,1958 1409,1958 1453,1958 1498,1958 1543,1961 1588,1961 1633,1961 1677,1958 1722,1958 1767,1958 1812,1958 1857,1955 1901,1955"/>
+                <TextEquiv>
+                    <Unicode>and III. Platoes. Philadelphia, 1813—1814.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="638,1959 2116,1959 2116,2879 638,2879"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="627,2035 2094,2035 2094,1977 627,1982"/>
+                <Baseline points="638,2012 683,2015 728,2015 773,2012 818,2012 862,2012 907,2012 952,2015 997,2012 1041,2012 1086,2012 1131,2012 1176,2009 1221,2009 1265,2012 1310,2009 1355,2009 1400,2012 1444,2012 1489,2012 1534,2012 1579,2012 1624,2012 1668,2012 1713,2012 1758,2012 1803,2012 1848,2012 1892,2012 1937,2012 1982,2012 2027,2012 2071,2012 2098,2012"/>
+                <TextEquiv>
+                    <Unicode>Dalrymple, 122, O. A military Essay. Containing Reflections on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="840,2068 2100,2089 2100,2039 2032,2013 840,2043"/>
+                <Baseline points="850,2063 895,2065 940,2065 985,2065 1030,2065 1074,2065 1119,2065 1164,2068 1209,2065 1253,2065 1298,2065 1343,2065 1388,2065 1433,2065 1477,2065 1522,2065 1567,2065 1612,2068 1656,2065 1701,2065 1746,2065 1791,2065 1836,2065 1880,2065 1925,2065 1970,2065 2015,2065 2060,2065 2104,2065"/>
+                <TextEquiv>
+                    <Unicode>the Raising, Arming, Cloathing, and Discipline of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="844,2122 2100,2133 2100,2087 1949,2067 844,2078"/>
+                <Baseline points="853,2116 898,2116 943,2119 988,2119 1032,2116 1077,2119 1122,2119 1167,2119 1212,2119 1256,2119 1301,2119 1346,2119 1391,2116 1436,2119 1480,2119 1525,2119 1570,2116 1615,2116 1659,2116 1704,2119 1749,2119 1794,2119 1839,2119 1883,2119 1928,2119 1973,2116 2018,2119 2063,2119 2104,2119"/>
+                <TextEquiv>
+                    <Unicode>British Infantry and Cavalry: with Proposals for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="836,2188 2100,2191 2098,2144 2030,2125 1540,2123 1473,2155 834,2125"/>
+                <Baseline points="847,2170 892,2170 937,2170 982,2170 1027,2170 1071,2170 1116,2170 1161,2170 1206,2173 1250,2173 1295,2173 1340,2170 1385,2170 1430,2170 1474,2173 1519,2173 1564,2170 1609,2170 1653,2173 1698,2170 1743,2173 1788,2173 1833,2173 1877,2173 1922,2173 1967,2170 2012,2173 2057,2173 2101,2173 2104,2173"/>
+                <TextEquiv>
+                    <Unicode>Improvement of the same By Campbell Dalrymple,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="849,2241 1700,2234 1700,2184 1669,2178 1555,2202 1471,2171 1309,2197 849,2184"/>
+                <Baseline points="859,2224 904,2224 949,2224 994,2227 1038,2227 1083,2224 1128,2224 1173,2224 1218,2224 1262,2224 1307,2224 1352,2224 1397,2224 1442,2224 1486,2224 1531,2227 1576,2224 1621,2224 1665,2224 1704,2224"/>
+                <TextEquiv>
+                    <Unicode>Esq. Lieut. Col. &amp;c. London, 1761.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="631,2303 2037,2305 2096,2292 2096,2237 631,2245"/>
+                <Baseline points="641,2280 686,2277 731,2277 776,2277 821,2274 865,2277 910,2277 955,2280 1000,2277 1044,2277 1089,2274 1134,2274 1179,2277 1224,2277 1268,2277 1313,2277 1358,2277 1403,2274 1447,2277 1492,2277 1537,2277 1582,2280 1627,2280 1671,2280 1716,2277 1761,2277 1806,2277 1851,2277 1895,2277 1940,2277 1985,2277 2030,2280 2074,2280 2101,2280"/>
+                <TextEquiv>
+                    <Unicode>Delius, 45, Q. Traité sur la science de l’Exploitation des Mes par¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="855,2336 2103,2355 2103,2296 2013,2287 855,2287"/>
+                <Baseline points="865,2328 910,2328 955,2328 1000,2328 1044,2328 1089,2328 1134,2331 1179,2331 1224,2331 1268,2331 1313,2331 1358,2331 1403,2331 1447,2331 1492,2331 1537,2331 1582,2331 1627,2331 1671,2331 1716,2331 1761,2334 1806,2331 1851,2331 1895,2331 1940,2331 1985,2331 2030,2331 2074,2331 2107,2334"/>
+                <TextEquiv>
+                    <Unicode>Théorie et Pratique, avec un Discours sur les principes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="853,2393 2100,2399 2074,2340 853,2331"/>
+                <Baseline points="862,2385 907,2382 952,2385 997,2385 1041,2382 1086,2382 1131,2382 1176,2385 1221,2385 1265,2385 1310,2385 1355,2385 1400,2385 1444,2385 1489,2385 1534,2385 1579,2385 1624,2388 1668,2388 1713,2385 1758,2385 1803,2385 1848,2385 1892,2385 1937,2385 1982,2385 2027,2385 2071,2385 2104,2388"/>
+                <TextEquiv>
+                    <Unicode>des finances; fait pour l’Academie Impériale et Royale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="845,2443 1905,2466 2090,2448 2090,2395 845,2417"/>
+                <Baseline points="856,2436 901,2436 946,2436 991,2439 1035,2436 1080,2439 1125,2439 1170,2439 1215,2439 1259,2439 1304,2439 1349,2439 1394,2439 1439,2439 1483,2439 1528,2439 1573,2439 1618,2439 1662,2439 1707,2439 1752,2439 1797,2439 1842,2439 1886,2439 1931,2436 1976,2439 2021,2436 2065,2436 2095,2436"/>
+                <TextEquiv>
+                    <Unicode>de Schemnitz, par Christothe François Delius, Conseil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="849,2509 2094,2507 2094,2452 2041,2446 1229,2470 849,2439"/>
+                <Baseline points="859,2489 904,2489 949,2489 994,2492 1038,2489 1083,2492 1128,2492 1173,2492 1218,2492 1262,2489 1307,2492 1352,2492 1397,2489 1442,2492 1486,2492 1531,2492 1576,2489 1621,2492 1665,2492 1710,2495 1755,2492 1800,2492 1845,2492 1889,2489 1934,2492 1979,2492 2024,2489 2068,2492 2098,2489"/>
+                <TextEquiv>
+                    <Unicode>ler-Commissaire, &amp;c. traduit en Français par M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="855,2553 2017,2556 2017,2507 1894,2494 1837,2520 855,2499"/>
+                <Baseline points="865,2543 910,2543 955,2543 1000,2543 1044,2543 1089,2546 1134,2546 1179,2546 1224,2543 1268,2543 1313,2543 1358,2543 1403,2543 1447,2543 1492,2546 1537,2546 1582,2546 1627,2546 1671,2546 1716,2546 1761,2546 1806,2549 1851,2546 1895,2546 1940,2546 1985,2543 2021,2543"/>
+                <TextEquiv>
+                    <Unicode>Schreiber. Avec figures. 2 tom. A Paris, 1778.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="634,2611 759,2622 831,2604 900,2622 1093,2598 1291,2624 1333,2606 1333,2571 1214,2551 974,2567 851,2549 807,2573 772,2551 634,2553"/>
+                <Baseline points="644,2597 689,2597 734,2597 779,2597 824,2597 868,2597 901,2600 919,2600 934,2600 979,2600 1024,2597 1068,2597 1113,2597 1158,2600 1203,2597 1247,2597 1292,2597 1337,2597"/>
+                <TextEquiv>
+                    <Unicode>Eames, 83, Q. See Lowthorp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="634,2679 1619,2652 2103,2701 2083,2587 633,2620"/>
+                <Baseline points="644,2648 689,2651 734,2651 779,2651 824,2651 868,2654 895,2651 919,2651 964,2651 1009,2651 1053,2651 1098,2651 1143,2648 1188,2651 1233,2651 1277,2651 1322,2654 1367,2651 1412,2651 1456,2651 1501,2651 1546,2651 1591,2651 1636,2651 1680,2651 1725,2651 1770,2651 1815,2654 1859,2654 1904,2654 1949,2654 1994,2654 2039,2657 2083,2657 2107,2663"/>
+                <TextEquiv>
+                    <Unicode>Bducation, Dialogues concerning, 87, O. Dialogues concerning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="849,2712 1617,2712 1724,2734 1724,2668 1619,2652 1370,2683 1293,2657 1126,2681 849,2661"/>
+                <Baseline points="859,2704 904,2704 949,2704 994,2704 1038,2704 1083,2704 1128,2704 1173,2701 1218,2704 1262,2701 1307,2707 1352,2704 1397,2704 1442,2707 1486,2704 1531,2704 1576,2704 1621,2701 1665,2704 1710,2704 1728,2704"/>
+                <TextEquiv>
+                    <Unicode>Bducation. Vol. II. London. 1748.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="649,2769 2111,2776 2111,2712 1900,2701 1715,2736 649,2718"/>
+                <Baseline points="659,2755 704,2755 749,2755 794,2755 838,2755 883,2758 928,2758 973,2761 1018,2758 1062,2761 1107,2758 1152,2758 1197,2758 1241,2761 1286,2758 1331,2758 1376,2758 1421,2758 1465,2761 1510,2758 1555,2758 1600,2761 1645,2761 1689,2761 1734,2755 1779,2758 1824,2758 1868,2755 1913,2758 1958,2758 2003,2758 2048,2758 2092,2758 2116,2755"/>
+                <TextEquiv>
+                    <Unicode>Encyclopædia, §c 13, Q. Encyclopaedia; or, a Dictionary of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="858,2826 2100,2831 2100,2773 2054,2760 858,2773"/>
+                <Baseline points="868,2809 913,2809 958,2812 1003,2812 1047,2812 1092,2812 1137,2812 1182,2812 1227,2812 1271,2812 1316,2812 1361,2812 1406,2812 1450,2815 1495,2815 1540,2812 1585,2812 1630,2812 1674,2812 1719,2812 1764,2812 1809,2812 1854,2812 1898,2812 1943,2812 1988,2812 2033,2812 2077,2812 2104,2812"/>
+                <TextEquiv>
+                    <Unicode>Arts, &amp;ciences, and Miscellaneous Literature, &amp;c. Lc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="853,2872 972,2908 1106,2870 1931,2894 2067,2868 2067,2824 853,2828"/>
+                <Baseline points="862,2863 907,2863 952,2866 997,2866 1041,2866 1086,2866 1131,2866 1176,2866 1221,2866 1265,2866 1310,2866 1355,2866 1400,2869 1444,2869 1489,2869 1534,2866 1579,2866 1624,2866 1668,2869 1713,2866 1758,2866 1803,2866 1848,2866 1892,2866 1937,2863 1982,2866 2027,2863 2071,2866"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. With 542 Plato. 18 vols. Philad. 1798.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

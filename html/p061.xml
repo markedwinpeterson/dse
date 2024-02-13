@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_18:31</Creator>
+        <Created>2024-02-07T19:24:52.883+01:00</Created>
+        <LastChange>2024-02-08T18:31:49.430+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963997" pageNr="61" tsid="148033156" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=HEOFQCPQCFOEOJURQUPLIVZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZMTJECAFSFBIRTLUNHFOVWE" imageId="51988697"/>
+    </Metadata>
+    <Page imageFilename="p061.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669785243" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="623,340 623,2933 2092,2933 2092,340"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="902,373 1056,408 1127,375 1265,408 1383,375 1810,390 1810,329 1660,306 1592,335 1449,307 1327,329 1296,300 902,317"/>
+                <Baseline points="913,367 958,367 1003,367 1048,367 1093,367 1138,367 1183,367 1228,367 1273,367 1318,367 1364,370 1409,367 1454,367 1499,367 1544,370 1589,367 1634,370 1679,370 1724,370 1769,370 1815,370"/>
+                <TextEquiv>
+                    <Unicode>PHYSICAL AND MATHEMATICAL SCIANCES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="836,479 2075,478 2053,425 1788,432 1684,397 1292,441 836,417"/>
+                <Baseline points="847,471 908,468 970,468 1031,468 1093,466 1155,468 1216,468 1278,470 1340,468 1401,468 1463,468 1525,468 1586,471 1648,471 1710,469 1771,471 1833,474 1895,474 1956,474 2018,471 2080,474"/>
+                <TextEquiv>
+                    <Unicode>Motion of the lloon in her Orbit, are determined. By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="844,529 2077,534 2077,492 2002,479 844,479"/>
+                <Baseline points="853,522 914,522 975,522 1037,522 1098,522 1159,522 1221,523 1282,523 1343,522 1405,522 1466,520 1527,522 1589,525 1650,525 1711,525 1773,528 1834,528 1895,526 1957,528 2018,528 2080,522"/>
+                <TextEquiv>
+                    <Unicode>Thomas Simon, F. R. S. &amp;c. Plates. Lond. 1757.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="624,584 2035,608 2081,534 624,545"/>
+                <Baseline points="635,576 707,578 780,576 852,573 925,576 997,576 1070,576 1142,576 1215,576 1287,576 1360,576 1433,574 1505,576 1578,576 1650,578 1723,579 1795,579 1868,579 1940,579 2013,579 2086,576"/>
+                <TextEquiv>
+                    <Unicode>SimLson, 86, Q. Mathematical Dissertations on a variety ot Phy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="831,642 1922,661 2055,631 2040,600 1751,584 831,597"/>
+                <Baseline points="841,623 901,626 962,628 1023,626 1084,629 1145,629 1205,629 1266,629 1327,629 1388,629 1449,631 1509,629 1570,629 1631,631 1692,632 1753,633 1813,633 1874,635 1935,632 1996,632 2057,629"/>
+                <TextEquiv>
+                    <Unicode>sical andarelytical subjects. By Thomas Simpson.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="831,694 972,690 1036,695 1047,706 1083,692 1109,705 1135,692 1186,694 1186,655 1169,661 1147,639 1058,639 1032,655 990,639 941,640 924,655 902,639 831,637"/>
+                <Baseline points="841,680 867,680 894,681 921,682 947,682 974,680 1001,680 1027,680 1054,680 1081,680 1107,680 1134,680 1161,681 1188,683"/>
+                <TextEquiv>
+                    <Unicode>London, 1743.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="622,747 2084,759 2084,710 1934,695 622,699"/>
+                <Baseline points="632,734 704,736 777,736 850,737 923,737 996,736 1069,736 1141,737 1214,737 1287,737 1360,737 1433,737 1506,737 1579,737 1651,738 1724,737 1797,740 1870,742 1943,740 2016,739 2089,740"/>
+                <TextEquiv>
+                    <Unicode>Simson, R. 90, Q. Sectionum Conicarum libri quinque. Auctore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="834,798 2086,802 2033,745 834,741"/>
+                <Baseline points="844,788 906,788 968,786 1030,788 1093,790 1155,791 1217,791 1279,791 1342,791 1404,791 1466,794 1528,791 1591,791 1653,794 1715,794 1777,794 1840,794 1902,794 1964,794 2026,792 2089,794"/>
+                <TextEquiv>
+                    <Unicode>Roberto Simson, M. D., &amp;c. Cum figuris. Edin. 1760.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="619,849 2090,855 2070,798 619,803"/>
+                <Baseline points="629,835 702,843 775,843 848,841 921,843 994,844 1067,844 1141,844 1214,841 1287,843 1360,844 1433,844 1506,844 1579,847 1653,847 1726,846 1799,847 1872,847 1945,846 2018,844 2092,847"/>
+                <TextEquiv>
+                    <Unicode>Smith, 76—1, O. A Dissertation on the General Properties of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="831,910 2088,915 2088,855 2017,849 831,853"/>
+                <Baseline points="841,895 903,895 966,895 1028,895 1091,897 1153,898 1216,898 1278,898 1341,898 1403,898 1466,898 1529,899 1591,901 1654,898 1716,900 1779,901 1841,901 1904,901 1966,901 2029,903 2092,904"/>
+                <TextEquiv>
+                    <Unicode>Eclipses, and particularly that of 1748. By George</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="834,953 972,977 1043,959 1087,979 1116,957 1497,970 1497,906 1451,899 1325,924 1217,910 1199,928 1168,900 1120,926 1061,899 946,917 834,906"/>
+                <Baseline points="844,949 876,949 909,949 942,949 975,949 1008,949 1041,950 1073,952 1106,952 1139,952 1172,952 1205,952 1238,952 1271,952 1303,952 1336,952 1369,952 1402,951 1435,950 1468,952 1501,949"/>
+                <TextEquiv>
+                    <Unicode>Smith, Esq. London, 1748.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="802,1012 1071,1021 1087,1008 1173,1023 1230,1010 1266,1036 1285,1030 1285,959 1230,955 1186,972 1118,955 1087,979 1045,959 1001,959 974,977 939,957 802,964"/>
+                <Baseline points="812,1003 837,1005 862,1006 887,1004 912,1003 937,1003 962,1003 987,1003 1012,1003 1037,1003 1063,1003 1088,1003 1113,1003 1138,1003 1163,1003 1188,1003 1213,1003 1238,1003 1263,1003 1289,1003"/>
+                <TextEquiv>
+                    <Unicode>77, Q. See Cotesius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="805,1065 1171,1061 1246,1076 1246,1016 1230,1012 1171,1023 997,1010 979,1025 963,1012 805,1012"/>
+                <Baseline points="815,1053 840,1053 866,1053 891,1055 917,1055 942,1053 968,1053 994,1053 1019,1053 1045,1053 1070,1053 1096,1053 1122,1053 1147,1053 1173,1053 1198,1053 1224,1054 1250,1056"/>
+                <TextEquiv>
+                    <Unicode>165, O. See Cotes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="617,1131 1870,1140 2081,1118 2081,1061 617,1069"/>
+                <Baseline points="626,1107 699,1109 772,1110 845,1107 918,1108 991,1110 1064,1107 1137,1108 1210,1110 1283,1110 1356,1110 1429,1110 1502,1108 1575,1107 1648,1107 1721,1108 1794,1110 1867,1110 1940,1110 2013,1110 2086,1113"/>
+                <TextEquiv>
+                    <Unicode>Starrat, 186, O. The doctrine of Projectiles demonstrated and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="825,1179 2006,1182 2081,1177 2081,1120 825,1129"/>
+                <Baseline points="835,1164 897,1164 960,1164 1022,1161 1085,1164 1147,1164 1210,1165 1272,1165 1335,1164 1397,1164 1460,1164 1523,1164 1585,1164 1648,1164 1710,1164 1773,1161 1835,1163 1898,1161 1960,1164 2023,1164 2086,1167"/>
+                <TextEquiv>
+                    <Unicode>applied to all the most useful troblems in Nautical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="831,1246 2084,1228 2053,1171 831,1175"/>
+                <Baseline points="841,1215 903,1215 965,1215 1028,1215 1090,1216 1153,1215 1215,1217 1277,1217 1340,1218 1402,1218 1465,1218 1527,1215 1589,1215 1652,1215 1714,1215 1777,1215 1839,1215 1901,1215 1964,1218 2026,1218 2089,1218"/>
+                <TextEquiv>
+                    <Unicode>Gunnery. With the Description of a New Mathemati¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="825,1281 1312,1310 1728,1276 1878,1307 2077,1286 2077,1232 825,1248"/>
+                <Baseline points="835,1268 897,1268 959,1270 1021,1268 1084,1268 1146,1271 1208,1269 1270,1271 1333,1271 1395,1271 1457,1271 1519,1266 1582,1270 1644,1271 1706,1270 1768,1270 1831,1271 1893,1269 1955,1271 2017,1271 2080,1271"/>
+                <TextEquiv>
+                    <Unicode>cal Instrument, &amp;c.&amp;c. By William Starrat. Plates.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="833,1334 952,1332 990,1349 1038,1332 1072,1341 1160,1334 1158,1283 1067,1279 1038,1285 1010,1307 957,1279 915,1277 886,1290 871,1277 831,1277"/>
+                <Baseline points="841,1319 867,1319 894,1319 921,1319 947,1320 974,1322 1001,1322 1027,1322 1054,1322 1081,1322 1107,1322 1134,1322 1161,1322"/>
+                <TextEquiv>
+                    <Unicode>Dublin, 1733.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="617,1385 2084,1405 2084,1334 2022,1310 1673,1347 617,1325"/>
+                <Baseline points="626,1373 699,1373 772,1373 845,1376 918,1376 991,1373 1064,1376 1138,1376 1211,1376 1284,1376 1357,1376 1430,1376 1503,1376 1576,1373 1650,1376 1723,1375 1796,1373 1869,1375 1942,1376 2015,1376 2089,1373"/>
+                <TextEquiv>
+                    <Unicode>Stenglein, 120—7, Q. Specimen Praxeon Geometricarum Cam¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="840,1446 2061,1459 2061,1400 2017,1382 1409,1387 1363,1418 1074,1376 1043,1407 840,1398"/>
+                <Baseline points="850,1427 910,1424 971,1426 1032,1430 1093,1429 1153,1427 1214,1430 1275,1430 1336,1430 1396,1433 1457,1431 1518,1430 1579,1428 1639,1430 1700,1430 1761,1430 1822,1428 1882,1430 1943,1426 2004,1430 2065,1427"/>
+                <TextEquiv>
+                    <Unicode>pestrium, &amp;c. &amp;c., &amp;c, Auctore G. F. X. Stenglein.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="827,1497 878,1486 941,1502 975,1490 1027,1512 1056,1490 1087,1497 1109,1486 1140,1504 1169,1488 1233,1495 1233,1446 1208,1440 1114,1440 1087,1459 1050,1446 1034,1457 986,1453 953,1437 919,1453 877,1437 827,1446"/>
+                <Baseline points="838,1480 863,1480 888,1480 913,1480 938,1480 963,1480 988,1480 1013,1480 1038,1479 1063,1477 1088,1477 1113,1477 1138,1479 1163,1479 1188,1478 1213,1478 1238,1480"/>
+                <TextEquiv>
+                    <Unicode>Bambergæ, 1769.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="617,1552 2055,1557 2081,1469 1023,1515 772,1453 617,1480"/>
+                <Baseline points="626,1528 699,1531 772,1532 845,1531 918,1534 991,1532 1064,1532 1137,1534 1210,1534 1283,1534 1356,1534 1429,1534 1502,1534 1575,1534 1648,1534 1721,1534 1794,1531 1867,1531 1940,1531 2013,1532 2086,1528"/>
+                <TextEquiv>
+                    <Unicode> Stewart, 188, O. Propositiones Geometricae, more Veterum de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="827,1599 2070,1603 2081,1546 827,1552"/>
+                <Baseline points="838,1582 900,1584 962,1582 1025,1585 1087,1583 1150,1585 1212,1585 1274,1585 1337,1588 1399,1588 1462,1585 1524,1588 1586,1588 1649,1588 1711,1587 1774,1585 1836,1586 1898,1588 1961,1588 2023,1587 2086,1585"/>
+                <TextEquiv>
+                    <Unicode>monstratae, ad Geometriam Antiquam illustrandam et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="825,1647 2077,1660 2050,1594 825,1607"/>
+                <Baseline points="835,1639 897,1639 959,1639 1021,1639 1084,1639 1146,1639 1208,1637 1270,1639 1333,1639 1395,1639 1457,1639 1519,1640 1582,1642 1644,1642 1706,1641 1768,1641 1831,1642 1893,1642 1955,1642 2017,1641 2080,1642"/>
+                <TextEquiv>
+                    <Unicode>promovendam idoneae. Auctore Matthaeo Stewart, S. T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="831,1713 1219,1698 1283,1715 1385,1696 1411,1715 1426,1709 1426,1658 1316,1643 1272,1658 1160,1645 831,1660"/>
+                <Baseline points="841,1689 870,1689 899,1689 929,1689 958,1691 988,1691 1017,1689 1047,1689 1076,1689 1106,1689 1135,1689 1164,1689 1194,1689 1223,1687 1253,1687 1282,1689 1312,1689 1341,1689 1371,1689 1400,1689 1430,1689"/>
+                <TextEquiv>
+                    <Unicode>D. &amp;c. Edinburgi, 1763.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="796,1757 2081,1762 2068,1702 796,1709"/>
+                <Baseline points="806,1743 870,1743 934,1743 998,1743 1062,1743 1126,1743 1190,1743 1254,1743 1318,1743 1382,1743 1446,1743 1510,1743 1574,1743 1638,1745 1702,1746 1766,1746 1830,1743 1894,1746 1958,1746 2022,1746 2086,1752"/>
+                <TextEquiv>
+                    <Unicode>124, O. Tracts, physical and Mathematical. Containing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="825,1803 2081,1823 2081,1762 2022,1753 825,1757"/>
+                <Baseline points="835,1797 897,1797 960,1797 1022,1797 1085,1797 1147,1797 1210,1797 1272,1795 1335,1794 1397,1794 1460,1797 1523,1797 1585,1797 1648,1797 1710,1797 1773,1797 1835,1797 1898,1799 1960,1800 2023,1800 2086,1803"/>
+                <TextEquiv>
+                    <Unicode>an Cxplication of several important points in physical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="827,1865 2079,1865 2048,1806 827,1823"/>
+                <Baseline points="838,1851 900,1851 962,1851 1024,1851 1087,1851 1149,1851 1211,1851 1273,1851 1336,1851 1398,1850 1460,1848 1522,1848 1585,1850 1647,1851 1709,1851 1771,1851 1834,1849 1896,1851 1958,1854 2020,1854 2083,1851"/>
+                <TextEquiv>
+                    <Unicode>Astronomy; and a new method for ascertaining the Sun’s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="827,1911 2075,1931 2075,1867 2020,1861 827,1867"/>
+                <Baseline points="838,1904 900,1901 962,1904 1024,1903 1086,1903 1148,1904 1210,1904 1272,1904 1334,1902 1396,1904 1459,1904 1521,1904 1583,1904 1645,1901 1707,1901 1769,1904 1831,1904 1893,1904 1955,1904 2017,1904 2080,1901"/>
+                <TextEquiv>
+                    <Unicode>distance from the Earth, by the Theory of Gravity. By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="834,1965 2053,1973 2053,1925 2004,1914 834,1916"/>
+                <Baseline points="844,1955 904,1955 965,1955 1025,1958 1086,1955 1147,1957 1207,1955 1268,1955 1329,1957 1389,1958 1450,1958 1511,1958 1571,1957 1632,1957 1693,1958 1753,1958 1814,1958 1875,1958 1935,1958 1996,1958 2057,1955"/>
+                <TextEquiv>
+                    <Unicode>Dr. Matthew Stewart, Prof. Math. &amp;c. Edinb. 1761.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="619,2028 1312,2022 1312,1976 1237,1964 888,1980 710,1936 659,1965 619,1958"/>
+                <Baseline points="629,2006 663,2008 697,2009 732,2010 766,2012 800,2010 835,2011 869,2011 903,2009 938,2009 972,2009 1006,2009 1041,2009 1075,2009 1109,2009 1144,2009 1178,2009 1212,2009 1247,2007 1281,2008 1316,2009"/>
+                <TextEquiv>
+                    <Unicode>Street, 191, O. See Whiston.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="624,2079 2072,2086 2072,2022 2013,2018 624,2026"/>
+                <Baseline points="635,2063 707,2063 779,2065 851,2063 923,2063 995,2063 1067,2063 1139,2063 1211,2063 1283,2063 1356,2063 1428,2064 1500,2063 1572,2063 1644,2060 1716,2063 1788,2063 1860,2063 1932,2063 2004,2065 2077,2063"/>
+                <TextEquiv>
+                    <Unicode>Sreete, 95, Q. Astronomia Carolina: a new theory of the Celes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1199,2125 2051,2137 2079,2132 2079,2090 1197,2075"/>
+                <Baseline points="1209,2116 1252,2113 1296,2116 1340,2116 1383,2116 1427,2116 1471,2116 1514,2116 1558,2114 1602,2113 1646,2113 1689,2113 1733,2113 1777,2113 1820,2113 1864,2113 1908,2115 1951,2116 1995,2118 2039,2119 2083,2119"/>
+                <TextEquiv>
+                    <Unicode>With Cables, &amp;c. &amp;e. By Thomas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="827,2136 855,2126 877,2137 897,2130 915,2143 957,2126 974,2136 1005,2128 1052,2139 1069,2125 1085,2134 1125,2130 1138,2126 1136,2075 1114,2075 1096,2092 1047,2070 999,2086 966,2070 931,2083 882,2070 825,2086"/>
+                <Baseline points="838,2116 863,2116 888,2116 914,2116 939,2116 965,2116 990,2116 1015,2116 1041,2118 1066,2119 1092,2117 1117,2116 1143,2116"/>
+                <TextEquiv>
+                    <Unicode>tial Motions.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="825,2187 1669,2176 1872,2209 2072,2178 2072,2137 2017,2126 825,2134"/>
+                <Baseline points="835,2167 897,2167 959,2169 1021,2170 1083,2170 1145,2170 1207,2170 1269,2170 1331,2170 1393,2170 1456,2170 1518,2170 1580,2170 1642,2167 1704,2167 1766,2167 1828,2170 1890,2170 1952,2170 2014,2171 2077,2173"/>
+                <TextEquiv>
+                    <Unicode>Streete. Also, Lunar and Planetary Observations, &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="825,2242 997,2233 1014,2244 1041,2229 1061,2240 1096,2229 1140,2242 1162,2238 1162,2183 1144,2191 1105,2180 1049,2185 1032,2196 1008,2181 974,2189 955,2180 893,2196 860,2178 825,2185"/>
+                <Baseline points="835,2221 860,2221 886,2221 911,2223 937,2224 962,2224 988,2224 1013,2224 1039,2222 1064,2221 1090,2219 1115,2219 1141,2220 1167,2224"/>
+                <TextEquiv>
+                    <Unicode>London, 1710.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="613,2288 1947,2302 2066,2286 2066,2233 1041,2251 754,2205 613,2244"/>
+                <Baseline points="623,2271 695,2274 767,2274 840,2277 912,2277 985,2277 1057,2277 1129,2274 1202,2274 1274,2274 1347,2276 1419,2275 1491,2274 1564,2274 1636,2274 1709,2274 1781,2274 1853,2274 1926,2273 1998,2276 2071,2274"/>
+                <TextEquiv>
+                    <Unicode>Switzer, 67, Q. Anintroduction to a General System of Hydros¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="831,2337 2066,2355 2066,2284 831,2295"/>
+                <Baseline points="841,2325 902,2328 964,2328 1025,2328 1087,2328 1148,2328 1210,2329 1271,2331 1333,2331 1394,2330 1456,2330 1517,2328 1579,2328 1640,2330 1702,2328 1763,2328 1825,2328 1886,2328 1948,2330 2009,2331 2071,2334"/>
+                <TextEquiv>
+                    <Unicode>taticks and Hydraulicks, Philos:phical andeneal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="842,2395 2070,2401 2068,2355 2002,2337 840,2341"/>
+                <Baseline points="850,2376 911,2379 972,2379 1033,2382 1094,2382 1156,2382 1217,2380 1278,2384 1339,2382 1400,2385 1462,2385 1523,2382 1584,2382 1645,2382 1706,2382 1768,2382 1829,2382 1890,2382 1951,2382 2012,2385 2074,2388"/>
+                <TextEquiv>
+                    <Unicode>Wherein the Methods of raising and conducting Water,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="827,2452 2070,2460 2070,2403 2008,2390 827,2399"/>
+                <Baseline points="838,2433 899,2436 961,2436 1023,2436 1085,2436 1147,2436 1208,2436 1270,2438 1332,2439 1394,2438 1456,2434 1517,2433 1579,2436 1641,2433 1703,2433 1765,2435 1826,2436 1888,2433 1950,2435 2012,2436 2074,2436"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. &amp;c. are carefully laid down. With Descriptions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="834,2494 2077,2514 2077,2456 2002,2443 834,2461"/>
+                <Baseline points="844,2489 905,2489 967,2487 1029,2489 1091,2489 1153,2489 1214,2489 1276,2489 1338,2489 1400,2489 1462,2489 1523,2489 1585,2491 1647,2489 1709,2489 1771,2487 1832,2489 1894,2487 1956,2491 2018,2490 2080,2492"/>
+                <TextEquiv>
+                    <Unicode>of Engines, &amp;c. &amp; c. 60 Copperitates. By Stephen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="827,2553 1678,2562 1733,2555 1733,2507 827,2513"/>
+                <Baseline points="838,2543 885,2540 932,2543 979,2540 1027,2543 1074,2543 1121,2543 1169,2543 1216,2544 1263,2546 1311,2544 1358,2545 1405,2544 1453,2543 1500,2543 1547,2543 1595,2543 1642,2543 1689,2543 1737,2543"/>
+                <TextEquiv>
+                    <Unicode>Switzer. 2 vols. in 1. London, 1729.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="617,2628 2044,2613 2064,2533 617,2560"/>
+                <Baseline points="626,2588 698,2591 770,2595 842,2597 914,2597 986,2597 1058,2599 1130,2597 1202,2597 1274,2598 1347,2600 1419,2597 1491,2597 1563,2600 1635,2596 1707,2594 1779,2595 1851,2594 1923,2594 1995,2597 2068,2594"/>
+                <TextEquiv>
+                    <Unicode>Tacquet, 332, O. Andreae macquet Soc. Jesu Matheseos Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="831,2659 2046,2661 2046,2608 1986,2602 831,2604"/>
+                <Baseline points="841,2651 901,2651 961,2651 1022,2651 1082,2651 1142,2651 1203,2651 1263,2651 1323,2653 1384,2651 1444,2651 1504,2651 1565,2651 1625,2651 1685,2648 1746,2650 1806,2650 1866,2648 1927,2650 1987,2648 2048,2651"/>
+                <TextEquiv>
+                    <Unicode>Arithmeticae Theoria et Praxis. Amstelodami. 1704.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="620,2732 664,2718 672,2723 679,2714 695,2723 727,2707 741,2708 774,2729 796,2729 792,2633 756,2633 745,2641 730,2635 725,2641 703,2624 657,2641 650,2633 617,2628"/>
+                <Baseline points="629,2698 657,2696 686,2697 714,2700 743,2701 771,2702 800,2704"/>
+                <TextEquiv>
+                    <Unicode>Theses,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="816,2721 2064,2708 2064,2672 2004,2654 816,2661"/>
+                <Baseline points="826,2704 888,2701 950,2701 1012,2704 1074,2704 1136,2701 1198,2704 1260,2702 1322,2704 1384,2705 1447,2704 1509,2704 1571,2704 1633,2704 1695,2704 1757,2704 1819,2704 1881,2703 1943,2704 2005,2701 2068,2704"/>
+                <TextEquiv>
+                    <Unicode>Philosophical, 145—6, Q. Theses Philosophicae, selec¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="831,2769 2064,2780 2064,2734 2009,2710 831,2727"/>
+                <Baseline points="841,2752 902,2755 963,2757 1025,2758 1086,2760 1147,2758 1209,2761 1270,2761 1331,2761 1393,2760 1454,2758 1515,2758 1577,2760 1638,2758 1699,2758 1761,2758 1822,2758 1883,2755 1945,2755 2006,2755 2068,2758"/>
+                <TextEquiv>
+                    <Unicode>tiores ex Physica jxperimentali et Mathesi, &amp;c. Lc. 2xc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="831,2826 880,2818 911,2838 942,2818 988,2833 1027,2822 1065,2835 1091,2822 1133,2820 1131,2774 1098,2780 1087,2769 1032,2767 996,2796 941,2767 878,2763 829,2772"/>
+                <Baseline points="841,2806 867,2808 894,2809 921,2809 948,2810 975,2812 1002,2812 1029,2812 1056,2812 1083,2812 1110,2812 1137,2812"/>
+                <TextEquiv>
+                    <Unicode>Fuldae, 1765.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="619,2886 662,2890 673,2884 683,2891 701,2875 710,2880 725,2875 734,2884 772,2880 783,2890 791,2884 805,2890 818,2884 816,2820 776,2818 754,2826 741,2816 734,2822 705,2816 692,2827 659,2811 648,2820 635,2816 617,2824"/>
+                <Baseline points="629,2860 656,2860 683,2861 711,2862 738,2863 766,2863 793,2865 821,2863"/>
+                <TextEquiv>
+                    <Unicode>Value, 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="836,2873 1786,2869 1912,2908 1971,2866 2066,2904 2066,2824 2024,2805 1947,2835 836,2820"/>
+                <Baseline points="847,2860 908,2863 969,2865 1030,2866 1091,2866 1153,2868 1214,2869 1275,2867 1336,2866 1397,2867 1459,2867 1520,2869 1581,2867 1642,2867 1703,2866 1765,2866 1826,2866 1887,2863 1948,2865 2009,2866 2071,2869"/>
+                <TextEquiv>
+                    <Unicode>D. Arithmetic, theoretical and practical, Lc. &amp;c. By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="836,2913 937,2961 999,2921 1082,2952 1372,2923 1469,2961 1554,2930 1612,2961 1823,2943 1823,2875 1786,2869 1693,2893 836,2869"/>
+                <Baseline points="847,2913 896,2916 945,2917 994,2919 1043,2919 1092,2919 1141,2921 1190,2922 1239,2922 1288,2922 1337,2922 1386,2922 1435,2922 1484,2921 1533,2920 1582,2922 1631,2922 1680,2920 1729,2919 1778,2917 1827,2913"/>
+                <TextEquiv>
+                    <Unicode>Victor Value. Part I. Philadelphia, 1823.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
