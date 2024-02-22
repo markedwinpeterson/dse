@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_15:53</Creator>
+        <Created>2024-02-07T19:24:51.380+01:00</Created>
+        <LastChange>2024-02-08T15:53:55.625+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64963974" pageNr="49" tsid="148008567" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=SGWNZCCMWBJOQEBTIHGMYQGL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCJCFJUKZXMSYUVZPEBFSJMG" imageId="51988674"/>
+    </Metadata>
+    <Page imageFilename="p049.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669782237" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="588,257 2060,257 2060,1222 588,1222"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="999,334 1050,325 1137,349 1221,321 1362,340 1385,320 1498,338 1550,321 1599,340 1612,252 1528,279 1375,259 1254,272 1188,244 1144,266 999,272"/>
+                <Baseline points="1009,310 1032,310 1077,307 1122,307 1167,307 1212,307 1256,307 1301,307 1346,307 1391,307 1436,307 1480,307 1525,307 1570,307 1615,307"/>
+                <TextEquiv>
+                    <Unicode>PHILOLOGY AND CRITICISM.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="578,334 589,336 604,329 613,334 622,327 634,338 656,336 657,259 646,259 639,266 626,253 611,253 602,261 580,255"/>
+                <Baseline points="588,313 618,310 662,310"/>
+                <TextEquiv>
+                    <Unicode>36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="578,446 2040,443 2042,356 580,376"/>
+                <Baseline points="588,414 612,414 656,414 701,414 746,412 791,412 835,412 880,412 925,412 970,409 1015,409 1059,409 1104,409 1149,409 1194,409 1238,412 1283,412 1328,409 1373,409 1418,409 1462,409 1507,409 1552,412 1597,409 1642,409 1686,409 1731,409 1776,409 1821,409 1865,409 1910,409 1955,409 2000,412 2045,412"/>
+                <TextEquiv>
+                    <Unicode>Harris, 240, O. lermes; or, a Philosophical Inquiry concerning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="795,483 2038,476 2038,437 1970,415 795,424"/>
+                <Baseline points="806,465 850,468 895,465 940,465 985,459 1030,462 1074,462 1119,459 1164,459 1209,459 1253,462 1298,462 1343,462 1388,462 1433,465 1477,465 1522,465 1567,465 1612,462 1656,465 1701,462 1746,462 1791,462 1836,462 1880,459 1925,462 1970,465 2015,462 2042,465"/>
+                <TextEquiv>
+                    <Unicode>Language and Universal Grammar. By James Harris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="795,529 1010,540 1047,527 1098,538 1133,531 1133,483 1111,477 1019,477 997,498 964,476 865,490 824,476 795,481"/>
+                <Baseline points="806,519 850,516 895,516 940,516 985,516 1030,516 1074,516 1119,516 1137,519"/>
+                <TextEquiv>
+                    <Unicode>London, 1751.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="580,584 2044,575 2024,534 1901,521 1390,540 1236,481 1102,536 786,547 580,487"/>
+                <Baseline points="591,573 615,573 659,573 704,573 749,573 794,570 838,570 883,573 928,570 973,570 1018,567 1062,567 1107,570 1152,570 1197,570 1241,570 1286,567 1331,567 1376,567 1421,570 1465,570 1510,567 1555,570 1600,570 1645,570 1689,570 1734,570 1779,570 1824,570 1868,567 1913,570 1958,570 2003,567 2048,564"/>
+                <TextEquiv>
+                    <Unicode>Hedericus, 105, O. Benjamin Hederici Lexicon Minuale Latino¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="799,641 1998,648 2046,632 2046,573 799,589"/>
+                <Baseline points="809,623 838,623 883,623 928,623 973,623 1018,623 1062,623 1107,623 1152,623 1197,620 1241,623 1286,623 1331,623 1376,623 1421,623 1465,623 1510,623 1555,620 1600,623 1645,623 1689,620 1734,623 1779,623 1824,623 1868,623 1913,623 1958,623 2003,623 2048,620"/>
+                <TextEquiv>
+                    <Unicode>Germanicum, &amp;c. &amp;e. etc. Cum Compendiorum Scrip¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="795,694 1921,707 1998,694 1998,639 795,654"/>
+                <Baseline points="806,674 850,677 895,677 940,677 985,674 1030,677 1074,677 1119,677 1164,674 1209,674 1253,674 1298,674 1343,674 1388,677 1433,677 1477,677 1522,677 1567,677 1612,677 1656,677 1701,677 1746,677 1791,674 1836,677 1880,674 1925,674 1970,674 2003,674"/>
+                <TextEquiv>
+                    <Unicode>turæ Signorumque, &amp;c. &amp;c. Ilterpretatione, Lc. ###c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="804,753 914,753 944,736 971,753 1069,738 1102,762 1153,742 1322,753 1344,744 1346,694 1159,703 1043,687 997,707 959,690 806,689"/>
+                <Baseline points="815,734 853,731 898,731 943,731 988,731 1032,734 1077,731 1122,731 1167,731 1212,731 1256,725 1301,728 1346,728"/>
+                <TextEquiv>
+                    <Unicode>Tom. 2. Lipsiæ, 1766.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="580,810 1954,808 2044,795 2044,747 1682,755 1515,698 1322,755 580,755"/>
+                <Baseline points="591,785 635,785 680,785 725,785 770,785 809,788 815,785 838,785 883,785 928,785 973,785 1018,785 1062,785 1107,785 1152,782 1197,785 1241,782 1286,782 1331,782 1376,785 1421,782 1465,785 1510,785 1555,785 1600,785 1645,785 1689,785 1734,785 1779,782 1824,785 1868,785 1913,785 1958,782 2003,782 2048,779"/>
+                <TextEquiv>
+                    <Unicode>Howison, 26, Q. A Tictionary of the Malay Tongue, as spoken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="802,859 2044,843 2018,790 802,790"/>
+                <Baseline points="812,835 856,835 901,838 946,838 991,838 1035,838 1080,838 1125,838 1170,838 1215,838 1259,835 1304,835 1349,835 1394,835 1439,838 1483,835 1528,838 1573,835 1618,838 1662,835 1707,838 1752,835 1797,838 1842,835 1886,835 1931,832 1976,832 2021,835 2048,835"/>
+                <TextEquiv>
+                    <Unicode>in Malacca, Iava, Borneo, &amp;c. &amp;e. With a Grammar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="795,911 1979,900 2044,931 2027,843 795,861"/>
+                <Baseline points="806,889 850,889 895,892 940,892 985,892 1030,892 1074,892 1119,889 1164,886 1209,892 1253,892 1298,892 1343,889 1388,892 1433,892 1477,892 1522,889 1567,892 1612,889 1656,892 1701,892 1746,892 1791,892 1836,892 1880,892 1925,889 1970,889 2015,892 2048,889"/>
+                <TextEquiv>
+                    <Unicode>of that language. By James Howison, M. D. Map.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="795,955 1144,955 1144,920 1116,905 1072,911 1047,900 1012,914 968,914 920,900 861,916 830,900 795,911"/>
+                <Baseline points="806,943 850,943 895,946 940,943 985,943 1030,943 1074,943 1119,943 1149,943"/>
+                <TextEquiv>
+                    <Unicode>London, 1801.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="584,1019 2053,1015 2053,953 1989,946 584,940"/>
+                <Baseline points="594,997 638,997 683,997 728,997 773,997 818,997 862,1000 907,997 952,997 997,997 1041,997 1086,994 1131,994 1176,997 1221,997 1265,997 1310,997 1355,997 1400,997 1444,994 1489,997 1534,997 1579,997 1624,997 1668,997 1713,997 1758,997 1803,994 1848,994 1892,994 1937,994 1982,994 2027,994 2057,997"/>
+                <TextEquiv>
+                    <Unicode>Johnson, 19, F. AIictionary of the English language: in which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="793,1065 1994,1067 2044,1063 2046,1015 795,1014"/>
+                <Baseline points="806,1050 841,1050 886,1050 931,1050 976,1047 1021,1044 1065,1047 1110,1047 1155,1047 1200,1047 1244,1047 1289,1047 1334,1047 1379,1050 1424,1050 1468,1050 1513,1047 1558,1050 1603,1047 1648,1050 1692,1050 1737,1047 1782,1047 1827,1047 1871,1047 1916,1044 1961,1044 2006,1044 2051,1041"/>
+                <TextEquiv>
+                    <Unicode>the words are dediueed from their originals, and illus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="799,1127 2055,1122 2055,1069 1968,1056 799,1065"/>
+                <Baseline points="809,1101 853,1104 898,1101 943,1101 988,1101 1032,1101 1077,1101 1122,1101 1167,1101 1212,1101 1256,1101 1301,1101 1346,1101 1391,1104 1436,1104 1480,1104 1525,1104 1570,1101 1615,1101 1659,1101 1704,1101 1749,1101 1794,1101 1839,1101 1883,1101 1928,1098 1973,1101 2018,1098 2057,1101"/>
+                <TextEquiv>
+                    <Unicode>trated in their different significations by example from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="799,1181 2055,1183 2055,1122 799,1126"/>
+                <Baseline points="809,1158 850,1158 895,1158 940,1155 985,1152 1030,1155 1074,1155 1119,1152 1164,1155 1209,1155 1253,1155 1298,1155 1343,1155 1388,1155 1433,1152 1477,1155 1522,1155 1567,1155 1612,1158 1656,1155 1701,1155 1746,1155 1791,1155 1836,1155 1880,1155 1925,1155 1970,1152 2015,1155 2060,1155"/>
+                <TextEquiv>
+                    <Unicode>the best Heiters, &amp;c. &amp; c. &amp;e. By Samuel Johnson,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="804,1232 1530,1216 1530,1173 1475,1162 1273,1183 1217,1164 1177,1192 1104,1166 1039,1186 894,1157 804,1170"/>
+                <Baseline points="815,1212 818,1209 862,1209 907,1212 952,1209 997,1209 1041,1209 1086,1209 1131,1209 1176,1209 1221,1209 1265,1209 1310,1209 1355,1209 1400,1212 1444,1212 1489,1206 1534,1206"/>
+                <TextEquiv>
+                    <Unicode>A. M. 2 vols. London, 1755.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="591,1206 2065,1206 2065,2228 591,2228"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="580,1273 2049,1267 2038,1195 891,1238 580,1177"/>
+                <Baseline points="591,1262 620,1262 665,1265 710,1262 755,1262 800,1262 844,1259 889,1262 934,1262 979,1262 1024,1262 1068,1262 1113,1262 1158,1262 1203,1262 1247,1262 1292,1262 1337,1262 1382,1262 1427,1262 1471,1262 1516,1262 1561,1262 1606,1262 1650,1262 1695,1262 1740,1259 1785,1262 1830,1262 1874,1262 1919,1259 1964,1259 2009,1259 2054,1256"/>
+                <TextEquiv>
+                    <Unicode>Ker, 247. O. Secretarum delingua Latina Observationum libri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="804,1342 1891,1346 2046,1331 2046,1269 804,1278"/>
+                <Baseline points="815,1313 859,1316 904,1316 949,1316 994,1316 1038,1316 1083,1316 1128,1316 1173,1316 1218,1316 1262,1316 1307,1316 1352,1316 1397,1316 1442,1316 1486,1316 1531,1316 1576,1316 1621,1313 1665,1316 1710,1316 1755,1316 1800,1316 1845,1316 1889,1313 1934,1313 1979,1313 2024,1316 2051,1316"/>
+                <TextEquiv>
+                    <Unicode>duo. Ductu et Cura Joannis Ker. Tom. I. Londini,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="810,1385 828,1381 841,1385 852,1377 859,1385 863,1381 872,1385 887,1377 896,1383 911,1379 922,1385 940,1379 938,1329 924,1331 914,1322 905,1322 880,1335 847,1328 808,1339"/>
+                <Baseline points="818,1367 862,1364 907,1370 943,1367"/>
+                <TextEquiv>
+                    <Unicode>1709.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="580,1447 1724,1454 2036,1430 2053,1388 580,1390"/>
+                <Baseline points="591,1424 623,1424 668,1424 713,1424 758,1424 803,1424 847,1421 892,1421 937,1424 982,1421 1027,1421 1071,1421 1116,1421 1161,1421 1206,1421 1250,1421 1295,1424 1340,1421 1385,1421 1430,1424 1474,1421 1519,1421 1564,1424 1609,1421 1653,1424 1698,1424 1743,1424 1788,1421 1833,1421 1877,1421 1922,1418 1967,1418 2012,1418 2057,1415"/>
+                <TextEquiv>
+                    <Unicode>Leusden, 126, Q. Philologus Hebraeus, in quo pleræque quaes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="812,1487 2053,1484 2053,1441 2000,1427 1728,1456 812,1436"/>
+                <Baseline points="821,1471 847,1471 892,1474 937,1474 982,1474 1027,1471 1071,1474 1116,1474 1161,1474 1206,1477 1250,1474 1295,1474 1340,1474 1385,1474 1430,1471 1474,1474 1519,1474 1564,1474 1609,1474 1653,1474 1698,1474 1743,1474 1788,1471 1833,1471 1877,1471 1922,1471 1967,1471 2012,1471 2057,1468"/>
+                <TextEquiv>
+                    <Unicode>tiones generales philologico-hebraicae, concernentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="802,1533 1871,1553 2049,1541 2049,1484 802,1495"/>
+                <Baseline points="812,1525 856,1525 901,1528 946,1528 991,1528 1035,1528 1080,1525 1125,1525 1170,1525 1215,1525 1259,1528 1304,1525 1349,1525 1394,1525 1439,1528 1483,1525 1528,1525 1573,1525 1618,1525 1662,1525 1707,1525 1752,1525 1797,1525 1842,1525 1886,1525 1931,1525 1976,1525 2021,1525 2054,1525"/>
+                <TextEquiv>
+                    <Unicode>Textum Hebraeum Veteris Testamenti dilucidè pertrac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="804,1603 1952,1603 2060,1592 2060,1542 804,1550"/>
+                <Baseline points="815,1579 853,1579 898,1579 943,1582 988,1579 1032,1579 1077,1579 1122,1579 1167,1582 1212,1582 1256,1579 1301,1579 1346,1579 1391,1579 1436,1579 1480,1579 1525,1579 1570,1579 1615,1579 1659,1579 1704,1579 1749,1579 1794,1576 1839,1579 1883,1576 1928,1576 1973,1576 2018,1576 2063,1576"/>
+                <TextEquiv>
+                    <Unicode>tantur. Cum Catalogo hebraico et latino sexcentorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="808,1651 1990,1656 2055,1651 2055,1594 808,1599"/>
+                <Baseline points="818,1630 850,1633 895,1633 940,1633 985,1633 1030,1633 1074,1633 1119,1633 1164,1633 1209,1633 1253,1633 1298,1633 1343,1633 1388,1633 1433,1633 1477,1633 1522,1633 1567,1633 1612,1630 1656,1633 1701,1633 1746,1630 1791,1633 1836,1630 1880,1630 1925,1630 1970,1630 2015,1630 2060,1627"/>
+                <TextEquiv>
+                    <Unicode>et tredecim Praeceptorum, in quo totus Pentateuchus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="804,1693 1972,1713 2060,1699 2060,1654 804,1667"/>
+                <Baseline points="815,1686 853,1683 898,1683 943,1686 988,1686 1032,1686 1077,1686 1122,1686 1167,1686 1212,1686 1256,1686 1301,1686 1346,1686 1391,1686 1436,1683 1480,1683 1525,1686 1570,1686 1615,1683 1659,1686 1704,1686 1749,1686 1794,1686 1839,1686 1883,1683 1928,1686 1973,1686 2018,1686 2063,1683"/>
+                <TextEquiv>
+                    <Unicode>ex sententiâ Judaeorum divisus est. Authore Joanne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="804,1748 1172,1765 1241,1744 1350,1781 1403,1755 1634,1748 1697,1770 1697,1700 1662,1691 1487,1711 1361,1691 1285,1726 1227,1695 804,1700"/>
+                <Baseline points="815,1740 859,1740 904,1737 949,1737 994,1737 1038,1740 1083,1740 1128,1740 1173,1737 1218,1737 1262,1740 1307,1740 1352,1737 1397,1740 1442,1740 1486,1740 1531,1737 1576,1737 1621,1737 1665,1737 1701,1740"/>
+                <TextEquiv>
+                    <Unicode>Leusden, M. A. &amp;c. Ultrajecti, 1657.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="872,1800 935,1812 997,1796 1083,1812 1142,1796 1192,1811 1329,1805 1329,1761 1241,1743 1208,1763 1129,1748 1050,1761 968,1748 946,1765 914,1748 872,1757"/>
+                <Baseline points="883,1788 928,1791 973,1791 1018,1791 1062,1788 1107,1791 1152,1788 1197,1791 1241,1791 1286,1791 1331,1791 1334,1791"/>
+                <TextEquiv>
+                    <Unicode>O. See Faber, Tan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="588,1822 619,1803 639,1807 648,1800 674,1803 685,1814 716,1803 742,1814 762,1796 802,1816 845,1816 845,1754 813,1748 801,1755 786,1744 760,1765 729,1759 722,1766 700,1744 667,1765 634,1750 588,1757"/>
+                <Baseline points="597,1794 641,1794 686,1791 731,1794 776,1794 821,1794 850,1794"/>
+                <TextEquiv>
+                    <Unicode>Locke, 257</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="597,1864 1844,1875 2055,1864 2055,1798 597,1812"/>
+                <Baseline points="606,1848 609,1845 653,1848 698,1848 743,1845 788,1845 832,1845 856,1845 892,1845 937,1842 982,1842 1027,1845 1071,1845 1116,1845 1161,1842 1206,1845 1250,1845 1295,1845 1340,1845 1385,1845 1430,1845 1474,1845 1519,1842 1564,1845 1609,1845 1653,1845 1698,1842 1743,1845 1788,1845 1833,1845 1877,1845 1922,1845 1967,1842 2012,1845 2057,1842"/>
+                <TextEquiv>
+                    <Unicode>Manutius, 281, O. Adagia optimorum utriusque Linguae Scrip¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="812,1910 2055,1921 2055,1864 1978,1853 812,1869"/>
+                <Baseline points="821,1895 865,1895 910,1898 955,1895 1000,1895 1044,1895 1089,1898 1134,1898 1179,1898 1224,1895 1268,1898 1313,1898 1358,1898 1403,1898 1447,1898 1492,1898 1537,1898 1582,1898 1627,1898 1671,1895 1716,1898 1761,1898 1806,1895 1851,1895 1895,1898 1940,1895 1985,1898 2030,1898 2060,1898"/>
+                <TextEquiv>
+                    <Unicode>torum omnia, quaecunque ad hunc usque diem exierunt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="804,1968 1987,1961 1961,1904 804,1912"/>
+                <Baseline points="815,1952 826,1949 871,1949 916,1952 961,1949 1006,1949 1050,1949 1095,1949 1140,1952 1185,1949 1230,1949 1274,1952 1319,1952 1364,1952 1409,1952 1453,1952 1498,1949 1543,1952 1588,1952 1633,1952 1677,1949 1722,1949 1767,1952 1812,1952 1857,1949 1901,1949 1946,1949 1991,1946"/>
+                <TextEquiv>
+                    <Unicode>Pauli Manutiiiscudio, &amp;c.&amp;c.Lc. Ursellis, 1603.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="755,2024 824,2016 847,2035 878,2016 973,2013 1026,2031 1060,2013 1142,2031 1210,2011 1252,2029 1282,2025 1282,1974 1063,1957 1023,1981 946,1957 880,1961 854,1981 799,1963 755,1985"/>
+                <Baseline points="764,2000 809,2003 853,2003 898,2003 943,2003 988,2000 1032,2003 1077,2003 1122,2006 1167,2003 1212,2003 1256,2003 1286,2003"/>
+                <TextEquiv>
+                    <Unicode>- 34, F. See Calepinus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="588,2073 1921,2079 2060,2068 2060,1996 1344,2036 588,2009"/>
+                <Baseline points="597,2057 632,2057 677,2057 722,2057 767,2060 812,2057 856,2057 901,2057 946,2057 991,2057 1035,2057 1080,2054 1125,2054 1170,2057 1215,2057 1259,2057 1304,2057 1349,2057 1394,2060 1439,2057 1483,2057 1528,2054 1573,2057 1618,2054 1662,2057 1707,2054 1752,2057 1797,2057 1842,2057 1886,2057 1931,2057 1976,2054 2021,2057 2065,2054"/>
+                <TextEquiv>
+                    <Unicode>Miege, 54, F. The Great French and English Tictionary, accord¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="802,2123 2014,2132 2060,2121 2062,2068 804,2069"/>
+                <Baseline points="812,2110 856,2110 901,2110 946,2107 991,2107 1035,2110 1080,2110 1125,2110 1170,2110 1215,2107 1259,2110 1304,2110 1349,2110 1394,2110 1439,2107 1483,2107 1528,2110 1573,2110 1618,2110 1662,2107 1707,2107 1752,2110 1797,2107 1842,2107 1886,2107 1931,2107 1976,2107 2021,2101 2065,2107"/>
+                <TextEquiv>
+                    <Unicode>ing to the ancient and Modern Orthography with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="812,2178 1851,2196 2058,2172 2058,2119 812,2121"/>
+                <Baseline points="821,2161 865,2161 910,2161 955,2161 1000,2164 1044,2164 1089,2164 1134,2164 1179,2161 1224,2164 1268,2161 1313,2164 1358,2164 1403,2161 1447,2161 1492,2164 1537,2164 1582,2164 1627,2164 1671,2164 1716,2164 1761,2164 1806,2164 1851,2164 1895,2164 1940,2161 1985,2164 2030,2164 2063,2161"/>
+                <TextEquiv>
+                    <Unicode>Grammars, Lc. &amp;c. dc. By Guy Miege, Gent. Lon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="804,2233 824,2237 870,2226 927,2237 951,2226 986,2237 1014,2224 1058,2244 1060,2185 1026,2176 977,2176 960,2185 911,2178 898,2191 881,2178 854,2183 837,2172 817,2189 804,2187"/>
+                <Baseline points="815,2218 841,2218 886,2218 931,2218 976,2215 1021,2215 1065,2215"/>
+                <TextEquiv>
+                    <Unicode>don, 1688.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="606,2216 2068,2216 2068,2867 606,2867"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="597,2277 760,2301 848,2281 894,2299 927,2273 1219,2297 1250,2277 1368,2284 1368,2233 1274,2209 1197,2240 1162,2222 1048,2244 1014,2224 729,2240 597,2215"/>
+                <Baseline points="606,2271 650,2269 695,2269 740,2271 785,2269 829,2269 874,2271 919,2269 964,2266 1009,2269 1053,2266 1098,2266 1143,2266 1188,2269 1233,2269 1277,2269 1322,2269 1367,2269 1373,2271"/>
+                <TextEquiv>
+                    <Unicode>Milton, 257, O. See Faber, Tan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="599,2347 1976,2347 2057,2338 2057,2286 599,2299"/>
+                <Baseline points="609,2325 653,2325 698,2325 743,2325 767,2325 779,2322 824,2319 868,2322 913,2322 958,2319 1003,2319 1047,2319 1092,2319 1137,2322 1182,2322 1227,2322 1271,2322 1316,2322 1361,2322 1406,2322 1450,2322 1495,2322 1540,2322 1585,2322 1630,2322 1674,2322 1719,2322 1764,2325 1809,2325 1854,2325 1898,2322 1943,2322 1988,2319 2033,2322 2060,2322"/>
+                <TextEquiv>
+                    <Unicode>Moor, 184, O. Elementa Linguae Græcae; novis, plerumque,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="808,2396 2060,2393 2031,2330 808,2338"/>
+                <Baseline points="818,2373 862,2373 907,2373 952,2373 997,2373 1041,2376 1086,2376 1131,2376 1176,2376 1221,2376 1265,2373 1310,2376 1355,2376 1400,2376 1444,2376 1489,2376 1534,2379 1579,2379 1624,2379 1668,2379 1713,2379 1758,2379 1803,2379 1848,2379 1892,2379 1937,2379 1982,2379 2027,2376 2065,2379"/>
+                <TextEquiv>
+                    <Unicode>Regulis tradita,&amp;c. &amp;c. Studio Jacobi Moor,LL. D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="815,2439 1339,2450 1339,2389 1296,2383 1170,2385 1120,2404 1028,2385 933,2404 847,2385 815,2396"/>
+                <Baseline points="826,2424 871,2427 916,2427 961,2427 1006,2427 1050,2427 1095,2427 1140,2427 1185,2427 1230,2427 1274,2427 1319,2427 1343,2430"/>
+                <TextEquiv>
+                    <Unicode>&amp;c. Edinburgi, 1798.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="599,2499 1317,2501 1317,2451 1284,2439 1100,2440 1071,2462 815,2431 599,2444"/>
+                <Baseline points="609,2483 650,2483 695,2480 740,2480 785,2483 829,2483 874,2480 919,2480 964,2480 1009,2480 1053,2480 1098,2483 1143,2480 1188,2480 1233,2477 1277,2480 1322,2480"/>
+                <TextEquiv>
+                    <Unicode>Morrell, 90, O. See Ainsworth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="604,2552 2053,2545 2053,2499 1992,2484 1612,2506 1497,2466 1436,2505 604,2497"/>
+                <Baseline points="615,2537 659,2534 704,2537 749,2537 794,2534 835,2537 847,2537 892,2537 937,2534 982,2534 1027,2534 1071,2534 1116,2534 1161,2534 1206,2534 1250,2534 1295,2534 1340,2534 1385,2534 1430,2534 1474,2534 1519,2534 1564,2534 1609,2534 1653,2537 1698,2537 1743,2534 1788,2537 1833,2534 1877,2534 1922,2537 1967,2534 2012,2534 2057,2534"/>
+                <TextEquiv>
+                    <Unicode>Morrison, 1, Q. AIictionary of the Chinese language, &amp;c. &amp;c..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="815,2596 2058,2604 2058,2552 1972,2536 815,2551"/>
+                <Baseline points="826,2588 871,2585 916,2588 961,2588 1006,2585 1050,2585 1095,2585 1140,2585 1185,2588 1230,2588 1274,2588 1319,2588 1364,2588 1409,2588 1453,2588 1498,2588 1543,2588 1588,2588 1633,2591 1677,2588 1722,2588 1767,2588 1812,2588 1857,2588 1901,2588 1946,2588 1991,2588 2036,2588 2063,2588"/>
+                <TextEquiv>
+                    <Unicode>By the Rev. R. tant son. Vol. 1. part 1. Macao, 1815.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="771,2670 1849,2650 1939,2683 2064,2657 2064,2596 771,2618"/>
+                <Baseline points="782,2639 826,2639 871,2642 916,2642 961,2645 1006,2642 1050,2645 1095,2645 1140,2642 1185,2642 1230,2639 1274,2639 1319,2639 1364,2642 1409,2639 1453,2639 1498,2639 1543,2639 1588,2642 1633,2642 1677,2642 1722,2642 1767,2642 1812,2642 1857,2642 1901,2639 1946,2645 1991,2645 2036,2642 2068,2642"/>
+                <TextEquiv>
+                    <Unicode>20, Q. A Grammar of the Chinese language. By the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="815,2712 1768,2708 1768,2653 815,2653"/>
+                <Baseline points="826,2692 871,2689 916,2692 961,2695 1006,2695 1050,2695 1095,2695 1140,2698 1185,2695 1230,2692 1274,2692 1319,2695 1364,2695 1409,2695 1453,2692 1498,2695 1543,2692 1588,2695 1633,2695 1677,2695 1722,2695 1767,2695 1773,2695"/>
+                <TextEquiv>
+                    <Unicode>Rev. Robert Iorison. Serampore, 1815.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="604,2758 2055,2758 2055,2710 1970,2694 604,2708"/>
+                <Baseline points="615,2746 626,2746 671,2746 716,2746 761,2746 806,2743 850,2746 895,2746 940,2746 985,2746 1030,2749 1074,2749 1119,2746 1164,2746 1209,2749 1253,2749 1298,2749 1343,2749 1388,2746 1433,2746 1477,2749 1522,2746 1567,2746 1612,2746 1656,2749 1701,2746 1746,2746 1791,2746 1836,2746 1880,2743 1925,2743 1970,2743 2015,2743 2060,2743"/>
+                <TextEquiv>
+                    <Unicode>Mosellanus, P. 341, O. Annotationes Petri Mosellani Protogen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="815,2820 1834,2826 2055,2811 2055,2756 815,2773"/>
+                <Baseline points="826,2797 871,2800 916,2800 961,2800 1006,2800 1050,2803 1095,2800 1140,2797 1185,2803 1230,2803 1274,2803 1319,2803 1364,2800 1409,2800 1453,2800 1498,2800 1543,2800 1588,2800 1633,2800 1677,2800 1722,2800 1767,2797 1812,2800 1857,2800 1901,2797 1946,2797 1991,2797 2036,2800 2060,2800"/>
+                <TextEquiv>
+                    <Unicode>sis in clarissimas Auli Gellii Noctes Atticas.—Plu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="815,2870 1173,2887 1318,2857 1746,2896 1851,2861 2025,2894 2025,2826 1972,2808 815,2820"/>
+                <Baseline points="826,2851 871,2851 916,2854 961,2854 1006,2851 1050,2857 1095,2857 1140,2857 1185,2857 1230,2857 1274,2857 1319,2857 1364,2857 1409,2857 1453,2857 1498,2857 1543,2857 1588,2857 1633,2857 1677,2857 1722,2854 1767,2857 1812,2854 1857,2854 1901,2854 1946,2854 1991,2851 2030,2851"/>
+                <TextEquiv>
+                    <Unicode>tarchus Chæron. de educatione puerorum. Graece.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

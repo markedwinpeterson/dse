@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_10:32</Creator>
+        <Created>2024-02-07T19:24:56.889+01:00</Created>
+        <LastChange>2024-02-08T10:32:44.048+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64964059" pageNr="94" tsid="147975106" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=JSSTPTBFTLHYAGPBREDSAWMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCKDZMLUVWYHXLLCRIJYURJO" imageId="51988758"/>
+    </Metadata>
+    <Page imageFilename="p094.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669798029" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="480,287 1946,287 1946,884 480,884"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="960,354 1099,381 1174,350 1216,381 1307,364 1338,381 1372,357 1431,381 1469,372 1469,290 1420,272 1369,303 1330,286 1250,306 1163,272 1094,306 1008,288 960,299"/>
+                <Baseline points="970,337 1015,340 1059,340 1104,340 1149,337 1194,337 1238,337 1283,340 1328,340 1373,337 1418,337 1462,337 1474,340"/>
+                <TextEquiv>
+                    <Unicode>MODERN LITER were.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="682,463 1884,467 1939,457 1939,379 1657,410 1545,370 1327,406 1068,372 827,419 682,383"/>
+                <Baseline points="692,447 734,447 779,444 824,444 868,444 913,444 958,441 1003,444 1047,444 1092,444 1137,444 1182,444 1227,444 1271,444 1316,444 1361,444 1406,444 1450,441 1495,441 1540,441 1585,438 1630,438 1674,438 1719,441 1764,441 1809,441 1854,441 1898,441 1943,441"/>
+                <TextEquiv>
+                    <Unicode>Avec Annotations en Marge, &amp;c. et la Vie de l'Auteur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="691,516 1784,521 1795,452 1662,476 1489,452 1449,483 1340,452 691,461"/>
+                <Baseline points="701,501 725,498 770,498 815,495 859,495 904,495 949,495 994,492 1038,495 1083,498 1128,498 1173,495 1218,495 1262,495 1307,495 1352,495 1397,498 1442,495 1486,498 1531,495 1576,495 1621,495 1665,495 1710,492 1755,495 1800,495"/>
+                <TextEquiv>
+                    <Unicode>extraicte de ses propres escrits. A Rome, 1627.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="474,560 534,594 1935,569 1914,492 702,529 474,472"/>
+                <Baseline points="483,549 528,552 573,555 618,552 662,552 707,552 752,552 797,552 841,549 886,552 931,549 976,549 1021,549 1065,552 1110,552 1155,552 1200,552 1244,552 1289,552 1334,552 1379,549 1424,552 1468,552 1513,552 1558,549 1603,549 1648,552 1692,549 1737,552 1782,549 1827,549 1871,549 1916,549 1940,549"/>
+                <TextEquiv>
+                    <Unicode>spectator, 30, D. The Spectator. 8 vols. (Vols. V. and VI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="687,621 711,636 860,618 897,638 919,616 1004,631 1159,611 1305,632 1305,565 1279,552 1135,578 1044,560 687,574"/>
+                <Baseline points="698,606 728,606 773,606 818,603 862,600 907,606 952,606 997,606 1041,606 1086,606 1131,606 1176,606 1221,606 1265,606 1310,603"/>
+                <TextEquiv>
+                    <Unicode>wanting.) London, 1753.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="474,671 682,687 731,663 911,682 1165,667 1165,631 1128,616 991,631 933,607 895,636 858,616 804,632 745,616 711,636 594,601 563,620 474,601"/>
+                <Baseline points="483,656 528,656 573,656 618,659 662,659 707,659 752,659 797,659 841,659 886,656 931,656 976,656 1021,656 1065,656 1110,656 1155,656 1170,656"/>
+                <TextEquiv>
+                    <Unicode>Towneley, 19, D. See Butler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="479,744 1941,755 1941,663 1830,631 1700,678 1600,631 1319,683 479,669"/>
+                <Baseline points="489,710 513,710 558,713 603,713 647,713 692,710 737,713 782,713 826,710 871,710 916,710 961,713 1006,710 1050,713 1095,713 1140,710 1185,710 1230,710 1274,710 1319,710 1364,710 1409,710 1453,710 1498,710 1543,710 1588,710 1633,710 1677,710 1722,713 1767,710 1812,710 1857,710 1901,710 1946,704"/>
+                <TextEquiv>
+                    <Unicode>Voiture, 48, D. Recueil des Œuvres de M. de Voiture. A Brus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="682,784 738,787 747,778 800,776 824,785 853,775 878,785 909,773 960,784 977,780 977,733 951,722 939,731 924,722 877,729 868,722 833,749 760,718 734,738 682,747"/>
+                <Baseline points="692,764 737,764 782,767 826,764 871,764 916,764 961,764 982,764"/>
+                <TextEquiv>
+                    <Unicode>selles, 1695.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="470,846 1930,847 1915,751 1710,791 1119,734 1013,782 667,791 470,744"/>
+                <Baseline points="480,818 501,815 546,818 591,821 635,821 680,821 725,818 770,821 815,818 859,821 904,818 949,818 994,821 1038,821 1083,818 1128,818 1173,818 1218,818 1262,818 1307,818 1352,818 1397,815 1442,815 1486,815 1531,815 1576,815 1621,818 1665,818 1710,818 1755,821 1800,818 1845,818 1889,818 1934,815"/>
+                <TextEquiv>
+                    <Unicode>Williston, 49, O. Eloquence of the United States: compiled by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="676,893 1914,884 1886,824 1341,826 1292,857 1221,826 676,833"/>
+                <Baseline points="686,874 707,874 752,874 797,874 841,871 886,871 931,874 976,874 1021,874 1065,874 1110,874 1155,874 1200,874 1244,874 1289,874 1334,874 1379,874 1424,874 1468,874 1513,874 1558,874 1603,874 1648,874 1692,874 1737,874 1782,874 1827,874 1871,874 1916,871"/>
+                <TextEquiv>
+                    <Unicode>E. B. Williston. 5 vols. Middletown, Conn. 1827.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

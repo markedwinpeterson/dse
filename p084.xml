@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.9.0:model_id=51170:date=08_02_2024_11:09</Creator>
+        <Created>2024-02-07T19:24:55.744+01:00</Created>
+        <LastChange>2024-02-08T11:09:49.194+01:00</LastChange>
+        <TranskribusMetadata docId="1800286" pageId="64964041" pageNr="84" tsid="147980349" status="IN_PROGRESS" userId="65058" imgUrl="https://files.transkribus.eu/Get?id=EFHDQFSCFFYPJOIZPPSTSCDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRKAYSLRGIQQZPDAALYLSMFF" imageId="51988740"/>
+    </Metadata>
+    <Page imageFilename="p084.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1707669795512" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="513,242 1988,242 1988,1213 513,1213"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="800,314 853,337 952,317 1027,339 1091,310 1197,337 1315,306 1427,339 1544,310 1669,326 1693,317 1694,249 1498,238 1465,260 1399,222 1214,262 1051,216 977,262 880,216 801,242"/>
+                <Baseline points="809,298 853,298 898,298 943,295 988,295 1032,295 1077,295 1122,295 1167,295 1212,295 1256,295 1301,295 1346,295 1391,292 1436,292 1480,292 1525,295 1570,295 1615,295 1659,295 1698,298"/>
+                <TextEquiv>
+                    <Unicode>HISTORY, BIOGRAPHY, ANDrtEOGRatev.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1896,314 1909,314 1914,308 1935,308 1955,323 1962,315 1971,312 1986,315 1988,249 1977,251 1971,248 1964,253 1953,248 1944,238 1933,246 1907,227 1898,227"/>
+                <Baseline points="1907,298 1943,295 1988,295"/>
+                <TextEquiv>
+                    <Unicode>71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="515,425 554,411 761,425 845,407 884,427 919,409 970,424 998,403 1100,420 1115,341 968,326 888,356 862,341 816,356 627,328 601,343 559,321 517,336"/>
+                <Baseline points="528,403 537,403 582,403 626,403 671,400 716,403 761,400 806,400 850,400 895,397 940,397 985,397 1030,397 1074,400 1119,397"/>
+                <TextEquiv>
+                    <Unicode>Ozell, 146, O. See Vertot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="512,473 1803,473 1832,413 1559,380 1500,414 512,427"/>
+                <Baseline points="522,456 537,453 582,456 626,459 671,456 716,453 761,450 806,453 850,456 895,453 940,456 985,453 1030,453 1074,453 1119,453 1164,453 1209,450 1253,450 1298,450 1343,450 1388,453 1433,450 1477,453 1522,450 1567,453 1612,453 1656,453 1701,450 1746,450 1791,450 1836,453"/>
+                <TextEquiv>
+                    <Unicode>Paine, 51—10, O. Paine on Government. Paris, 1795.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="697,524 1698,523 1722,458 697,473"/>
+                <Baseline points="707,507 740,504 785,501 829,504 874,504 919,507 964,507 1009,507 1053,507 1098,507 1143,507 1188,504 1233,507 1277,504 1322,507 1367,507 1412,507 1456,507 1501,507 1546,504 1591,504 1636,501 1680,501 1725,501"/>
+                <TextEquiv>
+                    <Unicode>51—6, O. Speech of T. Paine, July 7, 1795.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1551,565 1652,596 1685,570 1834,567 1896,596 1933,570 1968,568 1968,499 1942,491 1900,513 1872,499 1832,510 1806,537 1731,510 1696,524 1551,513"/>
+                <Baseline points="1561,558 1606,555 1650,558 1695,561 1740,558 1785,558 1830,558 1874,558 1919,561 1964,558 1973,561"/>
+                <TextEquiv>
+                    <Unicode>By Paine. Phila-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="688,600 805,567 1102,589 1153,568 1194,600 1520,572 1520,543 1447,517 688,521"/>
+                <Baseline points="698,561 719,558 764,561 809,558 853,558 898,558 943,561 988,558 1032,558 1077,561 1122,561 1167,561 1212,558 1256,558 1301,558 1346,561 1391,561 1436,558 1480,561 1525,558"/>
+                <TextEquiv>
+                    <Unicode>51—2, O. Letter to Washington.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="730,629 778,625 800,645 818,644 836,625 866,636 919,623 966,629 979,618 994,629 1016,620 1051,633 1051,578 1036,572 957,568 911,592 871,570 853,583 840,572 730,576"/>
+                <Baseline points="740,615 743,612 788,615 832,615 877,615 922,615 967,612 1012,612 1056,612"/>
+                <TextEquiv>
+                    <Unicode>delphia, 1796.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="693,675 1962,678 1962,625 1911,607 693,620"/>
+                <Baseline points="704,668 713,665 758,665 803,665 847,668 892,668 937,665 982,668 1027,668 1071,665 1116,665 1161,668 1206,665 1250,665 1295,662 1340,665 1385,662 1430,665 1474,662 1519,662 1564,662 1609,662 1653,662 1698,662 1743,662 1788,662 1833,662 1877,662 1922,665 1967,665"/>
+                <TextEquiv>
+                    <Unicode>52—4, O. Speech in the French convention, by Paine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="697,730 1966,743 1966,684 1790,667 697,673"/>
+                <Baseline points="707,719 752,716 797,719 841,719 886,719 931,719 976,716 1021,719 1065,722 1110,719 1155,719 1200,719 1244,719 1289,719 1334,719 1379,719 1424,719 1468,719 1513,719 1558,719 1603,719 1648,719 1692,716 1737,719 1782,716 1827,719 1871,722 1916,722 1961,725 1970,725"/>
+                <TextEquiv>
+                    <Unicode>52—3, O. The Decline and Fall of the English Finance,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="724,789 754,789 781,807 790,798 845,785 869,794 886,785 944,790 944,741 919,730 897,737 871,730 855,745 838,730 770,745 754,730 724,732"/>
+                <Baseline points="734,776 779,773 824,773 868,773 913,776 949,776"/>
+                <TextEquiv>
+                    <Unicode>by Paine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="693,847 1768,844 1792,767 783,809 693,785"/>
+                <Baseline points="704,824 749,826 794,821 838,826 883,826 928,826 973,826 1018,826 1062,826 1107,826 1152,824 1197,824 1241,824 1286,824 1331,826 1376,824 1421,824 1465,824 1510,824 1555,824 1600,826 1645,824 1689,824 1734,821 1779,824 1794,824"/>
+                <TextEquiv>
+                    <Unicode>53—5, O. Paine on Government. Paris, 1795.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="502,888 1971,891 1971,842 1830,811 1762,849 502,833"/>
+                <Baseline points="513,874 558,880 603,880 647,883 692,883 737,880 782,880 826,880 871,880 916,880 961,877 1006,880 1050,877 1095,877 1140,877 1185,880 1230,880 1274,880 1319,880 1364,880 1409,880 1453,880 1498,880 1543,880 1588,877 1633,877 1677,874 1722,877 1767,880 1812,877 1857,877 1901,877 1946,877 1976,874"/>
+                <TextEquiv>
+                    <Unicode>Parker, 101, O. Memoirs of the most Abnakable Military Trans¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="719,957 1537,937 1808,968 1968,939 1968,895 719,899"/>
+                <Baseline points="728,934 764,934 809,934 853,931 898,931 943,934 988,934 1032,931 1077,931 1122,934 1167,934 1212,931 1256,931 1301,931 1346,931 1391,934 1436,934 1480,934 1525,934 1570,931 1615,931 1659,931 1704,931 1749,931 1794,931 1839,931 1883,934 1928,934 1973,931"/>
+                <TextEquiv>
+                    <Unicode>actions from the year 1683, to 1718. Containing a par¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="719,996 1964,1001 1977,937 1801,966 719,950"/>
+                <Baseline points="728,985 773,988 818,988 862,988 907,988 952,988 997,988 1041,988 1086,985 1131,985 1176,985 1221,985 1265,985 1310,988 1355,985 1400,985 1444,985 1489,985 1534,985 1579,985 1624,985 1668,982 1713,982 1758,982 1803,985 1848,985 1892,985 1937,985 1982,985"/>
+                <TextEquiv>
+                    <Unicode>ticular account of the several Battles, Sieges, &amp;c. in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="721,1053 1977,1058 1977,996 1920,988 721,1001"/>
+                <Baseline points="731,1041 773,1038 818,1041 862,1041 907,1041 952,1041 997,1041 1041,1038 1086,1041 1131,1038 1176,1038 1221,1041 1265,1041 1310,1041 1355,1038 1400,1038 1444,1038 1489,1038 1534,1038 1579,1038 1624,1038 1668,1038 1713,1035 1758,1038 1803,1038 1848,1035 1892,1032 1937,1035 1982,1035"/>
+                <TextEquiv>
+                    <Unicode>Ireland and Flanders, during the Reigns of King Wil-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="724,1106 1971,1109 1971,1053 1896,1043 724,1051"/>
+                <Baseline points="734,1092 779,1092 824,1095 868,1095 913,1095 958,1095 1003,1095 1047,1095 1092,1095 1137,1095 1182,1095 1227,1095 1271,1092 1316,1092 1361,1089 1406,1092 1450,1092 1495,1092 1540,1092 1585,1092 1630,1092 1674,1089 1719,1092 1764,1092 1809,1092 1854,1092 1898,1095 1943,1092 1976,1092"/>
+                <TextEquiv>
+                    <Unicode>liam and Queen Anne. By Capt. Robert Parker, late</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="719,1155 1977,1163 1977,1109 719,1108"/>
+                <Baseline points="728,1146 773,1143 818,1146 862,1146 907,1149 952,1146 997,1149 1041,1146 1086,1146 1131,1146 1176,1149 1221,1146 1265,1146 1310,1143 1355,1146 1400,1146 1444,1146 1489,1146 1534,1146 1579,1146 1624,1146 1668,1146 1713,1146 1758,1146 1803,1146 1848,1146 1892,1146 1937,1149 1982,1149"/>
+                <TextEquiv>
+                    <Unicode>of the Royal Regiment of Foot in Ireland, who was an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="724,1216 1768,1214 1768,1161 1722,1155 724,1155"/>
+                <Baseline points="734,1200 779,1197 824,1197 868,1197 913,1197 958,1200 1003,1200 1047,1200 1092,1200 1137,1200 1182,1197 1227,1197 1271,1200 1316,1200 1361,1200 1406,1200 1450,1200 1495,1200 1540,1200 1585,1200 1630,1200 1674,1197 1719,1197 1764,1200 1770,1203"/>
+                <TextEquiv>
+                    <Unicode>Eye-witness to most of them. London, 1747.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="513,1197 1979,1197 1979,1855 513,1855"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="502,1258 1977,1278 1977,1212 1819,1194 502,1212"/>
+                <Baseline points="513,1256 558,1253 603,1253 647,1253 692,1253 737,1256 752,1256 764,1253 809,1253 853,1250 898,1253 943,1253 988,1250 1032,1253 1077,1253 1122,1253 1167,1253 1212,1253 1256,1253 1301,1253 1346,1253 1391,1253 1436,1250 1480,1250 1525,1253 1570,1253 1615,1250 1659,1250 1704,1247 1749,1250 1794,1250 1839,1250 1883,1250 1928,1253 1973,1250 1979,1253"/>
+                <TextEquiv>
+                    <Unicode>PatUerson, 53—7, O. Petition of Alexander Paterson to the Le-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="730,1329 1746,1324 1746,1269 730,1276"/>
+                <Baseline points="740,1307 764,1307 809,1304 853,1304 898,1304 943,1304 988,1307 1032,1307 1077,1307 1122,1307 1167,1307 1212,1307 1256,1307 1301,1307 1346,1304 1391,1307 1436,1307 1480,1304 1525,1304 1570,1304 1615,1304 1659,1304 1704,1301 1749,1304"/>
+                <TextEquiv>
+                    <Unicode>gislature of Pennsylvania. Lancaster, 1804.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="510,1379 1953,1384 1968,1318 510,1328"/>
+                <Baseline points="519,1361 540,1358 585,1358 629,1361 674,1358 719,1358 764,1361 809,1361 853,1361 898,1361 943,1361 988,1358 1032,1358 1077,1361 1122,1361 1167,1358 1212,1358 1256,1358 1301,1358 1346,1358 1391,1358 1436,1358 1480,1358 1525,1358 1570,1358 1615,1358 1659,1358 1704,1358 1749,1358 1794,1361 1839,1361 1883,1361 1928,1361 1973,1355"/>
+                <TextEquiv>
+                    <Unicode>Penosylvania, Journals of the House of Representatives of, 23, F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="724,1423 1975,1428 1975,1381 1905,1368 724,1377"/>
+                <Baseline points="734,1412 779,1415 824,1415 868,1412 913,1415 958,1412 1003,1415 1047,1412 1092,1412 1137,1412 1182,1415 1227,1412 1271,1415 1316,1415 1361,1415 1406,1415 1450,1412 1495,1412 1540,1412 1585,1412 1630,1412 1674,1415 1719,1412 1764,1412 1809,1415 1854,1415 1898,1415 1943,1415 1979,1415"/>
+                <TextEquiv>
+                    <Unicode>and 112, O. See Journals of the House of Representatives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="721,1471 748,1489 790,1478 834,1495 880,1476 913,1476 937,1493 957,1474 1009,1474 1042,1491 1104,1474 1104,1425 1023,1434 954,1419 926,1438 906,1427 893,1436 871,1425 721,1419"/>
+                <Baseline points="731,1468 749,1468 794,1465 838,1465 883,1468 928,1465 973,1465 1018,1465 1062,1465 1107,1462"/>
+                <TextEquiv>
+                    <Unicode>of Pennsylvania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="682,1557 763,1528 1960,1539 1975,1482 682,1491"/>
+                <Baseline points="692,1519 737,1519 782,1519 826,1519 871,1519 916,1519 961,1519 1006,1519 1050,1519 1095,1519 1140,1519 1185,1519 1230,1522 1274,1522 1319,1519 1364,1519 1409,1519 1453,1519 1498,1519 1543,1516 1588,1519 1633,1519 1677,1519 1722,1519 1767,1519 1812,1519 1857,1519 1901,1519 1946,1522 1979,1519"/>
+                <TextEquiv>
+                    <Unicode>Journals of the Senate of, 113, O. See Journal of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="730,1586 895,1583 926,1597 1032,1583 1095,1603 1126,1583 1185,1581 1269,1597 1269,1544 1225,1526 730,1539"/>
+                <Baseline points="740,1570 785,1570 829,1573 874,1573 919,1573 964,1573 1009,1573 1053,1573 1098,1573 1143,1573 1188,1573 1233,1573 1274,1570"/>
+                <TextEquiv>
+                    <Unicode>Senate of Pennsylvania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="502,1645 1971,1641 1971,1588 1925,1581 502,1588"/>
+                <Baseline points="513,1624 558,1624 603,1624 647,1627 692,1627 737,1627 782,1627 826,1627 871,1627 916,1627 961,1627 1006,1627 1050,1627 1095,1627 1140,1624 1185,1627 1230,1627 1274,1627 1319,1624 1364,1624 1409,1624 1453,1624 1498,1624 1543,1627 1588,1624 1633,1627 1677,1627 1722,1624 1767,1624 1812,1627 1857,1627 1901,1627 1946,1630 1976,1630"/>
+                <TextEquiv>
+                    <Unicode>Perisonius, 324, O. Jac. Perisonii Rerum per Europam maxime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="724,1698 1720,1680 1975,1709 1975,1639 724,1636"/>
+                <Baseline points="734,1677 779,1674 824,1677 868,1677 913,1677 958,1680 1003,1680 1047,1680 1092,1677 1137,1677 1182,1677 1227,1677 1271,1680 1316,1677 1361,1677 1406,1677 1450,1677 1495,1674 1540,1677 1585,1677 1630,1677 1674,1677 1719,1677 1764,1677 1809,1677 1854,1680 1898,1680 1943,1683 1979,1686"/>
+                <TextEquiv>
+                    <Unicode>Gestarum ab ineunte Saeculo sextodecimo usque ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="721,1740 1876,1746 1960,1777 1960,1693 1883,1685 721,1696"/>
+                <Baseline points="731,1731 776,1734 821,1734 865,1734 910,1731 955,1731 1000,1731 1044,1734 1089,1731 1134,1734 1179,1731 1224,1734 1268,1734 1313,1734 1358,1734 1403,1731 1447,1731 1492,1731 1537,1734 1582,1731 1627,1731 1671,1731 1716,1728 1761,1731 1806,1734 1851,1734 1895,1734 1940,1734 1964,1740"/>
+                <TextEquiv>
+                    <Unicode>Caroli V. Mortem, &amp;c. Commentarii Historici. Lug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="719,1797 1020,1792 1087,1812 1174,1790 1240,1806 1240,1746 1005,1742 987,1755 950,1735 895,1757 871,1742 809,1753 719,1740"/>
+                <Baseline points="728,1785 773,1785 818,1785 862,1785 907,1785 952,1785 997,1785 1041,1785 1086,1785 1131,1788 1176,1788 1221,1785 1244,1785"/>
+                <TextEquiv>
+                    <Unicode>duni Batavorum, 1716.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="502,1854 1962,1859 1962,1784 1920,1779 739,1812 502,1777"/>
+                <Baseline points="513,1839 558,1839 603,1839 647,1839 692,1839 728,1839 737,1839 782,1839 826,1836 871,1839 916,1839 961,1839 1006,1839 1050,1842 1095,1842 1140,1839 1185,1839 1230,1839 1274,1839 1319,1839 1364,1839 1409,1839 1453,1839 1498,1839 1543,1839 1588,1839 1633,1839 1677,1836 1722,1839 1767,1839 1812,1842 1857,1842 1901,1842 1946,1845 1967,1842"/>
+                <TextEquiv>
+                    <Unicode>Petavius, 336, O. D. Petavii Aurelianensis e Soc. Jesu, Rationa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="510,1839 1976,1839 1976,2816 510,2816"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="719,1909 1966,1911 1966,1859 1885,1848 719,1859"/>
+                <Baseline points="728,1892 773,1889 818,1889 862,1889 907,1889 952,1892 997,1892 1041,1889 1086,1892 1131,1892 1176,1895 1221,1892 1265,1892 1310,1892 1355,1889 1400,1892 1444,1892 1489,1892 1534,1892 1579,1892 1624,1889 1668,1892 1713,1892 1758,1892 1803,1892 1848,1895 1892,1895 1937,1898 1970,1898"/>
+                <TextEquiv>
+                    <Unicode>rium Temporum, in quo aetatum omnium sacra profana¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="721,1964 1971,1958 1971,1916 1900,1905 721,1911"/>
+                <Baseline points="731,1949 767,1946 812,1946 856,1946 901,1946 946,1946 991,1946 1035,1946 1080,1946 1125,1946 1170,1946 1215,1946 1259,1946 1304,1946 1349,1946 1394,1946 1439,1946 1483,1946 1528,1946 1573,1946 1618,1946 1662,1943 1707,1946 1752,1946 1797,1946 1842,1949 1886,1949 1931,1949 1976,1946"/>
+                <TextEquiv>
+                    <Unicode>que historia Chronologicis probationibus munita sum¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="719,2021 1544,2008 1544,1962 1485,1955 1263,1973 1141,1955 1089,1979 1031,1947 1012,1966 719,1960"/>
+                <Baseline points="728,1997 773,1997 818,2000 862,2000 907,2000 952,2000 997,2000 1041,2000 1086,2000 1131,2000 1176,2000 1221,2000 1265,2000 1310,2000 1355,2000 1400,2000 1444,2000 1489,1997 1534,1997 1549,2000"/>
+                <TextEquiv>
+                    <Unicode>matim traditur. Franequeræ, 1694.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="501,2079 537,2070 578,2078 589,2068 607,2076 625,2059 651,2068 693,2059 710,2072 730,2072 730,1999 704,2013 647,2008 634,2021 616,2008 585,2013 568,2002 550,2010 539,2002 501,2004"/>
+                <Baseline points="510,2051 555,2051 600,2051 644,2051 689,2051 734,2054"/>
+                <TextEquiv>
+                    <Unicode>Pickering</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="757,2057 1735,2087 1834,2057 1962,2092 1962,2013 1854,2006 757,2015"/>
+                <Baseline points="767,2051 812,2054 856,2054 901,2054 946,2054 991,2054 1035,2054 1080,2054 1125,2051 1170,2054 1215,2051 1259,2051 1304,2051 1349,2051 1394,2051 1439,2054 1483,2051 1528,2051 1573,2054 1618,2054 1662,2054 1707,2054 1752,2054 1797,2057 1842,2057 1886,2057 1931,2057 1967,2057"/>
+                <TextEquiv>
+                    <Unicode>51—8, O. Pickering's Three Letters. Philad. 1799</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="768,2114 818,2127 860,2114 880,2133 930,2111 1344,2120 1344,2074 1282,2052 1252,2070 1210,2050 1174,2078 1058,2081 994,2056 768,2078"/>
+                <Baseline points="779,2098 824,2101 868,2104 913,2104 958,2104 1003,2107 1047,2107 1092,2107 1137,2104 1182,2104 1227,2104 1271,2104 1316,2107 1349,2107"/>
+                <TextEquiv>
+                    <Unicode>2, O. The same Work.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="506,2171 1966,2182 1966,2109 506,2109"/>
+                <Baseline points="516,2155 561,2158 606,2158 650,2158 695,2158 740,2158 785,2161 829,2161 874,2158 919,2158 964,2158 1009,2161 1053,2161 1098,2161 1143,2161 1188,2161 1233,2158 1277,2161 1322,2161 1367,2158 1412,2158 1456,2158 1501,2161 1546,2158 1591,2158 1636,2158 1680,2161 1725,2158 1770,2161 1815,2164 1859,2164 1904,2161 1949,2164 1970,2161"/>
+                <TextEquiv>
+                    <Unicode>Puffendorf, 221, O. An introduction to the history of the princi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="730,2232 1966,2232 1966,2182 1914,2171 730,2182"/>
+                <Baseline points="740,2212 785,2212 829,2215 874,2212 919,2212 964,2212 1009,2212 1053,2212 1098,2215 1143,2212 1188,2212 1233,2215 1277,2215 1322,2215 1367,2212 1412,2215 1456,2215 1501,2215 1546,2215 1591,2215 1636,2212 1680,2212 1725,2215 1770,2215 1815,2215 1859,2215 1904,2215 1949,2218 1970,2218"/>
+                <TextEquiv>
+                    <Unicode>pal Kingdom and States of Europe. Begun by Baron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="711,2272 1968,2285 1966,2232 1817,2221 711,2245"/>
+                <Baseline points="722,2266 767,2266 812,2263 856,2266 901,2266 946,2266 991,2266 1035,2266 1080,2269 1125,2269 1170,2266 1215,2269 1259,2269 1304,2266 1349,2269 1394,2269 1439,2269 1483,2266 1528,2266 1573,2266 1618,2269 1662,2266 1707,2269 1752,2269 1797,2266 1842,2269 1886,2269 1931,2269 1973,2266"/>
+                <TextEquiv>
+                    <Unicode>Puffendorf. Enlarged, &amp;c.; continued down to the year</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="721,2329 902,2344 957,2329 1060,2344 1293,2331 1280,2279 1232,2296 1205,2278 1164,2296 1133,2279 1029,2287 988,2267 917,2289 880,2276 855,2296 831,2279 721,2283"/>
+                <Baseline points="731,2319 776,2316 821,2316 865,2319 910,2319 955,2319 1000,2319 1044,2319 1089,2319 1134,2322 1179,2322 1224,2319 1268,2322 1298,2319"/>
+                <TextEquiv>
+                    <Unicode>1743, by M. Martiniere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1339,2334 1397,2329 1417,2349 1573,2327 1971,2342 1971,2290 1951,2279 1870,2292 1735,2276 1672,2294 1553,2276 1423,2296 1339,2272"/>
+                <Baseline points="1349,2319 1394,2322 1439,2319 1483,2319 1528,2319 1573,2322 1618,2322 1662,2322 1707,2319 1752,2322 1797,2322 1842,2322 1886,2325 1931,2325 1976,2328"/>
+                <TextEquiv>
+                    <Unicode>Improved from the French</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="721,2382 906,2399 1021,2378 1051,2393 1317,2382 1317,2336 1258,2329 1210,2342 932,2329 911,2344 721,2329"/>
+                <Baseline points="731,2370 776,2370 821,2370 865,2373 910,2370 955,2373 1000,2373 1044,2373 1089,2376 1134,2373 1179,2376 1224,2376 1268,2376 1313,2376 1322,2376"/>
+                <TextEquiv>
+                    <Unicode>by Joseph Sayer. 2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1361,2389 1414,2395 1434,2386 1484,2402 1496,2389 1511,2400 1539,2389 1548,2399 1581,2384 1610,2393 1630,2380 1671,2397 1702,2384 1702,2334 1610,2340 1573,2327 1546,2349 1489,2331 1438,2347 1399,2329 1361,2334"/>
+                <Baseline points="1370,2379 1394,2379 1439,2376 1483,2376 1528,2379 1573,2376 1618,2379 1662,2379 1707,2376"/>
+                <TextEquiv>
+                    <Unicode>London, 1748.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="512,2441 1280,2441 1280,2389 1234,2382 512,2388"/>
+                <Baseline points="522,2424 567,2424 612,2424 656,2424 701,2424 746,2424 791,2424 835,2424 880,2424 925,2424 970,2427 1015,2427 1059,2424 1104,2424 1149,2424 1194,2427 1238,2427 1283,2430"/>
+                <TextEquiv>
+                    <Unicode>Rad. de Diceto, 105, F. See Gale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="512,2485 719,2509 759,2487 904,2485 952,2507 1016,2481 1258,2490 1258,2441 1229,2433 662,2433 627,2457 512,2441"/>
+                <Baseline points="522,2477 567,2477 612,2480 656,2477 701,2477 746,2477 791,2477 835,2480 880,2480 925,2477 970,2480 1015,2480 1059,2480 1104,2477 1149,2480 1194,2480 1238,2480 1262,2480"/>
+                <TextEquiv>
+                    <Unicode>Ran. Higden. 105, F. See Gale.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="510,2536 1282,2562 1282,2501 1232,2492 510,2503"/>
+                <Baseline points="519,2528 564,2534 609,2531 653,2534 698,2534 743,2531 788,2531 832,2531 877,2531 922,2531 967,2531 1012,2534 1056,2534 1101,2534 1146,2537 1191,2534 1236,2537 1280,2537 1286,2537"/>
+                <TextEquiv>
+                    <Unicode>Ramsay, 37, O. See Washington.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="512,2595 688,2609 822,2604 844,2586 875,2604 1060,2589 1157,2609 1157,2549 1120,2543 974,2558 933,2542 908,2564 871,2540 838,2564 776,2540 741,2569 662,2542 625,2558 512,2543"/>
+                <Baseline points="522,2585 567,2582 612,2582 656,2585 701,2585 746,2585 791,2585 835,2585 880,2582 925,2585 970,2582 1015,2585 1059,2588 1104,2588 1149,2588 1161,2588"/>
+                <TextEquiv>
+                    <Unicode>Ravaillac, 92, O. See Sully.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="512,2655 1968,2679 1966,2586 510,2593"/>
+                <Baseline points="522,2639 567,2639 612,2639 656,2639 701,2639 746,2639 791,2639 835,2642 880,2642 925,2642 970,2639 1015,2639 1059,2642 1104,2642 1149,2642 1194,2639 1238,2642 1283,2642 1328,2642 1373,2642 1418,2642 1462,2642 1507,2642 1552,2645 1597,2645 1642,2645 1686,2645 1731,2645 1776,2645 1821,2645 1865,2648 1910,2648 1955,2648 1973,2651"/>
+                <TextEquiv>
+                    <Unicode>Lawlinson, 219, O. A New Method of Studying history, &amp;c.;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="719,2710 1964,2703 1891,2653 719,2663"/>
+                <Baseline points="728,2689 773,2689 818,2692 862,2692 907,2692 952,2689 997,2692 1041,2692 1086,2692 1131,2695 1176,2695 1221,2695 1265,2695 1310,2695 1355,2698 1400,2695 1444,2695 1489,2695 1534,2695 1579,2698 1624,2698 1668,2695 1713,2695 1758,2695 1803,2698 1848,2698 1892,2695 1937,2701 1967,2692"/>
+                <TextEquiv>
+                    <Unicode>with a Dissertation of Count Maffei on the use of In¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="711,2767 1916,2776 1962,2773 1962,2703 711,2714"/>
+                <Baseline points="722,2746 767,2746 812,2746 856,2746 901,2746 946,2746 991,2749 1035,2746 1080,2749 1125,2749 1170,2749 1215,2749 1259,2749 1304,2749 1349,2749 1394,2749 1439,2749 1483,2749 1528,2749 1573,2749 1618,2752 1662,2752 1707,2752 1752,2752 1797,2752 1842,2755 1886,2752 1931,2755 1967,2761"/>
+                <TextEquiv>
+                    <Unicode>scriptions and Medals, &amp;c. By Richard Rawlinson,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="721,2817 1575,2826 1573,2762 1258,2756 1208,2784 1152,2756 988,2774 875,2754 820,2780 787,2754 719,2760"/>
+                <Baseline points="728,2803 773,2800 818,2803 862,2803 907,2803 952,2803 997,2803 1041,2803 1086,2803 1131,2803 1176,2806 1221,2806 1265,2806 1310,2806 1355,2803 1400,2806 1444,2803 1489,2806 1534,2806 1579,2806"/>
+                <TextEquiv>
+                    <Unicode>LL. D. &amp;c. 2 vols. London, 1727.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

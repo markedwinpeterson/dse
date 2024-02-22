@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">Printed Library Catalogs</title></titleStmt>
+         <publicationStmt><publisher>Mark Edwin Peterson</publisher></publicationStmt>
+        
+         <sourceDesc>
+            <bibl><title type="main">1829.Penn</title><idno type="Transkribus">1800286</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+         </div>
+      </body>
+   </text>
+</TEI>
